@@ -1,0 +1,779 @@
+﻿{
+  "__base_type": "Trigger",
+  "actions": [
+    {
+      "function_id": "Variable_SetVariable",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "type": "Variable",
+              "variable": {
+                "indices": [],
+                "variable_id": "triggering_damage_source_player"
+              }
+            }
+          ],
+          "id": "variable"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Unit_GetOwningPlayer",
+                "is_enabled": true,
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "function": {
+                          "function_id": "Damage_GetTriggeringDamageSourceUnit",
+                          "is_enabled": true,
+                          "parameters": [
+                            {
+                              "expressions": [
+                                {
+                                  "preset": {
+                                    "preset_id": "Effect_NoEffectParent",
+                                    "value_id": "none"
+                                  },
+                                  "type": "Preset"
+                                }
+                              ],
+                              "id": "effect_parent"
+                            }
+                          ],
+                          "sub_functions": []
+                        },
+                        "type": "Function"
+                      }
+                    ],
+                    "id": "unit"
+                  }
+                ],
+                "sub_functions": []
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "value"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "General_IfThenElse",
+      "is_enabled": true,
+      "parameters": [],
+      "sub_functions": [
+        {
+          "functions": [
+            {
+              "function_id": "Logic_Comparison",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Player_GetTeam",
+                        "is_enabled": true,
+                        "parameters": [
+                          {
+                            "expressions": [
+                              {
+                                "type": "Variable",
+                                "variable": {
+                                  "indices": [],
+                                  "variable_id": "triggering_damage_source_player"
+                                }
+                              }
+                            ],
+                            "id": "player"
+                          }
+                        ],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "value1"
+                },
+                {
+                  "expressions": [
+                    {
+                      "preset": {
+                        "preset_id": "Logic_ComparisonOperator",
+                        "value_id": "eq"
+                      },
+                      "type": "Preset"
+                    }
+                  ],
+                  "id": "op"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "FunctionType",
+                          "implements": "",
+                          "inner_type": "",
+                          "param_id": "",
+                          "sub_directive": "None",
+                          "tags": [],
+                          "type": "Integer"
+                        },
+                        "value": "0"
+                      }
+                    }
+                  ],
+                  "id": "value2"
+                }
+              ],
+              "sub_functions": []
+            }
+          ],
+          "id": "if"
+        },
+        {
+          "functions": [
+            {
+              "function_id": "General_Switch",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Damage_GetTriggeringDamageTargetUnit",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "value"
+                }
+              ],
+              "sub_functions": [
+                {
+                  "functions": [
+                    {
+                      "function_id": "General_SwitchCase",
+                      "is_enabled": true,
+                      "parameters": [
+                        {
+                          "expressions": [
+                            {
+                              "type": "Variable",
+                              "variable": {
+                                "indices": [],
+                                "variable_id": "StormgateSubmerged1"
+                              }
+                            }
+                          ],
+                          "id": "value"
+                        }
+                      ],
+                      "sub_functions": [
+                        {
+                          "functions": [
+                            {
+                              "function_id": "Variable_SetVariable",
+                              "is_enabled": true,
+                              "parameters": [
+                                {
+                                  "expressions": [
+                                    {
+                                      "type": "Variable",
+                                      "variable": {
+                                        "indices": [
+                                          {
+                                            "type": "Value",
+                                            "value": {
+                                              "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                              },
+                                              "value": "0"
+                                            }
+                                          }
+                                        ],
+                                        "variable_id": "ActiveStormgateLastHitTeam1Player"
+                                      }
+                                    }
+                                  ],
+                                  "id": "variable"
+                                },
+                                {
+                                  "expressions": [
+                                      {
+                                        "type": "Variable",
+                                        "variable": {
+                                          "indices": [],
+                                          "variable_id": "triggering_damage_source_player"
+                                        }
+                                      }
+                                  ],
+                                  "id": "value"
+                                }
+                              ],
+                              "sub_functions": []
+                            }
+                          ],
+                          "id": "actions"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "cases"
+                },
+                {
+                  "functions": [],
+                  "id": "default"
+                }
+              ]
+            },
+            {
+              "function_id": "Variable_SetVariable",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "type": "Variable",
+                      "variable": {
+                        "indices": [
+                          {
+                            "type": "Value",
+                            "value": {
+                              "type": {
+                                "directive": "FunctionType",
+                                "implements": "",
+                                "inner_type": "",
+                                "param_id": "",
+                                "sub_directive": "None",
+                                "tags": [],
+                                "type": "Integer"
+                              },
+                              "value": "0"
+                            }
+                          }
+                        ],
+                        "variable_id": "ActiveStormgateLastHitTeam1Player"
+                      }
+                    }
+                  ],
+                  "id": "variable"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Variable",
+                      "variable": {
+                        "indices": [],
+                        "variable_id": "triggering_damage_source_player"
+                      }
+                    }
+                  ],
+                  "id": "value"
+                }
+              ],
+              "sub_functions": []
+            }
+          ],
+          "id": "then"
+        },
+        {
+          "functions": [],
+          "id": "else"
+        }
+      ]
+    },
+    {
+      "function_id": "General_IfThenElse",
+      "is_enabled": true,
+      "parameters": [],
+      "sub_functions": [
+        {
+          "functions": [
+            {
+              "function_id": "Logic_Comparison",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Player_GetTeam",
+                        "is_enabled": true,
+                        "parameters": [
+                          {
+                            "expressions": [
+                              {
+                                "type": "Variable",
+                                "variable": {
+                                  "indices": [],
+                                  "variable_id": "triggering_damage_source_player"
+                                }
+                              }
+                            ],
+                            "id": "player"
+                          }
+                        ],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "value1"
+                },
+                {
+                  "expressions": [
+                    {
+                      "preset": {
+                        "preset_id": "Logic_ComparisonOperator",
+                        "value_id": "eq"
+                      },
+                      "type": "Preset"
+                    }
+                  ],
+                  "id": "op"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "FunctionType",
+                          "implements": "",
+                          "inner_type": "",
+                          "param_id": "",
+                          "sub_directive": "None",
+                          "tags": [],
+                          "type": "Integer"
+                        },
+                        "value": "1"
+                      }
+                    }
+                  ],
+                  "id": "value2"
+                }
+              ],
+              "sub_functions": []
+            }
+          ],
+          "id": "if"
+        },
+        {
+          "functions": [
+            {
+              "function_id": "General_Switch",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Damage_GetTriggeringDamageTargetUnit",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "value"
+                }
+              ],
+              "sub_functions": [
+                {
+                  "functions": [
+                    {
+                      "function_id": "General_SwitchCase",
+                      "is_enabled": true,
+                      "parameters": [
+                        {
+                          "expressions": [
+                            {
+                              "type": "Variable",
+                              "variable": {
+                                "indices": [],
+                                "variable_id": "StormgateSubmerged1"
+                              }
+                            }
+                          ],
+                          "id": "value"
+                        }
+                      ],
+                      "sub_functions": [
+                        {
+                          "functions": [
+                            {
+                              "function_id": "Variable_SetVariable",
+                              "is_enabled": true,
+                              "parameters": [
+                                {
+                                  "expressions": [
+                                    {
+                                      "type": "Variable",
+                                      "variable": {
+                                        "indices": [
+                                          {
+                                            "type": "Value",
+                                            "value": {
+                                              "type": {
+                                                "directive": "FunctionType",
+                                                "implements": "",
+                                                "inner_type": "",
+                                                "param_id": "",
+                                                "sub_directive": "None",
+                                                "tags": [],
+                                                "type": "Integer"
+                                              },
+                                              "value": "0"
+                                            }
+                                          }
+                                        ],
+                                        "variable_id": "ActiveStormgateLastHitTeam2Player"
+                                      }
+                                    }
+                                  ],
+                                  "id": "variable"
+                                },
+                                {
+                                  "expressions": [
+                                      {
+                                        "type": "Variable",
+                                        "variable": {
+                                          "indices": [],
+                                          "variable_id": "triggering_damage_source_player"
+                                        }
+                                      }
+                                  ],
+                                  "id": "value"
+                                }
+                              ],
+                              "sub_functions": []
+                            }
+                          ],
+                          "id": "actions"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "cases"
+                },
+                {
+                  "functions": [],
+                  "id": "default"
+                }
+              ]
+            },
+            {
+              "function_id": "Variable_SetVariable",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "type": "Variable",
+                      "variable": {
+                        "indices": [
+                          {
+                            "type": "Value",
+                            "value": {
+                              "type": {
+                                "directive": "FunctionType",
+                                "implements": "",
+                                "inner_type": "",
+                                "param_id": "",
+                                "sub_directive": "None",
+                                "tags": [],
+                                "type": "Integer"
+                              },
+                              "value": "0"
+                            }
+                          }
+                        ],
+                        "variable_id": "ActiveStormgateLastHitTeam2Player"
+                      }
+                    }
+                  ],
+                  "id": "variable"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Variable",
+                      "variable": {
+                        "indices": [],
+                        "variable_id": "triggering_damage_source_player"
+                      }
+                    }
+                  ],
+                  "id": "value"
+                }
+              ],
+              "sub_functions": []
+            }
+          ],
+          "id": "then"
+        },
+        {
+          "functions": [],
+          "id": "else"
+        }
+      ]
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [
+    {
+      "function_id": "Logic_AndOrConditions",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "preset": {
+                "preset_id": "Logic_AndOrOperator",
+                "value_id": "or"
+              },
+              "type": "Preset"
+            }
+          ],
+          "id": "op"
+        }
+      ],
+      "sub_functions": [
+        {
+          "functions": [
+            {
+              "function_id": "Unit_IsType",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Unit_GetTriggeringUnit",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "unit"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "TypeRef",
+                          "implements": "",
+                          "inner_type": "",
+                          "param_id": "",
+                          "sub_directive": "None",
+                          "tags": [],
+                          "type": "UnitData"
+                        },
+                        "value": "StormgateObjectiveLv1"
+                      }
+                    }
+                  ],
+                  "id": "type"
+                }
+              ],
+              "sub_functions": []
+            },
+            {
+              "function_id": "Unit_IsType",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Unit_GetTriggeringUnit",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "unit"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "TypeRef",
+                          "implements": "",
+                          "inner_type": "",
+                          "param_id": "",
+                          "sub_directive": "None",
+                          "tags": [],
+                          "type": "UnitData"
+                        },
+                        "value": "StormgateObjectiveLv2"
+                      }
+                    }
+                  ],
+                  "id": "type"
+                }
+              ],
+              "sub_functions": []
+            },
+            {
+              "function_id": "Unit_IsType",
+              "is_enabled": true,
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Unit_GetTriggeringUnit",
+                        "is_enabled": true,
+                        "parameters": [],
+                        "sub_functions": []
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "unit"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "TypeRef",
+                          "implements": "",
+                          "inner_type": "",
+                          "param_id": "",
+                          "sub_directive": "None",
+                          "tags": [],
+                          "type": "UnitData"
+                        },
+                        "value": "StormgateObjectiveLv3"
+                      }
+                    }
+                  ],
+                  "id": "type"
+                }
+              ],
+              "sub_functions": []
+            }
+          ],
+          "id": "conditions"
+        }
+      ]
+    }
+  ],
+  "dev_only": false,
+  "enabled": true,
+  "events": [
+    {
+      "function_id": "Unit_OnDamaged",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "preset": {
+                "preset_id": "Unit_AnyUnit",
+                "value_id": "any"
+              },
+              "type": "Preset"
+            }
+          ],
+          "id": "unit"
+        },
+        {
+          "expressions": [
+            {
+              "preset": {
+                "preset_id": "Entity_AnyEntity",
+                "value_id": "any"
+              },
+              "type": "Preset"
+            }
+          ],
+          "id": "source"
+        }
+      ],
+      "sub_functions": []
+    }
+  ],
+  "id": "StormgateTeamLastHitController",
+  "variables": [
+    {
+      "array_size": 1,
+      "id": "triggering_damage_source_player",
+      "initial_values": [
+        {
+          "function": {
+            "function_id": "",
+            "is_enabled": true,
+            "parameters": [],
+            "sub_functions": []
+          },
+          "preset": {
+            "preset_id": "",
+            "value_id": ""
+          },
+          "script": "",
+          "type": "Value",
+          "value": {
+            "type": {
+              "directive": "FunctionType",
+              "implements": "",
+              "inner_type": "",
+              "param_id": "",
+              "sub_directive": "None",
+              "tags": [],
+              "type": "Integer"
+            },
+            "value": "0"
+          },
+          "variable": {
+            "indices": [],
+            "variable_id": ""
+          }
+        }
+      ],
+      "is_array": false,
+      "is_constant": false,
+      "is_id_based_on_name": true,
+      "name": "triggering_damage_source_player",
+      "per_element_initial_values": false,
+      "type": {
+        "directive": "FunctionType",
+        "implements": "",
+        "inner_type": "",
+        "param_id": "",
+        "sub_directive": "None",
+        "tags": [],
+        "type": "Player"
+      }
+    }
+  ]
+}

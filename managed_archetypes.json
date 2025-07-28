@@ -1081,36 +1081,6 @@
     "_StormgateObjectiveSubmerged0": {
       "attack_target_priority": 10,
       "based_on": "StormgateObjectiveSubmerged",
-      "buffs": [
-        "Uncontrollable_Buff"
-      ],
-      "flags": {
-        "alert_when_attacked": true,
-        "award_victory_points_to_other_team": false,
-        "detector": false,
-        "display_ui_description": true,
-        "has_prime_structure": false,
-        "hologram": false,
-        "overlap_resource_a": false,
-        "receives_veterancy_from_kills": true,
-        "requires_cascade_field": false,
-        "requires_cascade_field_to_morph": true,
-        "seek_and_destroy": false,
-        "stealth": false,
-        "uncommandable": true,
-        "unselectable": true,
-        "untargetable": true,
-        "victory_expansion": false
-      },
-      "footprint": {
-        "angled": false,
-        "clumpable": false,
-        "snap": true,
-        "unbuildable": false,
-        "vision_block_height": 0,
-        "x": 4.5,
-        "y": 4.5
-      },
       "id": "_StormgateObjectiveSubmerged0",
       "placed_name": "StormgateSubmerged1"
     },

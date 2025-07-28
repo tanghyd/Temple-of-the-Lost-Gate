@@ -5966,15 +5966,6 @@
       -32768
     ]
   },
-  "B59DAAAD-4C96-C35A-9FA8-48AD7F11595C": {
-    "facing": 1610612764,
-    "kind": "_BossTower_CreepCamp0",
-    "player": 31,
-    "position": [
-      4096,
-      12288
-    ]
-  },
   "B5A54307-4CBC-9B19-81AB-0093D3953F47": {
     "data": {
       "seed": 24339
@@ -6323,6 +6314,15 @@
   "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
     "facing": 0,
     "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
     "player": 31,
     "position": [
       0,

@@ -1,0 +1,56 @@
+﻿{
+  "__base_type": "GlobalVariable",
+  "array_size": 1,
+  "based_on": "GlobalVariable",
+  "id": "StormgateGroup",
+  "initial_values": [
+    {
+      "function": {
+        "function_id": "",
+        "guid": "",
+        "is_enabled": true,
+        "parameters": [],
+        "sub_functions": []
+      },
+      "guid": "",
+      "preset": {
+        "guid": "",
+        "preset_id": "Unit_NoUnit",
+        "value_id": "none"
+      },
+      "script": "",
+      "type": "Preset",
+      "value": {
+        "guid": "",
+        "type": {
+          "directive": "None",
+          "implements": "",
+          "inner_type": "",
+          "param_id": "",
+          "sub_directive": "None",
+          "tags": [],
+          "type": ""
+        },
+        "value": ""
+      },
+      "variable": {
+        "guid": "",
+        "indices": [],
+        "variable_id": ""
+      }
+    }
+  ],
+  "is_array": true,
+  "is_constant": false,
+  "name": "",
+  "per_element_initial_values": true,
+  "type": {
+    "directive": "FunctionType",
+    "implements": "",
+    "inner_type": "",
+    "param_id": "",
+    "sub_directive": "None",
+    "tags": [],
+    "type": "Unit"
+  }
+}
