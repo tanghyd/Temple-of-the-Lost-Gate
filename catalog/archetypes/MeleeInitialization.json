@@ -71,7 +71,7 @@
             {
               "preset": {
                 "preset_id": "Preset_OnOff",
-                "value_id": "on"
+                "value_id": "off"
               },
               "type": "Preset"
             }

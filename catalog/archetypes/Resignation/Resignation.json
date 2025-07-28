@@ -1,6 +1,54 @@
 ﻿{
   "actions": [
     {
+      "function_id": "UI_SendChatMessage",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Text_ToText",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "tags": [
+                              "to_text"
+                            ],
+                            "type": "String"
+                          },
+                          "value": "Resignation"
+                        }
+                      }
+                    ],
+                    "id": "value"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "message"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers"
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "group"
+        }
+      ]
+    },
+    {
       "function_id": "Game_EndGameForPlayer",
       "parameters": [
         {
@@ -169,69 +217,7 @@
     }
   ],
   "based_on": "Trigger",
-  "conditions": [
-    {
-      "function_id": "Logic_Comparison",
-      "parameters": [
-        {
-          "expressions": [
-            {
-              "function": {
-                "function_id": "Player_GetTriggeringChatMessage"
-              },
-              "type": "Function"
-            }
-          ],
-          "id": "value1"
-        },
-        {
-          "expressions": [
-            {
-              "preset": {
-                "preset_id": "Logic_ComparisonOperator",
-                "value_id": "eq"
-              },
-              "type": "Preset"
-            }
-          ],
-          "id": "op"
-        },
-        {
-          "expressions": [
-            {
-              "type": "Value",
-              "value": {
-                "type": {
-                  "directive": "FunctionType",
-                  "type": "String"
-                },
-                "value": "!resign"
-              }
-            }
-          ],
-          "id": "value2"
-        }
-      ]
-    }
-  ],
-  "events": [
-    {
-      "function_id": "Player_OnPlayerSendsChatMessage",
-      "parameters": [
-        {
-          "expressions": [
-            {
-              "preset": {
-                "preset_id": "Player_AnyPlayer",
-                "value_id": "Any"
-              },
-              "type": "Preset"
-            }
-          ],
-          "id": "player"
-        }
-      ]
-    }
-  ],
-  "id": "ChatMessageResign"
+  "conditions": [],
+  "events": [],
+  "id": "Resignation"
 }

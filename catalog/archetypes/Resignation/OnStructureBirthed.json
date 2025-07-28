@@ -1,0 +1,128 @@
+﻿{
+  "actions": [
+
+    {
+      "function_id": "UI_SendChatMessage",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Text_ToText",
+                "parameters": [
+                  {
+                    "expressions": [
+                      {
+                        "type": "Value",
+                        "value": {
+                          "type": {
+                            "directive": "FunctionType",
+                            "tags": [
+                              "to_text"
+                            ],
+                            "type": "String"
+                          },
+                          "value": "OnStructureBirthed"
+                        }
+                      }
+                    ],
+                    "id": "value"
+                  }
+                ]
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "message"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers"
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "group"
+        }
+      ]
+    },
+    {
+      "function_id": "UnitGroup_AddUnit",
+      "parameters": [
+        {
+          "id": "group",
+          "expressions": [
+            {
+              "type": "Variable",
+              "variable": {
+                "variable_id": "TeamStructures",
+                "indices": [
+                  {
+                    "type": "Function",
+                    "function": {
+                      "function_id": "Team_GetTriggeringTeam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "id": "unit",
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Unit_GetTriggeringUnit"
+              },
+              "type": "Function"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [
+    {
+      "function_id": "Entity_HasAnyTags",
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "Unit_GetTriggeringUnit"
+              },
+              "type": "Function"
+            }
+          ],
+          "id": "who"
+        },
+        {
+          "expressions": [
+            {
+              "type": "Value",
+              "value": {
+                "type": {
+                  "directive": "TypeRef",
+                  "type": "SnowTag"
+                },
+                "value": "preventdefeat_elimination"
+              }
+            }
+          ],
+          "id": "tags"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "function_id": "Unit_OnBirthed"
+    }
+  ],
+  "id": "OnStructureBirthed"
+}
