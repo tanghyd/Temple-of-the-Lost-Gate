@@ -39,6 +39,19 @@
         },
         "team": {
           "locked": true,
+          "value": 0
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": true,
           "value": 1
         }
       }
@@ -52,20 +65,7 @@
         },
         "team": {
           "locked": true,
-          "value": 2
-        }
-      }
-    },
-    {
-      "attribute_instance_map_settings": {
-        "additional_overrides": [],
-        "slot_type": {
-          "locked": false,
-          "value": "human"
-        },
-        "team": {
-          "locked": true,
-          "value": 3
+          "value": 1
         }
       }
     }
