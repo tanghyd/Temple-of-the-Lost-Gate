@@ -1,0 +1,8577 @@
+{
+  "002CEC73-4C91-32F3-1A1F-779ACF3D3EB8": {
+    "data": {
+      "seed": 4834
+    },
+    "facing": 1290410519,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      163840,
+      1277952
+    ]
+  },
+  "0032403B-4004-D817-AFF8-62A62F21AB64": {
+    "data": {
+      "seed": 24133
+    },
+    "facing": 47842686,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1032192,
+      180224
+    ]
+  },
+  "00DF4457-4EA0-E0D1-B697-9C99FC562BB3": {
+    "data": {
+      "seed": 10280
+    },
+    "facing": 747460843,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -393216,
+      -671744
+    ]
+  },
+  "01BCE5CB-4303-DB85-1127-6E935DDAC59E": {
+    "data": {
+      "seed": 27059
+    },
+    "facing": 1036450675,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1064960,
+      311296
+    ]
+  },
+  "01F83297-42E7-88F0-244D-D38BC3A6EE75": {
+    "data": {
+      "seed": 29967
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      884736,
+      819200
+    ]
+  },
+  "01FBD714-4C03-A272-829B-51B21252F31E": {
+    "data": {
+      "seed": 18237
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      802816,
+      770048
+    ]
+  },
+  "0266A711-4B08-543B-7E1C-E2AA0335FB06": {
+    "data": {
+      "seed": 15645
+    },
+    "facing": 1347936454,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      524288
+    ]
+  },
+  "02D479C9-448F-1D34-F889-BE99FBADACC4": {
+    "data": {
+      "seed": 24126
+    },
+    "facing": 1449733395,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -212992,
+      -1015808
+    ]
+  },
+  "032EED29-4DC8-0D41-5D88-668B1D4D54C9": {
+    "data": {
+      "seed": 21186
+    },
+    "facing": 1074855965,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -540672,
+      -589824
+    ]
+  },
+  "038ED349-4C4C-87DA-2D78-149B9307959A": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1294336,
+      819200
+    ]
+  },
+  "03C6F7C5-406E-CED4-4688-FCBB46BD8749": {
+    "data": {
+      "seed": 21606
+    },
+    "facing": 335849462,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1048576,
+      212992
+    ]
+  },
+  "03D2D800-4A8C-7B3B-E395-D08D4B37029B": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      0,
+      1179648
+    ]
+  },
+  "03DA9623-4E3D-A374-2B77-DBA3731FC482": {
+    "data": {
+      "seed": 7759
+    },
+    "facing": 629426926,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -131072,
+      -1261568
+    ]
+  },
+  "03FC39D5-46F5-2EED-35B2-4E8625B0E296": {
+    "data": {
+      "seed": 19920
+    },
+    "facing": 943566949,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -212992,
+      -933888
+    ]
+  },
+  "04D64C6E-498D-698A-B818-7AB2D1F875A4": {
+    "data": {
+      "seed": 18647
+    },
+    "facing": 948875493,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -114688,
+      983040
+    ]
+  },
+  "04FAE233-443B-7114-87CC-589CDFA154FF": {
+    "data": {
+      "seed": 28102
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      212992,
+      -966656
+    ]
+  },
+  "050BCA67-4506-17F1-5241-ADABFCF82C49": {
+    "data": {
+      "seed": 27601
+    },
+    "facing": 1370874757,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      425984
+    ]
+  },
+  "05102D66-48BA-94E9-92BB-9491030692BE": {
+    "data": {
+      "seed": 7006
+    },
+    "facing": 1717062795,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -917504,
+      -245760
+    ]
+  },
+  "05D456EA-4100-F033-5DB1-6F818FE5191A": {
+    "data": {
+      "seed": 1862
+    },
+    "facing": 1069383522,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      16384,
+      -1277952
+    ]
+  },
+  "064575DD-448D-9811-0F4C-529B6AACD4F8": {
+    "data": {
+      "seed": 16040
+    },
+    "facing": 621038062,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      868352,
+      180224
+    ]
+  },
+  "06AA7D94-441C-99A4-5DFD-17AD1C206061": {
+    "data": {
+      "seed": 9438
+    },
+    "facing": 1434708755,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      229376,
+      1081344
+    ]
+  },
+  "06F5D601-4A72-5723-719A-D7BF80ECCB4F": {
+    "data": {
+      "seed": 22596
+    },
+    "facing": 1840028488,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      278528
+    ]
+  },
+  "07897FD7-4262-AD95-1205-F89C5D72FB74": {
+    "data": {
+      "seed": 17299
+    },
+    "facing": 1646117965,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      917504,
+      245760
+    ]
+  },
+  "078C542E-4C2C-AB61-A2B0-2C84E66C4110": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 732485451,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      425984,
+      1015808
+    ]
+  },
+  "07E3DD69-4CCA-2FB9-68F6-49BF746E9A30": {
+    "data": {
+      "seed": 1847
+    },
+    "facing": 1605287759,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      950272,
+      -278528
+    ]
+  },
+  "0857FD71-481B-58DB-5816-9DBD5C79C0DC": {
+    "data": {
+      "seed": 15954
+    },
+    "facing": 1149602075,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      901120,
+      229376
+    ]
+  },
+  "0894699B-42D8-440D-1CCC-0E818854BB56": {
+    "data": {
+      "seed": 26564
+    },
+    "facing": 140316796,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1196032,
+      -311296
+    ]
+  },
+  "08C531AE-4E65-699A-94D2-0DA12EBDD4E3": {
+    "data": {
+      "seed": 9651
+    },
+    "facing": 386936309,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      901120,
+      262144
+    ]
+  },
+  "0931DDBB-46F2-6F57-9CA0-CFB7170D93E6": {
+    "data": {
+      "seed": 26088
+    },
+    "facing": 1189809690,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -950272,
+      278528
+    ]
+  },
+  "093B36E6-40E9-66E2-5257-BF8F76D939C2": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 1875140487,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      393216,
+      1048576
+    ]
+  },
+  "09D2FF2B-4EE0-585F-0D95-B5AB0CCD874B": {
+    "data": {
+      "seed": 5345
+    },
+    "facing": 1778619402,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -196608,
+      901120
+    ]
+  },
+  "0A268409-498A-D128-2287-17A04187D77D": {
+    "data": {
+      "seed": 2687
+    },
+    "facing": 6815999,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      278528,
+      1048576
+    ]
+  },
+  "0A2AE413-4613-42B0-2A48-609222AAB50E": {
+    "data": {
+      "seed": 12631
+    },
+    "facing": 361360133,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      147456,
+      -1015808
+    ]
+  },
+  "0A82890A-430A-FB90-196E-ADB31B2DED88": {
+    "data": {
+      "seed": 4568
+    },
+    "facing": 1003386724,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      589824,
+      -458752
+    ]
+  },
+  "0AAE07B1-4625-83C2-B48B-9C96459207AB": {
+    "data": {
+      "seed": 27610
+    },
+    "facing": 50333182,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -98304,
+      -1294336
+    ]
+  },
+  "0ACF06C4-4F22-1E54-98D8-9F96BC7BB832": {
+    "data": {
+      "seed": 4568
+    },
+    "facing": 466515827,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -475136,
+      -557056
+    ]
+  },
+  "0AE1E48F-4717-18F4-80EA-04B8BEEF5F64": {
+    "data": {
+      "seed": 5135
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1032192,
+      -540672
+    ]
+  },
+  "0B9B76B1-4BBF-18FF-4E99-8CAB3A4118E9": {
+    "data": {
+      "seed": 10979
+    },
+    "facing": 98225085,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -245760,
+      -1048576
+    ]
+  },
+  "0BC70FC8-4580-ADE1-CC7E-D5903326FD29": {
+    "data": {
+      "seed": 4309
+    },
+    "facing": 1770181386,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      933888,
+      -245760
+    ]
+  },
+  "0BED93F2-4B9C-CA2B-3554-6D8C83F96D19": {
+    "data": {
+      "seed": 1366
+    },
+    "facing": 663703277,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -425984,
+      -688128
+    ]
+  },
+  "0BF5A315-4302-2593-F62B-99A119404086": {
+    "data": {
+      "seed": 7683
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      819200,
+      802816
+    ]
+  },
+  "0C36EDC0-418E-4244-2185-5282E6DA3927": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 1503621905,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -360448
+    ]
+  },
+  "0C3FDEF2-4225-736B-A94A-01AD3204365E": {
+    "data": {
+      "seed": 29895
+    },
+    "facing": 840279080,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      1146880
+    ]
+  },
+  "0CE2BDBB-4D02-DEC3-6A7E-64A48FB6B3B1": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      819200,
+      1294336
+    ]
+  },
+  "0CE2F9DC-4600-E52F-F550-2589994609DE": {
+    "data": {
+      "seed": 15454
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1015808,
+      -376832
+    ]
+  },
+  "0D589C4C-4D34-5DDF-0AA7-11BA02342E98": {
+    "data": {
+      "seed": 6780
+    },
+    "facing": 1605435249,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      245760,
+      -917504
+    ]
+  },
+  "0DAB4348-4D27-9766-1876-B08E1F96FD53": {
+    "data": {
+      "seed": 16506
+    },
+    "facing": 986723684,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1032192,
+      327680
+    ]
+  },
+  "0DEB321C-4B76-A783-FDD7-0B93F6D17575": {
+    "data": {
+      "seed": 4248
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      966656,
+      -196608
+    ]
+  },
+  "0E005AAF-4E13-5829-441A-6BACA0A24F09": {
+    "data": {
+      "seed": 4301
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      -180224
+    ]
+  },
+  "0E903775-4B2A-92F6-1676-DF8612D7231C": {
+    "data": {
+      "seed": 1727
+    },
+    "facing": 1609056270,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      393216,
+      671744
+    ]
+  },
+  "0E92E0B1-45BC-BA3D-8B72-73BCD6BAEE3F": {
+    "data": {
+      "seed": 17586
+    },
+    "facing": 454391283,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      -16384
+    ]
+  },
+  "0EDC53E8-47C6-E408-BC7E-CEA2EAB814C3": {
+    "data": {
+      "seed": 19645
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -278528,
+      966656
+    ]
+  },
+  "0EEE6BAF-4CC5-A3C9-782B-EEBDC02502C5": {
+    "data": {
+      "seed": 9720
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      376832,
+      1015808
+    ]
+  },
+  "0F39CE95-4323-7C61-2180-FC84545C7BE5": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      491520,
+      -1081344
+    ]
+  },
+  "0F4ADEB5-4BBD-9956-706E-2BBB8A13A08D": {
+    "data": {
+      "seed": 24049
+    },
+    "facing": 103156861,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1212416,
+      311296
+    ]
+  },
+  "0F704461-456A-FB62-9546-048477DEA047": {
+    "data": {
+      "seed": 4088
+    },
+    "facing": 520699377,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1146880,
+      294912
+    ]
+  },
+  "0F734D47-4A75-5EC4-611E-389253A9EC78": {
+    "data": {
+      "seed": 1180
+    },
+    "facing": 571474928,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      196608
+    ]
+  },
+  "0F782575-4F36-9037-0398-8EAFB43FAB2A": {
+    "data": {
+      "seed": 4891
+    },
+    "facing": 400076724,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -311296,
+      -1048576
+    ]
+  },
+  "0FB1A046-4FF6-1C0F-0E1C-6D9C627DDE52": {
+    "data": {
+      "seed": 29325
+    },
+    "facing": 1092239959,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      344064,
+      -1146880
+    ]
+  },
+  "1105E11F-4D41-30B0-48F0-DA9F7F1883D9": {
+    "data": {
+      "seed": 3045
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -819200,
+      884736
+    ]
+  },
+  "113F72DF-4F06-015D-182D-B3AB91111D0A": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 536870897,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -98304,
+      -966656
+    ]
+  },
+  "115A7BD3-414F-2A19-C477-769A516C2DFB": {
+    "data": {
+      "seed": 2502
+    },
+    "facing": 731240203,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -606208,
+      491520
+    ]
+  },
+  "1178AA96-4D4B-6B96-46A3-B9B090CEE8CC": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -491520,
+      1081344
+    ]
+  },
+  "11A46804-4283-4F8B-5FF8-6B9BCC55BC7C": {
+    "data": {
+      "seed": 27610
+    },
+    "facing": 50333182,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -81920,
+      -1277952
+    ]
+  },
+  "11B915C2-4A2A-A095-C358-2DB0C9381D5B": {
+    "data": {
+      "seed": 19366
+    },
+    "facing": 428045044,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -425984,
+      -606208
+    ]
+  },
+  "1217B377-478D-BD23-0F5A-C99A2819E05B": {
+    "data": {
+      "seed": 25750
+    },
+    "facing": 259497720,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1114112,
+      -294912
+    ]
+  },
+  "12428A33-40DD-DBF5-F6D0-68AB35B4D769": {
+    "data": {
+      "seed": 11300
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      376832
+    ]
+  },
+  "1335D0B6-489D-46F4-0A1E-E4934425C303": {
+    "data": {
+      "seed": 27363
+    },
+    "facing": 884042087,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      131072,
+      -1294336
+    ]
+  },
+  "13B6D677-43F6-0CB8-F8D6-4F9FB318EED8": {
+    "data": {
+      "seed": 17291
+    },
+    "facing": 1232294681,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      409600,
+      638976
+    ]
+  },
+  "13E8451B-4CBD-95DC-03E4-DBB4140A3C4E": {
+    "data": {
+      "seed": 8726
+    },
+    "facing": 1383523589,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -901120,
+      147456
+    ]
+  },
+  "14511740-4CB1-7495-4A60-FAB8A20563F3": {
+    "data": {
+      "seed": 9533
+    },
+    "facing": 2004905731,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      147456,
+      901120
+    ]
+  },
+  "1493519D-487C-661B-FABE-3DBFC1E81220": {
+    "data": {
+      "seed": 1723
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -950272,
+      -819200
+    ]
+  },
+  "14960D37-4C71-B98B-ADAE-74A639D4D254": {
+    "data": {
+      "seed": 22277
+    },
+    "facing": 956576229,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      65536
+    ]
+  },
+  "14B91845-45CB-E27D-29E0-6884E95EEEA4": {
+    "data": {
+      "seed": 16723
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -786432
+    ]
+  },
+  "152B43A9-4929-98F1-EDE3-6395AB384CC0": {
+    "data": {
+      "seed": 25143
+    },
+    "facing": 2027860419,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      688128,
+      -425984
+    ]
+  },
+  "15913A99-4A56-C20E-4F85-F2B1617614AD": {
+    "data": {
+      "seed": 30902
+    },
+    "facing": 1734250187,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1015808,
+      212992
+    ]
+  },
+  "1596855B-4444-7DC9-71DE-6D80A7A1F70B": {
+    "data": {
+      "seed": 16961
+    },
+    "facing": 856172008,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      180224
+    ]
+  },
+  "162DFF1C-4F3B-FABA-0D07-37BA4ABBEACB": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 264527736,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1015808,
+      425984
+    ]
+  },
+  "1673117A-4DBD-0D3F-CFF3-C194A3055CA6": {
+    "data": {
+      "seed": 21199
+    },
+    "facing": 1758220682,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1130496,
+      311296
+    ]
+  },
+  "1699B018-4D37-844B-0F4A-15921BA31C89": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 536870882,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      720896,
+      -1146880
+    ]
+  },
+  "17708158-43A6-2E09-67A8-7AADFE46BD54": {
+    "data": {
+      "seed": 30628
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      147456
+    ]
+  },
+  "179CC368-455D-2600-CDAE-3382B850ED02": {
+    "data": {
+      "seed": 10211
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      950272,
+      114688
+    ]
+  },
+  "17C6DA70-489E-6512-14E7-62BE452A41D3": {
+    "data": {
+      "seed": 10631
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      180224,
+      884736
+    ]
+  },
+  "17C977FB-4794-5C7F-AB45-6A99BC1740D5": {
+    "data": {
+      "seed": 13538
+    },
+    "facing": 915074294,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -573440,
+      507904
+    ]
+  },
+  "183EC5CE-4265-B2BB-36EE-C3A598B48532": {
+    "data": {
+      "seed": 10992
+    },
+    "facing": 2044048326,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      -1146880
+    ]
+  },
+  "191BEE82-444F-31D7-A737-BC9003301E6A": {
+    "data": {
+      "seed": 30563
+    },
+    "facing": 1835113160,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1015808,
+      -491520
+    ]
+  },
+  "1A81ECDA-4DBE-183E-3B49-41A8D9DAE224": {
+    "data": {
+      "seed": 7506
+    },
+    "facing": 215095674,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -147456,
+      -901120
+    ]
+  },
+  "1AF9E0C9-4D4C-F4C5-C533-B786BA889A21": {
+    "data": {
+      "seed": 27709
+    },
+    "facing": 1528837777,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1064960,
+      245760
+    ]
+  },
+  "1B42AC77-4FE9-2E1C-D829-26A7A9CD2D96": {
+    "data": {
+      "seed": 11036
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      393216,
+      1081344
+    ]
+  },
+  "1C19C520-4F29-3B70-F49C-55B298ABC07A": {
+    "facing": 2034144272,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      -786432,
+      0
+    ]
+  },
+  "1C34375C-4030-698C-60D4-21A057164F9E": {
+    "data": {
+      "seed": 4409
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      245760,
+      901120
+    ]
+  },
+  "1C4B1455-430C-9EA4-F095-D883BF162857": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      999424,
+      -98304
+    ]
+  },
+  "1CAB4EDF-4F58-1DE9-1E33-9FAEAEA3AF7D": {
+    "data": {
+      "seed": 9220
+    },
+    "facing": 295478071,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      999424,
+      180224
+    ]
+  },
+  "1CC3AFAB-453E-F8EF-147E-AC89D6C9E6A0": {
+    "data": {
+      "seed": 11157
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      131072,
+      901120
+    ]
+  },
+  "1CE3D9E9-4889-C3B1-6A09-F5B85920AC5C": {
+    "data": {
+      "seed": 6536
+    },
+    "facing": 1528165953,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1245184,
+      196608
+    ]
+  },
+  "1D140418-4A99-BC62-E403-1AA22B82B950": {
+    "data": {
+      "seed": 10205
+    },
+    "facing": 298689399,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1179648,
+      278528
+    ]
+  },
+  "1DAF3F4B-4D81-8B74-C3C3-2AAADD224858": {
+    "data": {
+      "seed": 27708
+    },
+    "facing": 310519031,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      573440,
+      -507904
+    ]
+  },
+  "1DD8B093-4177-0BB3-ECCD-62976B333FCF": {
+    "data": {
+      "seed": 15838
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      966656,
+      147456
+    ]
+  },
+  "1E03AC2F-4B8B-5E1B-AF51-A28D29F22A1F": {
+    "data": {
+      "seed": 24079
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      868352,
+      -229376
+    ]
+  },
+  "1F14B2B2-4579-CA86-7CF0-F38680F798F7": {
+    "data": {
+      "seed": 12025
+    },
+    "facing": 669568973,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      278528
+    ]
+  },
+  "1F1B633A-4AA0-EC56-8FFD-01AE3A422DD2": {
+    "data": {
+      "seed": 19592
+    },
+    "facing": 1115522332,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -491520,
+      -1015808
+    ]
+  },
+  "1F21429C-48A2-8CCC-AEE8-A1B888DC1B57": {
+    "data": {
+      "seed": 29895
+    },
+    "facing": 840279080,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -245760,
+      1064960
+    ]
+  },
+  "1F606A54-470F-1AA8-2FC0-BF832B6578E8": {
+    "data": {
+      "seed": 32286
+    },
+    "facing": 14680575,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1179648,
+      311296
+    ]
+  },
+  "1F934BAF-4EAE-8724-DAD1-549C170363A4": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1130496,
+      -1048576
+    ]
+  },
+  "1FDD0D43-4211-7E80-0FC2-5F8A9F96DC39": {
+    "data": {
+      "seed": 14496
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -802816,
+      851968
+    ]
+  },
+  "1FDF9638-4525-7ACF-A83D-A59E40AE11CE": {
+    "data": {
+      "seed": 22485
+    },
+    "facing": 1519301905,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      196608,
+      966656
+    ]
+  },
+  "20BA4506-4566-8CBC-8588-06A51C94140D": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1081344,
+      491520
+    ]
+  },
+  "20DDDEAF-4106-DF5B-E6CD-10B39D1C28C9": {
+    "data": {
+      "seed": 11552
+    },
+    "facing": 854713800,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1097728,
+      245760
+    ]
+  },
+  "2181A978-4B4B-1149-9044-A4A6C0C4FFAB": {
+    "data": {
+      "seed": 27221
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      147456,
+      -966656
+    ]
+  },
+  "21A1B206-4829-13DB-F55E-7CBCBC5E6674": {
+    "data": {
+      "seed": 32185
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -770048
+    ]
+  },
+  "21FB6A4F-4F4A-084E-C1AB-3B9C3DDD8DAC": {
+    "facing": 1072237740,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      0,
+      -1179648
+    ]
+  },
+  "220AD4A6-4472-1251-D779-AF9B2440DE4E": {
+    "data": {
+      "seed": 8793
+    },
+    "facing": 825696873,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      65536
+    ]
+  },
+  "221BD73F-4325-BEF5-F1A1-9C89559BD6A3": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 1534834449,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -393216,
+      -1048576
+    ]
+  },
+  "222AD196-4B8D-BC37-F68B-56BBD9C737FA": {
+    "data": {
+      "seed": 21862
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1081344,
+      360448
+    ]
+  },
+  "229F04A9-4E78-FFEC-8D1D-E2B9E4F1244C": {
+    "data": {
+      "seed": 8141
+    },
+    "facing": 788831722,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -245760,
+      1032192
+    ]
+  },
+  "22D39EE2-445E-25E4-AD7F-EA99A82F4B27": {
+    "facing": 0,
+    "kind": "_Destructible_Blocked_ResourceB_Generator_2x4",
+    "player": 0,
+    "position": [
+      0,
+      -1048576
+    ]
+  },
+  "22E5FAA7-4367-D45B-922E-1BBC854F966E": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -819200,
+      -1294336
+    ]
+  },
+  "231194DB-4B20-EEB6-4505-A4915BB6E002": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      688128,
+      -884736
+    ]
+  },
+  "23447197-4D1F-D7B7-9052-478848E5514D": {
+    "data": {
+      "seed": 26510
+    },
+    "facing": 2103851777,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -491520,
+      -606208
+    ]
+  },
+  "23466171-48A2-1493-BE6E-1F972EEA4A9E": {
+    "data": {
+      "seed": 9856
+    },
+    "facing": 864724711,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      557056,
+      983040
+    ]
+  },
+  "234F65AA-4195-F132-2D93-7687C0FF7A48": {
+    "data": {
+      "seed": 17689
+    },
+    "facing": 484981234,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1114112,
+      -278528
+    ]
+  },
+  "2362F304-445B-351E-ACF9-89A7A896F2E4": {
+    "data": {
+      "seed": 13250
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -999424,
+      245760
+    ]
+  },
+  "2399811D-4607-6A69-090D-4FA64CA19DCA": {
+    "data": {
+      "seed": 604
+    },
+    "facing": 1301748503,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1114112,
+      278528
+    ]
+  },
+  "23CFDB3D-44CD-E470-19E8-03A06F19A4FA": {
+    "data": {
+      "seed": 4088
+    },
+    "facing": 520699377,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1032192,
+      -245760
+    ]
+  },
+  "23ECC94A-48F6-C55F-4A64-A186A20810EF": {
+    "data": {
+      "seed": 1877
+    },
+    "facing": 953610645,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      -524288
+    ]
+  },
+  "2410ABF3-491D-9EEB-AED1-388DA57BDECB": {
+    "data": {
+      "seed": 6501
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -950272,
+      -114688
+    ]
+  },
+  "24A60D85-4BFA-CE2C-2ED9-DAA5DA199466": {
+    "data": {
+      "seed": 19366
+    },
+    "facing": 2038657795,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -557056,
+      475136
+    ]
+  },
+  "253B5497-474B-7C4D-7C29-26B3E9DB0EA3": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 669749165,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -983040,
+      491520
+    ]
+  },
+  "25A62408-45B1-4975-2F23-37A245A55C61": {
+    "data": {
+      "seed": 17469
+    },
+    "facing": 1480863890,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1081344,
+      -229376
+    ]
+  },
+  "25B404CF-4A8A-866D-11EA-06800766D072": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -884736,
+      -688128
+    ]
+  },
+  "260E8F3A-48CD-E14D-0F8F-62AA9CAA45B4": {
+    "data": {
+      "seed": 15824
+    },
+    "facing": 2138406656,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1097728,
+      311296
+    ]
+  },
+  "271E9E5A-4074-95D5-53F6-D39571562F8F": {
+    "data": {
+      "seed": 1154
+    },
+    "facing": 891546151,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1130496,
+      -327680
+    ]
+  },
+  "2744569B-4BBE-6E41-2130-6EAAD6407A6B": {
+    "data": {
+      "seed": 32149
+    },
+    "facing": 2034676361,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      344064,
+      -1179648
+    ]
+  },
+  "27DBFB27-4B22-B8B9-0EE2-B0A8E88653CA": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -442368,
+      0
+    ]
+  },
+  "280D55BD-4935-E37A-4789-688851AE39BB": {
+    "data": {
+      "seed": 20782
+    },
+    "facing": 783654250,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      -114688
+    ]
+  },
+  "282CD998-41F2-6C17-CE20-4BBDF0AB0D0E": {
+    "data": {
+      "seed": 23816
+    },
+    "facing": 1354375574,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1097728,
+      -327680
+    ]
+  },
+  "28AAE6F5-4EB6-907E-CD5A-55A1F41A93B9": {
+    "data": {
+      "seed": 2918
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      81920,
+      -933888
+    ]
+  },
+  "28E2498C-495C-0054-CB96-DD808F9F7191": {
+    "data": {
+      "seed": 32567
+    },
+    "facing": 843129912,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      -1212416
+    ]
+  },
+  "299FC8DE-4832-FD1B-ABE4-FFAC8E3B75F3": {
+    "data": {
+      "seed": 25828
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      786432
+    ]
+  },
+  "29BECFC9-4C37-545A-50A4-A6BAEC3A6031": {
+    "data": {
+      "seed": 30563
+    },
+    "facing": 1298242263,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -458752,
+      -999424
+    ]
+  },
+  "29C1D6A5-456A-8FBE-2CC4-FC9D0B3F5FA2": {
+    "data": {
+      "seed": 4391
+    },
+    "facing": 823812585,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -425984,
+      -1048576
+    ]
+  },
+  "2A0ADEF9-4EA6-C70F-2BC1-4CB0F7726434": {
+    "data": {
+      "seed": 23372
+    },
+    "facing": 1770656522,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1015808,
+      -278528
+    ]
+  },
+  "2A74C9FF-4B0F-7380-CA22-828C8AB20E6E": {
+    "data": {
+      "seed": 10599
+    },
+    "facing": 1630913134,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      245760,
+      -1212416
+    ]
+  },
+  "2B0DEF56-492A-D9ED-A3A7-A693B8E77E2B": {
+    "data": {
+      "seed": 1702
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -999424
+    ]
+  },
+  "2B0FBB1A-486B-4292-5869-1E9C50426C7C": {
+    "data": {
+      "seed": 6400
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      245760,
+      1032192
+    ]
+  },
+  "2D000F58-40D4-BC0E-29EB-428170A8A9DA": {
+    "data": {
+      "seed": 2448
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1179648,
+      -704512
+    ]
+  },
+  "2DC9364A-4A4E-0569-63D1-60A128D42684": {
+    "data": {
+      "seed": 27953
+    },
+    "facing": 472463474,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      540672,
+      557056
+    ]
+  },
+  "2DF5CCE3-42E7-5592-2550-99B8DD8854FF": {
+    "data": {
+      "seed": 25268
+    },
+    "facing": 1842879368,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      327680,
+      1130496
+    ]
+  },
+  "2E15437D-4150-5295-9CEC-74A7694780EC": {
+    "data": {
+      "seed": 22352
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -212992,
+      933888
+    ]
+  },
+  "2E1AA3A4-429F-0BA4-484A-45A50711BE49": {
+    "data": {
+      "seed": 1519
+    },
+    "facing": 1007482875,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      491520,
+      1015808
+    ]
+  },
+  "2EF3EFCF-46D4-EB5E-B660-77A2AAA20743": {
+    "data": {
+      "seed": 884
+    },
+    "facing": 1511978065,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1032192,
+      147456
+    ]
+  },
+  "2F53134B-4DDB-2C05-47E6-DDA0DCA93A05": {
+    "data": {
+      "seed": 28655
+    },
+    "facing": 1207046170,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -901120,
+      -163840
+    ]
+  },
+  "2FED9E91-4BF2-8409-43A3-0F9EF0FC30BF": {
+    "data": {
+      "seed": 17586
+    },
+    "facing": 2065004034,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      81920,
+      1277952
+    ]
+  },
+  "304EB799-4A16-7682-2205-B0BC0AFABBDB": {
+    "data": {
+      "seed": 586
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1015808,
+      -327680
+    ]
+  },
+  "30B17C44-4D0A-5B6E-409F-F9BCAD26C866": {
+    "data": {
+      "seed": 28247
+    },
+    "facing": 1735888651,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      278528,
+      -999424
+    ]
+  },
+  "30FA8F90-4FC2-C098-5DFA-C2A704E86ABF": {
+    "data": {
+      "seed": 7392
+    },
+    "facing": 1322540438,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -720896,
+      442368
+    ]
+  },
+  "31364B73-4184-1856-D6F3-DBA3EB671EEF": {
+    "data": {
+      "seed": 21082
+    },
+    "facing": 1620050190,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      1114112
+    ]
+  },
+  "3142DB68-4232-8BA7-B1A8-9494A178B760": {
+    "data": {
+      "seed": 6520
+    },
+    "facing": 629525230,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -131072,
+      -966656
+    ]
+  },
+  "31C2DF94-4564-D4DF-B2E1-8F96A1F42692": {
+    "data": {
+      "seed": 28735
+    },
+    "facing": 2010755011,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1294336,
+      131072
+    ]
+  },
+  "32C10E79-49A3-EBFE-FB6A-FEA4C7A5770D": {
+    "data": {
+      "seed": 29370
+    },
+    "facing": 2043130754,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      229376
+    ]
+  },
+  "33407854-46B9-A063-2270-648B12CEC31C": {
+    "data": {
+      "seed": 1154
+    },
+    "facing": 891546151,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      999424,
+      245760
+    ]
+  },
+  "33638C9D-4CF9-F6F1-DCE3-E79DB668E92D": {
+    "data": {
+      "seed": 16807
+    },
+    "facing": 1286314327,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -458752,
+      -1032192
+    ]
+  },
+  "3391C584-48A2-980C-315D-CD94073FEBFA": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -753664,
+      1130496
+    ]
+  },
+  "33C3F76A-4EF8-513B-9039-FBB8349A6BCA": {
+    "data": {
+      "seed": 32286
+    },
+    "facing": 14680575,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1097728,
+      -245760
+    ]
+  },
+  "349481CC-42F6-0AB3-F9EE-6582F6D31BE2": {
+    "data": {
+      "seed": 7434
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      278528,
+      -966656
+    ]
+  },
+  "351CFDF7-4022-AC8E-0977-D69AAEB763FD": {
+    "data": {
+      "seed": 2654
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      114688,
+      -950272
+    ]
+  },
+  "35844290-4A1C-79CA-E417-39B7A1B4CB58": {
+    "data": {
+      "seed": 8329
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -393216,
+      -1081344
+    ]
+  },
+  "35CE23F4-42E9-E66F-C73F-8F9F317D7435": {
+    "data": {
+      "seed": 32733
+    },
+    "facing": 1184435482,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1032192,
+      -180224
+    ]
+  },
+  "36750AAC-4D18-25FB-3721-FDBDF87E770B": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 429880052,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1032192,
+      458752
+    ]
+  },
+  "3684A8AD-4399-E580-A60B-12A897A05109": {
+    "data": {
+      "seed": 22948
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      147456
+    ]
+  },
+  "370E2E58-4121-2F9F-9CB4-B98051AB619A": {
+    "data": {
+      "seed": 4834
+    },
+    "facing": 1827281416,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1294336,
+      98304
+    ]
+  },
+  "375293EA-4B0A-65B5-3E61-E2B3EC8254E7": {
+    "data": {
+      "seed": 29929
+    },
+    "facing": 771431402,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      163840
+    ]
+  },
+  "375E2E33-4EE2-FF93-CE04-44B1E0F3257B": {
+    "data": {
+      "seed": 29363
+    },
+    "facing": 1834408616,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -524288,
+      -933888
+    ]
+  },
+  "37D77CB1-4B48-9DB7-F449-57B699C64F12": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1048576,
+      1130496
+    ]
+  },
+  "3810BE6C-455D-A630-49DB-6F96047092D2": {
+    "data": {
+      "seed": 10586
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -819200,
+      -802816
+    ]
+  },
+  "382BAAAA-495B-9ED5-4D17-5F91F7D97E86": {
+    "data": {
+      "seed": 23818
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1032192,
+      786432
+    ]
+  },
+  "3836D581-4448-84F4-19A0-6EA12FE66909": {
+    "data": {
+      "seed": 30328
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      81920
+    ]
+  },
+  "38C47AE2-41A2-9F41-5894-AEBB31EA9FFD": {
+    "data": {
+      "seed": 9697
+    },
+    "facing": 995636836,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      507904,
+      573440
+    ]
+  },
+  "39529CD2-49D9-321A-9841-DEB70C86D37C": {
+    "data": {
+      "seed": 3312
+    },
+    "facing": 1356145046,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1048576,
+      278528
+    ]
+  },
+  "396EEBCD-4D4C-D53E-C408-02BEC0A8C9EF": {
+    "data": {
+      "seed": 14992
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      851968,
+      229376
+    ]
+  },
+  "3A548CB6-48C8-3B21-7D18-CC8F27D5ABD5": {
+    "data": {
+      "seed": 6377
+    },
+    "facing": 1395582580,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      327680,
+      1097728
+    ]
+  },
+  "3C06B8C6-41B9-C956-095F-5CAB0E39CA0B": {
+    "data": {
+      "seed": 4391
+    },
+    "facing": 1897554438,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      491520,
+      983040
+    ]
+  },
+  "3C9A0EBC-4ADD-9DDF-4082-109D3A13AB9C": {
+    "data": {
+      "seed": 11399
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      196608,
+      868352
+    ]
+  },
+  "3D85A906-45E0-3A11-E898-99B0667C10B3": {
+    "data": {
+      "seed": 1875
+    },
+    "facing": 500644722,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1146880,
+      -344064
+    ]
+  },
+  "3DD92330-48AE-5D3A-A770-E684E53CF9FD": {
+    "data": {
+      "seed": 7242
+    },
+    "facing": 1087652311,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      -1163264
+    ]
+  },
+  "3E5CF9B7-474E-6BA0-8F54-41B71FFA41FF": {
+    "data": {
+      "seed": 8793
+    },
+    "facing": 288825975,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -32768,
+      -1277952
+    ]
+  },
+  "3E7E9EEA-4B5C-6100-CCB5-7A80556688F2": {
+    "data": {
+      "seed": 20225
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -950272,
+      -245760
+    ]
+  },
+  "3EE08716-45C3-8133-A7B1-6B9CC3107C2A": {
+    "data": {
+      "seed": 26774
+    },
+    "facing": 944713829,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -229376,
+      901120
+    ]
+  },
+  "3EE832CB-4837-5C85-ACFD-669225E80B71": {
+    "data": {
+      "seed": 23165
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      147456,
+      933888
+    ]
+  },
+  "401A3A4D-4FCE-05E9-EFF1-2D859F98A337": {
+    "data": {
+      "seed": 16038
+    },
+    "facing": 1338154902,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1097728,
+      327680
+    ]
+  },
+  "4085CFD6-416E-07C7-556A-27BC1E3FAD37": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 536870897,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -98304,
+      -999424
+    ]
+  },
+  "40993F6E-4CF2-9D35-2E5A-9B8A8AE04DAD": {
+    "data": {
+      "seed": 32747
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -147456,
+      933888
+    ]
+  },
+  "40B65049-45C2-F125-CB02-09955EA4EDD7": {
+    "data": {
+      "seed": 5135
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -442368,
+      -1064960
+    ]
+  },
+  "4105FD3C-46F1-8327-2945-37B34CB169A4": {
+    "data": {
+      "seed": 981
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      851968,
+      196608
+    ]
+  },
+  "417ED492-4722-BEAE-80DA-928384F5EF5F": {
+    "data": {
+      "seed": 18554
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -540672,
+      -1032192
+    ]
+  },
+  "41C21D05-436C-2D21-253A-6B8B64791963": {
+    "data": {
+      "seed": 20182
+    },
+    "facing": 1339563926,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -278528,
+      -1048576
+    ]
+  },
+  "420A4C0F-4581-C07A-3674-7987B6E6CC37": {
+    "data": {
+      "seed": 4731
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -147456
+    ]
+  },
+  "426D258E-48F9-5D79-78FC-60BD5F4F6235": {
+    "data": {
+      "seed": 8258
+    },
+    "facing": 1323146710,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -933888,
+      -180224
+    ]
+  },
+  "427E20F7-4586-F98D-263B-39B30C95222E": {
+    "data": {
+      "seed": 29998
+    },
+    "facing": 256171640,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -589824,
+      540672
+    ]
+  },
+  "42F62830-441D-6422-9C79-D89673BA72A2": {
+    "facing": 1072237680,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      1179648,
+      0
+    ]
+  },
+  "4308D14F-4E75-4566-BC24-B5A8C4638579": {
+    "data": {
+      "seed": 17131
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      819200,
+      -950272
+    ]
+  },
+  "430F79E7-42A4-A347-D4D2-3AAC6B5B1A0C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -1179648,
+      0
+    ]
+  },
+  "43E00901-4D04-2E69-81A8-588BB4497EAB": {
+    "data": {
+      "seed": 651
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -983040,
+      -245760
+    ]
+  },
+  "44B111C9-4A7E-C29F-C500-419EEA433061": {
+    "data": {
+      "seed": 1962
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      229376,
+      -851968
+    ]
+  },
+  "44BC6AC1-40B1-4B9B-E36A-F294B4809C38": {
+    "data": {
+      "seed": 5356
+    },
+    "facing": 905325490,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      -1130496
+    ]
+  },
+  "44C76DE1-4E7C-3BB2-AEE2-98B0A39A4833": {
+    "data": {
+      "seed": 17131
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -114688,
+      -933888
+    ]
+  },
+  "46B3CA61-4343-02BF-9E49-7384368512E8": {
+    "data": {
+      "seed": 5282
+    },
+    "facing": 1400776468,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1163264,
+      311296
+    ]
+  },
+  "4719BCF0-4E78-3BA9-34E0-B89586B4964C": {
+    "data": {
+      "seed": 16027
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -704512,
+      1179648
+    ]
+  },
+  "4722AA4C-4779-BC53-CDE3-1AB6BCF90CF7": {
+    "data": {
+      "seed": 29076
+    },
+    "facing": 1415391380,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      65536,
+      1310720
+    ]
+  },
+  "4728ECAE-41C2-8B52-CFC9-02B2187DD9A2": {
+    "data": {
+      "seed": 7247
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -212992
+    ]
+  },
+  "4734C9B0-44CB-CD97-E027-6F8D599B314C": {
+    "data": {
+      "seed": 5276
+    },
+    "facing": 990967300,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      131072,
+      999424
+    ]
+  },
+  "4775930E-49C4-60EB-C75D-75BEEFA6F3B1": {
+    "data": {
+      "seed": 2502
+    },
+    "facing": 194369306,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      442368,
+      655360
+    ]
+  },
+  "47FA6D53-406A-5365-83FA-D9B01D0E32EC": {
+    "data": {
+      "seed": 29807
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -901120
+    ]
+  },
+  "480675C7-4940-C224-6FE4-F9902B037BA8": {
+    "data": {
+      "seed": 10949
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -212992,
+      -868352
+    ]
+  },
+  "484C0635-4387-9BB6-0CF1-EF9EC918061E": {
+    "data": {
+      "seed": 22968
+    },
+    "facing": 2045981698,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      1179648
+    ]
+  },
+  "48A254B6-4F06-6097-B9F0-8096EE67EBBD": {
+    "data": {
+      "seed": 27610
+    },
+    "facing": 587204079,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      16384
+    ]
+  },
+  "4931D2D0-4B6A-E282-BB43-C6BE33E1C4FF": {
+    "data": {
+      "seed": 9083
+    },
+    "facing": 1832131208,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -344064,
+      1146880
+    ]
+  },
+  "493686E9-4D37-23D8-E163-28B3F94658AF": {
+    "data": {
+      "seed": 10327
+    },
+    "facing": 1135036316,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      458752,
+      589824
+    ]
+  },
+  "4946E58C-4DE7-AB90-496B-2A8AFECACE25": {
+    "data": {
+      "seed": 22485
+    },
+    "facing": 2056172802,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      163840
+    ]
+  },
+  "499EC2E2-457C-9FB2-4164-D3A2F90A9A43": {
+    "data": {
+      "seed": 23000
+    },
+    "facing": 1594424865,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      1179648
+    ]
+  },
+  "49AC7397-403E-873C-AA26-6594C47A6B7D": {
+    "data": {
+      "seed": 15390
+    },
+    "facing": 1425140212,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      1097728
+    ]
+  },
+  "49CB0E71-46A6-44E7-1756-CEA756897399": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 2040492802,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      425984,
+      1048576
+    ]
+  },
+  "49E3B21D-4556-E1DF-C11F-CFAC6E444E49": {
+    "data": {
+      "seed": 25305
+    },
+    "facing": 1399924500,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1015808,
+      147456
+    ]
+  },
+  "4A21AF08-45C4-B4DC-1DB6-96969AD73DED": {
+    "data": {
+      "seed": 21299
+    },
+    "facing": 1936041669,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -294912,
+      -1114112
+    ]
+  },
+  "4A624A58-48DD-8B5A-4216-1F9BF30C0309": {
+    "data": {
+      "seed": 15897
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1081344,
+      393216
+    ]
+  },
+  "4A9E5294-42BF-AE19-3A20-2EB9A45EE4A1": {
+    "data": {
+      "seed": 17696
+    },
+    "facing": 1603649359,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -131072,
+      -999424
+    ]
+  },
+  "4B295491-416B-B558-B978-9C9E35BCA00D": {
+    "data": {
+      "seed": 23528
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      917504,
+      819200
+    ]
+  },
+  "4B4BADFF-4633-A302-4AB7-7CAA11D4352A": {
+    "data": {
+      "seed": 25706
+    },
+    "facing": 532578161,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      557056,
+      -540672
+    ]
+  },
+  "4B8DDD2C-47E0-0A53-D8A2-808BDDD7C4E1": {
+    "data": {
+      "seed": 5997
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      786432,
+      -933888
+    ]
+  },
+  "4BBFE7BC-4BD9-D4B0-C6C9-D1933D875BA6": {
+    "data": {
+      "seed": 29057
+    },
+    "facing": 849978664,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      180224,
+      -868352
+    ]
+  },
+  "4BD26088-4AF8-D760-FB68-E19E687F1D16": {
+    "data": {
+      "seed": 29076
+    },
+    "facing": 341649526,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      114688,
+      -1277952
+    ]
+  },
+  "4C52D37E-46BD-B30F-B456-B184936EB091": {
+    "data": {
+      "seed": 2415
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      819200,
+      -917504
+    ]
+  },
+  "4C54FAA3-4591-8B12-A961-EBAB464A8B80": {
+    "data": {
+      "seed": 15569
+    },
+    "facing": 573342768,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      294912,
+      1114112
+    ]
+  },
+  "4C5FA53A-4CF2-C383-62C9-63A41E3BF89A": {
+    "data": {
+      "seed": 17960
+    },
+    "facing": 990541284,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1163264,
+      -311296
+    ]
+  },
+  "4C6EDCC9-41FC-15D8-6504-248DD42A0B3F": {
+    "data": {
+      "seed": 29370
+    },
+    "facing": 1506259857,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      212992,
+      1015808
+    ]
+  },
+  "4CAD88AC-418B-FC43-F2B7-BA939CF67C71": {
+    "data": {
+      "seed": 17376
+    },
+    "facing": 444773619,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -868352,
+      -180224
+    ]
+  },
+  "4D007D10-4718-F28B-F1D6-429643037D87": {
+    "data": {
+      "seed": 2879
+    },
+    "facing": 1261164152,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      1048576
+    ]
+  },
+  "4D033EFC-42FD-2FBF-80D1-5AB0F3E048A8": {
+    "data": {
+      "seed": 22773
+    },
+    "facing": 1482731730,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      655360,
+      -442368
+    ]
+  },
+  "4D3C4564-41C6-0227-3B31-96A2572140BE": {
+    "data": {
+      "seed": 18772
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -917504,
+      -819200
+    ]
+  },
+  "4E55F93B-4809-5E04-E891-098CA34EBA4F": {
+    "data": {
+      "seed": 23000
+    },
+    "facing": 1594424865,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -245760,
+      1097728
+    ]
+  },
+  "4ED41407-4D11-C959-B5A8-31A5A66D35C2": {
+    "data": {
+      "seed": 26022
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      950272,
+      245760
+    ]
+  },
+  "4ED6DC78-4182-41D5-23DD-4AB44750B0A0": {
+    "data": {
+      "seed": 20312
+    },
+    "facing": 18842175,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -196608,
+      -999424
+    ]
+  },
+  "4F0EF0A0-4434-64D1-D856-6DB30A2E0A6F": {
+    "data": {
+      "seed": 30902
+    },
+    "facing": 660508333,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      -163840
+    ]
+  },
+  "4FE964BB-427F-1ADF-8506-C7992F6A21B4": {
+    "facing": 536870882,
+    "kind": "_Wellspring1v3",
+    "player": 0,
+    "position": [
+      -851968,
+      393216
+    ]
+  },
+  "50057CB0-4652-F10E-E59D-92903AEA987E": {
+    "data": {
+      "seed": 26452
+    },
+    "facing": 985625956,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1179648,
+      -344064
+    ]
+  },
+  "50CC71F7-4716-4597-C56C-54AA0CF40353": {
+    "data": {
+      "seed": 30845
+    },
+    "facing": 516078961,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -163840,
+      1277952
+    ]
+  },
+  "513B00B7-4916-F9E8-928E-428CB088E9D3": {
+    "data": {
+      "seed": 21508
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -491520,
+      -1048576
+    ]
+  },
+  "514E7FBA-4984-8B4C-889C-DEB56F9C36FE": {
+    "data": {
+      "seed": 16972
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -770048,
+      802816
+    ]
+  },
+  "518F0BA2-40C8-FCBF-EAF4-39952A548632": {
+    "data": {
+      "seed": 490
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1032192,
+      540672
+    ]
+  },
+  "51A69152-45B1-CB8B-EE3D-6FB262C6BA3C": {
+    "data": {
+      "seed": 3349
+    },
+    "facing": 376319221,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      540672,
+      589824
+    ]
+  },
+  "51B0AB16-4D03-75FA-BCEA-39B7A6D7340A": {
+    "data": {
+      "seed": 27363
+    },
+    "facing": 1420913044,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1261568,
+      196608
+    ]
+  },
+  "52590F42-4622-25F1-174C-E0BF996E35D6": {
+    "data": {
+      "seed": 4961
+    },
+    "facing": 1363288725,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1146880,
+      278528
+    ]
+  },
+  "52CB431D-4163-68BC-D363-198A350BA44F": {
+    "data": {
+      "seed": 6548
+    },
+    "facing": 253648376,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      0
+    ]
+  },
+  "52DFC74C-4492-4A7E-A19F-30B0DA8E6F8B": {
+    "data": {
+      "seed": 11316
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -884736,
+      180224
+    ]
+  },
+  "546DE6FF-45C7-740B-5E6F-729631E2DDC3": {
+    "data": {
+      "seed": 2923
+    },
+    "facing": 1123370524,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      180224,
+      -933888
+    ]
+  },
+  "547D27B6-47C4-D769-9C11-F2A6E5AA2E0C": {
+    "data": {
+      "seed": 604
+    },
+    "facing": 764877502,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -344064,
+      -1163264
+    ]
+  },
+  "548E2D1A-42A0-286C-A144-C681FAC08136": {
+    "data": {
+      "seed": 32743
+    },
+    "facing": 980268196,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      180224,
+      1032192
+    ]
+  },
+  "54A67917-4BA2-8C7C-0754-52816FB6E5EF": {
+    "data": {
+      "seed": 12665
+    },
+    "facing": 1691961740,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -638976,
+      409600
+    ]
+  },
+  "54ECF15C-44D8-72B1-C034-91BECA099C9E": {
+    "data": {
+      "seed": 22277
+    },
+    "facing": 1493447186,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -131072,
+      1294336
+    ]
+  },
+  "560B03F3-4FFD-9B2E-C393-AD8F8353A4DF": {
+    "data": {
+      "seed": 21616
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      868352,
+      -196608
+    ]
+  },
+  "56B6ECE2-4CB2-EADE-33B5-8CB2F786DE9A": {
+    "data": {
+      "seed": 2293
+    },
+    "facing": 1121928732,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1261568,
+      -131072
+    ]
+  },
+  "571F09C1-4644-29D0-FB7B-BDBAD38E21F9": {
+    "data": {
+      "seed": 3467
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1032192,
+      245760
+    ]
+  },
+  "58004C2C-497A-4140-5481-48896C844D3F": {
+    "data": {
+      "seed": 30053
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -360448,
+      -1081344
+    ]
+  },
+  "58FBA857-4B3E-F782-09B6-02A48CA443E7": {
+    "data": {
+      "seed": 32285
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -671744,
+      1163264
+    ]
+  },
+  "590FD180-499E-FA18-4919-2DAD9D565E7B": {
+    "data": {
+      "seed": 12631
+    },
+    "facing": 898231031,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1048576,
+      -212992
+    ]
+  },
+  "5993571E-49E5-43CC-999E-088BCC3AF184": {
+    "data": {
+      "seed": 4568
+    },
+    "facing": 466515827,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -278528
+    ]
+  },
+  "59DABD01-4805-630E-2DDA-F6AFE64AB13F": {
+    "data": {
+      "seed": 13195
+    },
+    "facing": 329688886,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -540672,
+      507904
+    ]
+  },
+  "5A08CA9F-4B08-AF7A-D04A-42B027665E86": {
+    "data": {
+      "seed": 800
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      688128,
+      -360448
+    ]
+  },
+  "5ABE361C-41F7-DA24-E833-B09422CB8E7D": {
+    "data": {
+      "seed": 27158
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      901120,
+      -212992
+    ]
+  },
+  "5ADAD447-4A8D-5265-DF76-0DB76C7E1D28": {
+    "data": {
+      "seed": 1180
+    },
+    "facing": 1108345884,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -196608,
+      -966656
+    ]
+  },
+  "5AE258CD-4508-4C51-DCA0-F1886CAA6A65": {
+    "facing": 0,
+    "kind": "_Destructible_Blocked_ResourceB_Generator_2x4",
+    "player": 0,
+    "position": [
+      1048576,
+      0
+    ]
+  },
+  "5B6809A2-4848-4C0E-FF73-EEA7F8128E1D": {
+    "facing": 0,
+    "kind": "_locationMarkerPlayerStart7",
+    "player": 2,
+    "position": [
+      -1130496,
+      819200
+    ]
+  },
+  "5B850817-40B8-215F-4A76-3582819D4CC7": {
+    "data": {
+      "seed": 2413
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      245760,
+      -950272
+    ]
+  },
+  "5D6177C2-4D00-C5CC-AD10-03B0AD7858F7": {
+    "data": {
+      "seed": 26909
+    },
+    "facing": 584009071,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -524288,
+      -999424
+    ]
+  },
+  "5D649971-49E1-9F96-73D2-899DF8CBCA8D": {
+    "data": {
+      "seed": 18957
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -901120,
+      131072
+    ]
+  },
+  "5D765604-4C81-6576-FECA-5BB4451D6EAB": {
+    "data": {
+      "seed": 3753
+    },
+    "facing": 182146426,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      1130496
+    ]
+  },
+  "5DF4EF94-422C-C5AD-7187-01874B778F18": {
+    "data": {
+      "seed": 5737
+    },
+    "facing": 84199933,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -557056,
+      -983040
+    ]
+  },
+  "5EF1F166-4358-5C3D-2DC8-F7B671F3F2A0": {
+    "data": {
+      "seed": 25331
+    },
+    "facing": 6176895,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      -65536
+    ]
+  },
+  "5FC0D254-4EDF-603E-8E91-798A027B2FE4": {
+    "facing": 1072237680,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      -1179648,
+      0
+    ]
+  },
+  "6081ED3C-4BCE-F6EE-29BA-A08B03857CFE": {
+    "data": {
+      "seed": 26303
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      950272,
+      819200
+    ]
+  },
+  "61A1D41F-4B0A-EBF3-4CD2-75B6B5395D08": {
+    "data": {
+      "seed": 23778
+    },
+    "facing": 1836243688,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      196608,
+      -1261568
+    ]
+  },
+  "61D7A7AC-4DB4-FE78-D79A-608E921E8ACF": {
+    "data": {
+      "seed": 21082
+    },
+    "facing": 1083179293,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1163264,
+      -344064
+    ]
+  },
+  "6204F87B-40B0-5A41-CAC5-FB96B6A3E725": {
+    "data": {
+      "seed": 11473
+    },
+    "facing": 1336270678,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1064960,
+      -327680
+    ]
+  },
+  "622C8943-40DB-3C79-3318-0EB578DAB5AE": {
+    "data": {
+      "seed": 24407
+    },
+    "facing": 1122960924,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -983040,
+      278528
+    ]
+  },
+  "625B72F4-42AB-8A13-1C93-D386CB234319": {
+    "facing": 1525401,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -819200,
+      -1130496
+    ]
+  },
+  "62826906-481E-CEB5-5A50-2CA24DD95B8C": {
+    "data": {
+      "seed": 24380
+    },
+    "facing": 824812073,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1032192,
+      -327680
+    ]
+  },
+  "62DEDF46-446A-BFAC-A254-2287E67E10C7": {
+    "data": {
+      "seed": 20495
+    },
+    "facing": 1975380868,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1015808,
+      -212992
+    ]
+  },
+  "63B8FA08-44D3-4EAF-0916-EBA33620B06B": {
+    "facing": 0,
+    "kind": "_locationMarkerPlayerStart5",
+    "player": 4,
+    "position": [
+      819200,
+      1130496
+    ]
+  },
+  "63EA8E2B-410C-CE57-778C-45A56DFB37B2": {
+    "data": {
+      "seed": 11404
+    },
+    "facing": 1672431501,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -180224,
+      966656
+    ]
+  },
+  "63FCBC55-44B1-00E6-6BF0-85967809AE5C": {
+    "data": {
+      "seed": 10362
+    },
+    "facing": 1723452811,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -32768,
+      -1310720
+    ]
+  },
+  "64294097-4D75-710D-8E8F-02986CF7311A": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 1806227305,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -344064,
+      -999424
+    ]
+  },
+  "64BC9C4F-4160-8C33-890E-8D88A59CF1FC": {
+    "data": {
+      "seed": 8258
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      786432,
+      -1032192
+    ]
+  },
+  "64CED2D7-4772-F1A3-1D1A-E1B10AE0C333": {
+    "data": {
+      "seed": 12504
+    },
+    "facing": 693211820,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -278528,
+      -950272
+    ]
+  },
+  "658EBC4C-4E2A-1AE7-4974-BCB673D2FAEE": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 0,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1081344,
+      262144
+    ]
+  },
+  "65EDA291-457B-1FF0-C336-B2A085C200C6": {
+    "data": {
+      "seed": 490
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1081344,
+      -360448
+    ]
+  },
+  "66991850-48A1-8A78-A479-8699A83EDE4F": {
+    "data": {
+      "seed": 22946
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -81920
+    ]
+  },
+  "675EEDD3-4263-1E49-A232-CFB123228066": {
+    "data": {
+      "seed": 13542
+    },
+    "facing": 1472376722,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1114112,
+      294912
+    ]
+  },
+  "68725714-4582-D339-AB79-209B5A388AE4": {
+    "data": {
+      "seed": 4248
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -999424,
+      311296
+    ]
+  },
+  "68A69005-4C6D-93CC-B493-45A11B8DB424": {
+    "data": {
+      "seed": 6881
+    },
+    "facing": 1593523727,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      32768,
+      1310720
+    ]
+  },
+  "68C52049-4E59-3895-51D5-E197304E6A74": {
+    "data": {
+      "seed": 18661
+    },
+    "facing": 1887772935,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -688128,
+      425984
+    ]
+  },
+  "697CE5F9-4A96-D963-4555-2A8784C9C546": {
+    "data": {
+      "seed": 27601
+    },
+    "facing": 834003800,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      360448,
+      1048576
+    ]
+  },
+  "69F8D67D-447D-BF45-73E6-9585049EF3A8": {
+    "data": {
+      "seed": 27233
+    },
+    "facing": 1092108887,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      -1179648
+    ]
+  },
+  "6A15C273-4FF1-DC3E-65E9-32AA3A1C2CB8": {
+    "facing": 0,
+    "kind": "_Destructible_Blocked_ResourceB_Generator_2x4",
+    "player": 0,
+    "position": [
+      -1048576,
+      0
+    ]
+  },
+  "6B0E3711-4076-C573-7D3F-0899EB79943A": {
+    "data": {
+      "seed": 7344
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1081344,
+      770048
+    ]
+  },
+  "6B2CDC0F-4BA7-F6AA-684D-9C96B8816F2A": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1130496,
+      -753664
+    ]
+  },
+  "6B6EC38F-478D-CA73-7974-EC94E41833E1": {
+    "data": {
+      "seed": 31712
+    },
+    "facing": 2133950080,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -327680,
+      -1064960
+    ]
+  },
+  "6BDDB9BD-4E90-92DA-90EF-3E9B29CFA54C": {
+    "data": {
+      "seed": 7112
+    },
+    "facing": 1295719063,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      147456,
+      1032192
+    ]
+  },
+  "6BE76130-4C8C-F08E-6DCB-4ABB7E337C33": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 536870897,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -262144,
+      -1081344
+    ]
+  },
+  "6C6265A6-461E-7FBF-7671-7F9DD0D9E5E4": {
+    "data": {
+      "seed": 20782
+    },
+    "facing": 1857396104,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      -81920
+    ]
+  },
+  "6C6C01C1-4D18-380D-B6ED-97B4F4171240": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      884736,
+      688128
+    ]
+  },
+  "6C87D5B0-44C1-A025-DDCC-199924E2FDF9": {
+    "data": {
+      "seed": 12855
+    },
+    "facing": 1551071536,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      -1163264
+    ]
+  },
+  "6CC129EC-4473-3A1B-2AEF-2FB6F813BF1D": {
+    "data": {
+      "seed": 20991
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -147456,
+      966656
+    ]
+  },
+  "6D279810-47C6-0CB5-0F87-5D8BC6D0C434": {
+    "data": {
+      "seed": 15999
+    },
+    "facing": 703779788,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -540672,
+      -557056
+    ]
+  },
+  "6DC36F75-4CEC-0308-27A7-159BB37552AD": {
+    "data": {
+      "seed": 30053
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1064960,
+      -442368
+    ]
+  },
+  "6DC641CA-4EFC-7525-D0B2-DB826351711E": {
+    "data": {
+      "seed": 29001
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -196608,
+      933888
+    ]
+  },
+  "6E84BE67-4615-F4A7-D876-A2A0414E94E2": {
+    "data": {
+      "seed": 16944
+    },
+    "facing": 1823840649,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      901120,
+      -147456
+    ]
+  },
+  "6E9AE2CA-4202-90C4-7689-2C9CF9446571": {
+    "data": {
+      "seed": 8621
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      196608,
+      -868352
+    ]
+  },
+  "6F650ACB-469C-CAA6-9E50-6EACB9F26A6A": {
+    "data": {
+      "seed": 13195
+    },
+    "facing": 866559783,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -458752,
+      -589824
+    ]
+  },
+  "706EDEE7-43D9-5B9C-6633-22A9FD2B83A5": {
+    "data": {
+      "seed": 9933
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -901120,
+      245760
+    ]
+  },
+  "706F4694-44CE-0056-1D85-808B540E9DDF": {
+    "data": {
+      "seed": 16317
+    },
+    "facing": 2042753922,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      983040,
+      -278528
+    ]
+  },
+  "70F269BF-476A-2CF0-D843-89AF350CBC69": {
+    "data": {
+      "seed": 17314
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -868352,
+      212992
+    ]
+  },
+  "71B62923-4509-F25C-9BD7-F3BFB906AFB9": {
+    "data": {
+      "seed": 17673
+    },
+    "facing": 1635582734,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1228800,
+      229376
+    ]
+  },
+  "721DD017-452A-3A2D-EAE5-55ACE16B8812": {
+    "data": {
+      "seed": 17917
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -884736,
+      -819200
+    ]
+  },
+  "7233B7E4-47FD-7075-994F-54BD6F9AE933": {
+    "data": {
+      "seed": 17739
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      770048,
+      -999424
+    ]
+  },
+  "72513955-4B2E-4F66-FC03-35A7F0891457": {
+    "data": {
+      "seed": 23557
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -868352,
+      196608
+    ]
+  },
+  "72683B37-4F05-955D-361A-A693D0D53921": {
+    "data": {
+      "seed": 27104
+    },
+    "facing": 883632487,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      475136,
+      557056
+    ]
+  },
+  "728E9DE9-4060-DDFA-8532-85BB9CB47CDC": {
+    "data": {
+      "seed": 7915
+    },
+    "facing": 1252922776,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      983040,
+      -557056
+    ]
+  },
+  "72905095-463A-838D-BA9A-3495D8A65BB9": {
+    "data": {
+      "seed": 16807
+    },
+    "facing": 1823185225,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      983040,
+      -491520
+    ]
+  },
+  "72AD7AA7-46C6-CEC2-820F-9B8385CF696F": {
+    "data": {
+      "seed": 26904
+    },
+    "facing": 451933651,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -245760,
+      917504
+    ]
+  },
+  "72AF6573-49C9-A188-102A-C786738BE616": {
+    "data": {
+      "seed": 12484
+    },
+    "facing": 1842027400,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -999424,
+      131072
+    ]
+  },
+  "7398C8A2-4BAB-C153-C797-4CA1A532CEFE": {
+    "data": {
+      "seed": 1862
+    },
+    "facing": 1606254479,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      114688
+    ]
+  },
+  "73A2E4B8-4464-4DCF-C681-5CA378AE309D": {
+    "data": {
+      "seed": 16451
+    },
+    "facing": 845751528,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -524288,
+      -966656
+    ]
+  },
+  "73A72CF5-4A77-E6D1-58D6-3E8A681744E6": {
+    "data": {
+      "seed": 490
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      442368,
+      1064960
+    ]
+  },
+  "73BBF7EC-4D58-2482-E5C8-BFBE192A9428": {
+    "data": {
+      "seed": 1180
+    },
+    "facing": 1645216781,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      -163840
+    ]
+  },
+  "7407CC56-4E68-1DC1-F3E7-B3AF7610AAA3": {
+    "data": {
+      "seed": 11552
+    },
+    "facing": 854713800,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1179648,
+      -311296
+    ]
+  },
+  "74296C44-4AAB-11D3-C08D-DFB4B923EE6F": {
+    "data": {
+      "seed": 20312
+    },
+    "facing": 555713072,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      -196608
+    ]
+  },
+  "7449C764-4518-E5DA-ED0E-69BA13BA471A": {
+    "data": {
+      "seed": 4463
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      311296,
+      999424
+    ]
+  },
+  "75921F73-47AD-C183-F1CF-89AB8AFE60C4": {
+    "data": {
+      "seed": 9122
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1081344,
+      -393216
+    ]
+  },
+  "75F96EAA-4F28-E286-D1DE-238AACF0BBB4": {
+    "data": {
+      "seed": 2080
+    },
+    "facing": 709973100,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      901120,
+      163840
+    ]
+  },
+  "760A2705-468C-C29C-32B0-51B2129AE1A1": {
+    "data": {
+      "seed": 12214
+    },
+    "facing": 1761022474,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -671744,
+      393216
+    ]
+  },
+  "7613CBAE-4A3E-350A-0BA9-A5B272537F90": {
+    "data": {
+      "seed": 20782
+    },
+    "facing": 246783353,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -16384,
+      1277952
+    ]
+  },
+  "76414D26-4B00-EA1E-A036-FF8D86BC82F4": {
+    "data": {
+      "seed": 30845
+    },
+    "facing": 2126691712,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      98304
+    ]
+  },
+  "766E5A79-4226-1CAE-EE3F-16AD9F5783BA": {
+    "data": {
+      "seed": 1072
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -786432
+    ]
+  },
+  "76CD2956-4550-236D-DEAE-B291FDBF5529": {
+    "data": {
+      "seed": 13803
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      245760,
+      -983040
+    ]
+  },
+  "77BEA6E4-4E89-46E9-099C-7EA9BAB1D637": {
+    "data": {
+      "seed": 7790
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -851968,
+      -802816
+    ]
+  },
+  "78563BEB-4B3D-A329-B9AA-9B8007847E8E": {
+    "data": {
+      "seed": 25828
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      901120,
+      -131072
+    ]
+  },
+  "7884AFA5-457B-8548-C27D-E6B6FEB1A942": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -688128,
+      884736
+    ]
+  },
+  "78B19D22-4857-8198-CB75-8DA7A69753FA": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 1743491019,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -425984
+    ]
+  },
+  "78BA6FD6-4E70-2588-2466-79806E69E029": {
+    "data": {
+      "seed": 3343
+    },
+    "facing": 439153739,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -163840,
+      901120
+    ]
+  },
+  "7A1510F0-4806-B901-C8C3-F3BF45B90AAA": {
+    "data": {
+      "seed": 27059
+    },
+    "facing": 1036450675,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1196032,
+      -344064
+    ]
+  },
+  "7A6D95BC-4460-62E4-CEC9-DCBE25D763B6": {
+    "data": {
+      "seed": 22959
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      884736,
+      -180224
+    ]
+  },
+  "7A97B558-41ED-26F0-3E98-289CB8A8AD7C": {
+    "data": {
+      "seed": 30902
+    },
+    "facing": 123637436,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -229376,
+      -966656
+    ]
+  },
+  "7B550E58-4A33-69D5-E45A-AFBBB4D5B5FE": {
+    "data": {
+      "seed": 16925
+    },
+    "facing": 1776915402,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1032192,
+      -147456
+    ]
+  },
+  "7B8ADD55-4972-02BC-C152-C09B451C997E": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      1294336,
+      -819200
+    ]
+  },
+  "7C76788D-4A49-CCF9-F23F-85AE24395E0D": {
+    "data": {
+      "seed": 3082
+    },
+    "facing": 1159580251,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      262144,
+      1130496
+    ]
+  },
+  "7D170BAF-4966-65C2-4216-469567A62170": {
+    "data": {
+      "seed": 29001
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      212992
+    ]
+  },
+  "7D1B513F-4C6F-D55D-EEE5-12B17666FC65": {
+    "data": {
+      "seed": 3801
+    },
+    "facing": 1673512845,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      524288
+    ]
+  },
+  "7DAB1970-41F2-771C-E646-14AEFAC6B478": {
+    "data": {
+      "seed": 13525
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      966656,
+      278528
+    ]
+  },
+  "7DB0F70E-4B64-8C14-9F96-04BEDCB2AA1C": {
+    "data": {
+      "seed": 22589
+    },
+    "facing": 557498992,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      229376,
+      1228800
+    ]
+  },
+  "7FF0E8FA-4888-7189-D051-D9A3FB541575": {
+    "data": {
+      "seed": 19969
+    },
+    "facing": 1645446221,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      196608
+    ]
+  },
+  "8111A9FE-435A-A185-4B42-12BEAD2A025A": {
+    "data": {
+      "seed": 15383
+    },
+    "facing": 1216287001,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      983040,
+      212992
+    ]
+  },
+  "81788588-4E9E-5E4C-A080-A8A5125F10F0": {
+    "data": {
+      "seed": 22589
+    },
+    "facing": 1094369949,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1228800,
+      -212992
+    ]
+  },
+  "81CDA3CD-4D1C-057A-1A2F-44803B67C643": {
+    "data": {
+      "seed": 11157
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -786432,
+      933888
+    ]
+  },
+  "8217DC2F-4292-6AE8-31D0-F2AFC60C64F2": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 1563835024,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      344064,
+      999424
+    ]
+  },
+  "826E75A1-4C02-A3DD-8FFC-C08AD1724F75": {
+    "data": {
+      "seed": 7242
+    },
+    "facing": 1087652253,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      -1048576
+    ]
+  },
+  "82A0DA2C-4B25-A05A-87A5-B7B3DBCEF5A6": {
+    "data": {
+      "seed": 5910
+    },
+    "facing": 1171164059,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1048576,
+      -212992
+    ]
+  },
+  "83090A54-410A-D3CF-BF64-4C9B64420F17": {
+    "data": {
+      "seed": 15569
+    },
+    "facing": 573342768,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -180224,
+      1032192
+    ]
+  },
+  "837FED4B-46A3-7C78-B2DC-D5A95F15BD66": {
+    "data": {
+      "seed": 19971
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      786432,
+      -966656
+    ]
+  },
+  "838AED9F-4CA2-EB9A-E507-9CA3CA694C6B": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1130496,
+      1048576
+    ]
+  },
+  "83FB044B-423F-B866-33CD-59BDF32C8BBC": {
+    "data": {
+      "seed": 13499
+    },
+    "facing": 1787893002,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      163840
+    ]
+  },
+  "8416E4D9-4D3D-03E2-1CC3-6AAD339EEAF5": {
+    "data": {
+      "seed": 28618
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      114688,
+      933888
+    ]
+  },
+  "845EBD7C-4C57-7204-BDBB-81A904D9D655": {
+    "data": {
+      "seed": 29161
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -770048,
+      1081344
+    ]
+  },
+  "8464F431-4DE9-767D-9968-068580731D63": {
+    "data": {
+      "seed": 27104
+    },
+    "facing": 1420503444,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -606208,
+      425984
+    ]
+  },
+  "846D39E3-41F7-0861-DE50-1C8F9E6382D5": {
+    "data": {
+      "seed": 24049
+    },
+    "facing": 103156861,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1097728,
+      -311296
+    ]
+  },
+  "84E0246D-4A8F-F5D6-43D4-E3A1B0D1D92E": {
+    "data": {
+      "seed": 776
+    },
+    "facing": 1354015126,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1048576,
+      -278528
+    ]
+  },
+  "84ECE2E0-4D50-F2A0-5740-66BF6FFAE146": {
+    "data": {
+      "seed": 13467
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -1032192
+    ]
+  },
+  "850FBA62-4657-AB1F-0015-05A6C94D3B8E": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1081344,
+      -262144
+    ]
+  },
+  "861D39EB-41BF-F8D4-B033-ECBBDC9EA61A": {
+    "data": {
+      "seed": 25137
+    },
+    "facing": 1734463179,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      327680,
+      1064960
+    ]
+  },
+  "867FC0DD-46A1-557A-800A-0F9087743770": {
+    "data": {
+      "seed": 5075
+    },
+    "facing": 290415223,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      1196032
+    ]
+  },
+  "868F367F-48F2-6975-94FD-BABA159E8846": {
+    "data": {
+      "seed": 26439
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1032192,
+      -245760
+    ]
+  },
+  "8697CBEB-42EF-FED3-8160-7B98C3F647D3": {
+    "data": {
+      "seed": 17581
+    },
+    "facing": 1937696517,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1196032,
+      344064
+    ]
+  },
+  "87106ABC-428C-B04B-F94A-809AE36A36FD": {
+    "data": {
+      "seed": 28618
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -819200,
+      950272
+    ]
+  },
+  "88227FA2-4CFD-4977-87BA-0E8C8E08452A": {
+    "data": {
+      "seed": 11109
+    },
+    "facing": 583796079,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1015808,
+      278528
+    ]
+  },
+  "8877D15B-4F34-1601-A3FA-1A88FE0BF849": {
+    "data": {
+      "seed": 17052
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -81920,
+      933888
+    ]
+  },
+  "88A4CC0C-41D2-D2AC-8863-E690697EEF11": {
+    "data": {
+      "seed": 14078
+    },
+    "facing": 802611081,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1179648,
+      344064
+    ]
+  },
+  "88AED41B-42A1-BC76-0FD8-519327424CC2": {
+    "data": {
+      "seed": 28735
+    },
+    "facing": 400142260,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -196608,
+      1261568
+    ]
+  },
+  "8958D484-4551-1A58-58F9-EB908EE89CA4": {
+    "data": {
+      "seed": 21501
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      229376,
+      868352
+    ]
+  },
+  "8BB7FC8A-475B-2B50-FA2D-C4A34A219407": {
+    "data": {
+      "seed": 13671
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -245760,
+      950272
+    ]
+  },
+  "8BCEB7E5-4BFA-0F5E-4FEF-C38E93AE7F52": {
+    "data": {
+      "seed": 19748
+    },
+    "facing": 1124255260,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      589824,
+      -540672
+    ]
+  },
+  "8BE84B4D-4D9A-9B9E-BFEB-DD9555174F70": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      0,
+      442368
+    ]
+  },
+  "8C00AE1D-4F08-38BB-7AA8-D3B33B80BA3C": {
+    "facing": 1610612764,
+    "kind": "_Wellspring1v1",
+    "player": 0,
+    "position": [
+      851968,
+      -393216
+    ]
+  },
+  "8C66C5D4-4C86-88FC-FBB6-60A8D9C2D50F": {
+    "data": {
+      "seed": 4834
+    },
+    "facing": 1827281416,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      81920
+    ]
+  },
+  "8C8AAC06-45F4-E8DF-E943-FC81AE85785F": {
+    "data": {
+      "seed": 17573
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      966656,
+      212992
+    ]
+  },
+  "8CC9A8A3-440B-549F-98B9-FE9C18C10C2F": {
+    "data": {
+      "seed": 11136
+    },
+    "facing": 1466838802,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1196032,
+      311296
+    ]
+  },
+  "8D13C59D-412B-9AF1-9E39-0795602F636D": {
+    "data": {
+      "seed": 14653
+    },
+    "facing": 906587110,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1048576,
+      245760
+    ]
+  },
+  "8D393035-4171-FC87-9046-6DBB2172CDEE": {
+    "data": {
+      "seed": 31250
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1081344,
+      -770048
+    ]
+  },
+  "8D557DDA-464D-F9C5-163E-D49FE3CB86AA": {
+    "data": {
+      "seed": 6310
+    },
+    "facing": 1953278159,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      -1196032
+    ]
+  },
+  "8D8E2B3E-48B5-E50E-96F1-E4872A4A579B": {
+    "data": {
+      "seed": 5472
+    },
+    "facing": 372960357,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -557056,
+      540672
+    ]
+  },
+  "8D9A1CB2-4FBE-3646-0E52-2EBE87EB717F": {
+    "data": {
+      "seed": 11335
+    },
+    "facing": 1075593245,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      278528,
+      950272
+    ]
+  },
+  "8DD63475-47F0-1F35-6F63-5FBD42240E32": {
+    "data": {
+      "seed": 5142
+    },
+    "facing": 1283692824,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      933888,
+      -212992
+    ]
+  },
+  "8E16B3EF-49F2-5C4A-BAAB-49940E51F8AB": {
+    "data": {
+      "seed": 1862
+    },
+    "facing": 2143125376,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      131072,
+      1294336
+    ]
+  },
+  "8EDCD241-4143-7B3B-C4B5-5CA559596951": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1048576,
+      -1130496
+    ]
+  },
+  "8F0EE6D3-40F4-12E6-FC0D-CB9303BE7092": {
+    "data": {
+      "seed": 18407
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -786432,
+      966656
+    ]
+  },
+  "8F24828F-43CA-22F1-2B63-D38CFFC72FD5": {
+    "data": {
+      "seed": 5246
+    },
+    "facing": 1832966792,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      606208,
+      -491520
+    ]
+  },
+  "8F26D296-4CCF-9B3E-1EFD-F8B8530FDE1F": {
+    "data": {
+      "seed": 13526
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -180224,
+      -884736
+    ]
+  },
+  "8F3A9518-450E-A16E-D651-B184AA908E8C": {
+    "data": {
+      "seed": 5408
+    },
+    "facing": 930541270,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      933888,
+      180224
+    ]
+  },
+  "90CD3A36-432C-ED97-5619-50852F0E28B9": {
+    "data": {
+      "seed": 21189
+    },
+    "facing": 125030108,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      0
+    ]
+  },
+  "90E1926C-43FF-E664-DC56-DABF18BC541E": {
+    "data": {
+      "seed": 20357
+    },
+    "facing": 1545238576,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      -1196032
+    ]
+  },
+  "913CE82D-499F-48C0-6ECD-0FA714EC3CD6": {
+    "data": {
+      "seed": 11447
+    },
+    "facing": 1855364424,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -262144,
+      901120
+    ]
+  },
+  "9141DE18-408A-774F-0A21-5BB531955A35": {
+    "data": {
+      "seed": 11036
+    },
+    "facing": 1610612764,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      491520
+    ]
+  },
+  "915CE0EB-4EC3-0710-02DC-92BE89DA9582": {
+    "data": {
+      "seed": 11349
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      835584,
+      819200
+    ]
+  },
+  "91E7D924-4F25-50FC-85E5-028619617753": {
+    "data": {
+      "seed": 28347
+    },
+    "facing": 1182551322,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      131072
+    ]
+  },
+  "9206EFFB-4378-DAED-4BA4-7686A40D854F": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 461092595,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      458752,
+      999424
+    ]
+  },
+  "9207D348-4ABB-7DF1-F528-C48779F249B0": {
+    "data": {
+      "seed": 17573
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      868352,
+      229376
+    ]
+  },
+  "92E7EE25-473C-7ECA-A93D-C4B111537F37": {
+    "data": {
+      "seed": 9309
+    },
+    "facing": 1404168052,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -507904,
+      -573440
+    ]
+  },
+  "944F56C2-443D-B4FD-CFEF-F2835F94FE85": {
+    "data": {
+      "seed": 11966
+    },
+    "facing": 404811828,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -180224,
+      -1032192
+    ]
+  },
+  "94A5D70E-4557-CA21-FF52-35BA54E0F15F": {
+    "data": {
+      "seed": 766
+    },
+    "facing": 1941448581,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -409600,
+      -638976
+    ]
+  },
+  "94DCDCB0-4D23-C7F4-56FD-F380AFB4D1F5": {
+    "data": {
+      "seed": 9021
+    },
+    "facing": 2053633234,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1097728,
+      262144
+    ]
+  },
+  "952ED8CC-4DE8-A4E5-4D6B-BBA1524ABB22": {
+    "data": {
+      "seed": 28604
+    },
+    "facing": 946122917,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      1163264
+    ]
+  },
+  "95B46B70-4389-0378-93EA-5EA82577F75C": {
+    "data": {
+      "seed": 3276
+    },
+    "facing": 1304664983,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1048576,
+      212992
+    ]
+  },
+  "95E34438-43A6-CC91-F937-FEA4EB47182F": {
+    "data": {
+      "seed": 9457
+    },
+    "facing": 1237701529,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1015808,
+      -212992
+    ]
+  },
+  "95EEB903-4C10-2179-ABFA-5EA6FC0BC277": {
+    "data": {
+      "seed": 20782
+    },
+    "facing": 1320525207,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -163840,
+      -1277952
+    ]
+  },
+  "95FADE99-43FF-A666-9F25-05AA58C3F2DB": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 1338269590,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      -344064
+    ]
+  },
+  "961891B8-4252-7011-38DA-CB8603F039E7": {
+    "data": {
+      "seed": 9787
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -835584,
+      -819200
+    ]
+  },
+  "962681E1-4701-995C-C15D-17AD2A1EAAC6": {
+    "data": {
+      "seed": 22277
+    },
+    "facing": 2030318083,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1261568,
+      -196608
+    ]
+  },
+  "963FBCE2-45D0-DF39-1A65-EE853BFA9F96": {
+    "data": {
+      "seed": 16361
+    },
+    "facing": 197973914,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      245760,
+      -999424
+    ]
+  },
+  "96C08C7A-4E8B-247F-C425-AA9590885DA1": {
+    "data": {
+      "seed": 10689
+    },
+    "facing": 1987259652,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      1146880
+    ]
+  },
+  "96D0706C-4207-1679-9C32-C288B90CB79C": {
+    "data": {
+      "seed": 17586
+    },
+    "facing": 1528133137,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      -163840
+    ]
+  },
+  "97482777-4B86-92A9-5167-508FAEB9B589": {
+    "data": {
+      "seed": 1550
+    },
+    "facing": 355740278,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      0,
+      -1310720
+    ]
+  },
+  "980E8023-4B73-91D5-28A0-8AAA5012F693": {
+    "data": {
+      "seed": 4391
+    },
+    "facing": 1360683541,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1032192,
+      -458752
+    ]
+  },
+  "99109B86-41F6-754D-01B4-16B214CDAE3B": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 0,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -999424,
+      98304
+    ]
+  },
+  "994E8300-40D5-AB31-A721-D49AE60A0B6D": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      0,
+      -442368
+    ]
+  },
+  "996D7304-4809-9217-CA41-EEBE28B0D16C": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 195614554,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -393216
+    ]
+  },
+  "99866941-41C4-E046-C6BE-BA8216059CFB": {
+    "data": {
+      "seed": 23206
+    },
+    "facing": 2114649110,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -999424,
+      -245760
+    ]
+  },
+  "9A06FAE7-4454-3CB9-B2EE-90A6BF589300": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      1179648,
+      0
+    ]
+  },
+  "9A808A0A-484D-2583-42F6-628E8920DAD4": {
+    "data": {
+      "seed": 981
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      278528
+    ]
+  },
+  "9A8FDE34-4FBB-865E-6AA5-2CAA372806C0": {
+    "data": {
+      "seed": 10675
+    },
+    "facing": 748525867,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      344064,
+      1163264
+    ]
+  },
+  "9B13C57F-4C9D-E97E-F2DD-729B77743674": {
+    "data": {
+      "seed": 23816
+    },
+    "facing": 1891246471,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -212992,
+      1048576
+    ]
+  },
+  "9B1EE111-41B1-B33E-C878-1EBF92030AAA": {
+    "data": {
+      "seed": 6548
+    },
+    "facing": 1327390230,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      -65536
+    ]
+  },
+  "9B302C96-4424-E7DB-C2B5-4EA584740B65": {
+    "data": {
+      "seed": 586
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1015808,
+      327680
+    ]
+  },
+  "9B30C882-4BEB-D9B2-8801-B3B43FD65CA4": {
+    "data": {
+      "seed": 10162
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1179648,
+      704512
+    ]
+  },
+  "9BD92B2F-40D2-7F00-3C4A-3B90115A3648": {
+    "data": {
+      "seed": 658
+    },
+    "facing": 1807210377,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1081344,
+      229376
+    ]
+  },
+  "9C57FFCE-4102-AFB8-4015-D9B3B6958EDE": {
+    "data": {
+      "seed": 17279
+    },
+    "facing": 160109307,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -557056,
+      -950272
+    ]
+  },
+  "9C7A4C82-4BF5-2570-2F89-12BFA506D4BB": {
+    "data": {
+      "seed": 19957
+    },
+    "facing": 733501291,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      163840,
+      -1277952
+    ]
+  },
+  "9C989A98-48F2-FD75-CACC-F9892AC3E457": {
+    "data": {
+      "seed": 1123
+    },
+    "facing": 62392190,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      131072,
+      966656
+    ]
+  },
+  "9CFEF96F-40F5-D7E6-322A-D08D98CA9630": {
+    "data": {
+      "seed": 17271
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      114688
+    ]
+  },
+  "9DDA098D-4CF4-B5D1-1D80-D1942D50798E": {
+    "data": {
+      "seed": 13187
+    },
+    "facing": 1113228508,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -983040,
+      -114688
+    ]
+  },
+  "9DEDFEC3-4C92-69CD-A961-75B66EC4F8A1": {
+    "data": {
+      "seed": 27610
+    },
+    "facing": 1660945933,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1294336,
+      131072
+    ]
+  },
+  "9E58010D-4460-612C-9389-F0B5C5D8D1B3": {
+    "data": {
+      "seed": 5403
+    },
+    "facing": 1961961989,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -311296
+    ]
+  },
+  "9E5AF402-4312-3D82-47DD-1D89A97D99FD": {
+    "data": {
+      "seed": 11586
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      819200,
+      -884736
+    ]
+  },
+  "9F6A753D-41FB-D6D3-D868-11BE69E75A3A": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 1610612764,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -720896,
+      1146880
+    ]
+  },
+  "9F8C75C8-49E1-6DBE-4D58-FFAC59F12188": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 132878268,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      458752,
+      1032192
+    ]
+  },
+  "9FA1371B-4A29-CD58-0CF7-05BC0804B49F": {
+    "data": {
+      "seed": 29076
+    },
+    "facing": 878520423,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1294336,
+      -131072
+    ]
+  },
+  "A069ED2A-4E44-6D61-9AA1-198CB71DDE03": {
+    "data": {
+      "seed": 6881
+    },
+    "facing": 2130394624,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      -32768
+    ]
+  },
+  "A08E8210-4724-3519-C9F9-BBB267E0BDD1": {
+    "data": {
+      "seed": 27002
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      245760,
+      999424
+    ]
+  },
+  "A09BEA8C-4870-6DB5-DF79-CD9AB93C6549": {
+    "data": {
+      "seed": 7759
+    },
+    "facing": 92556029,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      32768
+    ]
+  },
+  "A0A48A0F-44D4-A3D8-9CAE-57B7282CF5C8": {
+    "data": {
+      "seed": 14665
+    },
+    "facing": 1167559515,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1146880,
+      -278528
+    ]
+  },
+  "A11FE2F1-43AA-5BF8-35F3-F5BC419A16F1": {
+    "data": {
+      "seed": 5208
+    },
+    "facing": 1622475150,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -344064,
+      1179648
+    ]
+  },
+  "A1B2AC8A-44B4-0403-D6F6-6182816ADAC8": {
+    "data": {
+      "seed": 32579
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -901120,
+      163840
+    ]
+  },
+  "A1E1853E-4A81-C281-5E91-8299FEC2DE51": {
+    "data": {
+      "seed": 22330
+    },
+    "facing": 470677490,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      -1179648
+    ]
+  },
+  "A37EF251-411B-23C8-AAF4-769E7728CA0D": {
+    "data": {
+      "seed": 11961
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -245760,
+      983040
+    ]
+  },
+  "A3AC33BB-4D8B-8952-AF20-E5AA3A9D792D": {
+    "data": {
+      "seed": 28254
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      671744,
+      -1163264
+    ]
+  },
+  "A3F5305D-4026-C56E-A946-BDB0A4FD7F1F": {
+    "data": {
+      "seed": 5947
+    },
+    "facing": 728209067,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -180224,
+      999424
+    ]
+  },
+  "A413DDA0-4C6B-C118-7EB0-3B9130FBF5A9": {
+    "data": {
+      "seed": 16038
+    },
+    "facing": 1875025799,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      212992,
+      -1048576
+    ]
+  },
+  "A52F656C-422B-4DF8-E84F-CD8AEC3B0AF3": {
+    "data": {
+      "seed": 17741
+    },
+    "facing": 1077821597,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      245760,
+      -1032192
+    ]
+  },
+  "A6B472FD-4521-962F-FA8E-8391A757A6F1": {
+    "data": {
+      "seed": 11783
+    },
+    "facing": 1373496277,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      1196032
+    ]
+  },
+  "A73C3AA4-48FB-E157-0E56-9DB0F0F6D870": {
+    "data": {
+      "seed": 29929
+    },
+    "facing": 234560505,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      229376,
+      966656
+    ]
+  },
+  "A74F2B6F-49D9-E9C0-C0D1-77958CB0CBA3": {
+    "data": {
+      "seed": 21606
+    },
+    "facing": 1946462213,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -327680,
+      -1097728
+    ]
+  },
+  "A7AF8072-42B3-3E4E-9CB3-F08817DA376E": {
+    "data": {
+      "seed": 28098
+    },
+    "facing": 1896964614,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -327680,
+      -1032192
+    ]
+  },
+  "A8D0A89A-4CEA-2647-8E89-1C8AC9BCBA69": {
+    "data": {
+      "seed": 1478
+    },
+    "facing": 214473082,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1146880,
+      344064
+    ]
+  },
+  "A907BB33-48E9-C94E-BDC0-4C9ADB8DE1DA": {
+    "data": {
+      "seed": 23643
+    },
+    "facing": 267411448,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      344064
+    ]
+  },
+  "A92588D7-46C5-38E4-1C08-EC8DDF7D756D": {
+    "data": {
+      "seed": 20505
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -212992,
+      966656
+    ]
+  },
+  "A932A218-4D2D-50F9-A6F1-6CB6017181AE": {
+    "data": {
+      "seed": 8385
+    },
+    "facing": 931557094,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      212992,
+      -1228800
+    ]
+  },
+  "AA7EFC73-4D04-67F0-F795-AE8EF15B71C2": {
+    "data": {
+      "seed": 9636
+    },
+    "facing": 1498624658,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -622592,
+      458752
+    ]
+  },
+  "AAC3E942-48E2-35E0-DD0D-E4BB35667115": {
+    "data": {
+      "seed": 12614
+    },
+    "facing": 1928504838,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -212992,
+      -1048576
+    ]
+  },
+  "AB7AEFAF-4453-8FD0-4DCB-B589C6405C8E": {
+    "data": {
+      "seed": 7945
+    },
+    "facing": 1636074254,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      458752,
+      622592
+    ]
+  },
+  "ABB77E78-448A-7111-9D97-ADA818F5EAEB": {
+    "data": {
+      "seed": 32285
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1179648,
+      737280
+    ]
+  },
+  "AC0CDF72-4899-644C-97B2-AD89D8026A84": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 1269356408,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      458752
+    ]
+  },
+  "AC71CC64-4F68-DF5C-DADB-FD8406DA313C": {
+    "facing": 0,
+    "kind": "_Destructible_Blocked_ResourceB_Generator_2x4",
+    "player": 0,
+    "position": [
+      0,
+      1048576
+    ]
+  },
+  "AD1ABE69-4666-9E9E-1D05-1C90A6602F43": {
+    "data": {
+      "seed": 10599
+    },
+    "facing": 557171280,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -65536,
+      1277952
+    ]
+  },
+  "AD1C3375-4EC7-06D7-8D0B-B5BFDF00C313": {
+    "data": {
+      "seed": 31087
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -376832,
+      -1015808
+    ]
+  },
+  "AD1E33C6-4F3C-BD19-309A-8D9BEC498C28": {
+    "data": {
+      "seed": 2879
+    },
+    "facing": 1261164152,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      1163264
+    ]
+  },
+  "AD2E3D90-4435-B6F5-8891-1986C6AACC1E": {
+    "data": {
+      "seed": 22711
+    },
+    "facing": 557187696,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      507904,
+      540672
+    ]
+  },
+  "AD32EF52-4113-4FF2-E656-75AD0C25F9A1": {
+    "data": {
+      "seed": 28418
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -770048,
+      999424
+    ]
+  },
+  "AD9891DC-43DC-B6BF-777C-6CBDD1751A38": {
+    "data": {
+      "seed": 31081
+    },
+    "facing": 423473780,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1196032,
+      -278528
+    ]
+  },
+  "ADA64C12-4BD0-4419-17E1-CD9AD69D2017": {
+    "data": {
+      "seed": 15390
+    },
+    "facing": 1425140212,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      1212416
+    ]
+  },
+  "AEA6EB8F-48E4-8B75-5619-9FB9F7E0B4B7": {
+    "data": {
+      "seed": 2413
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      163840,
+      -917504
+    ]
+  },
+  "AEAF8A8E-41DB-FB27-3E11-06B60D59D2CF": {
+    "data": {
+      "seed": 27941
+    },
+    "facing": 1270011768,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -458752,
+      -622592
+    ]
+  },
+  "AEC3710D-4F80-E275-5B22-619F218EDA5B": {
+    "data": {
+      "seed": 28944
+    },
+    "facing": 1083064605,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1228800,
+      212992
+    ]
+  },
+  "AED29169-4DCC-A76B-648B-88B1CFDF47E5": {
+    "data": {
+      "seed": 22773
+    },
+    "facing": 2019602627,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      491520,
+      606208
+    ]
+  },
+  "AEF139A1-452F-EA4F-0693-BE90F7606879": {
+    "data": {
+      "seed": 13187
+    },
+    "facing": 576357551,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      245760,
+      1048576
+    ]
+  },
+  "AFA2913E-42F5-EA1E-2531-5FAAB27ABB6E": {
+    "data": {
+      "seed": 27850
+    },
+    "facing": 1653343501,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      262144,
+      -901120
+    ]
+  },
+  "AFB20B49-4AD8-01A2-F74B-57B50B953CE0": {
+    "data": {
+      "seed": 27145
+    },
+    "facing": 525614705,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      327680,
+      1032192
+    ]
+  },
+  "B007F47A-41B6-0FA2-6154-35ABFCC9C0A0": {
+    "data": {
+      "seed": 24445
+    },
+    "facing": 1468526370,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      -131072
+    ]
+  },
+  "B075CB2D-4CEA-1AD8-0F5F-E69DB70DAEE4": {
+    "data": {
+      "seed": 225
+    },
+    "facing": 768301930,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -999424,
+      -180224
+    ]
+  },
+  "B1D5BE04-4AA1-709C-486E-F984B279E53C": {
+    "facing": 0,
+    "kind": "_Wellspring1v2",
+    "player": 0,
+    "position": [
+      393216,
+      851968
+    ]
+  },
+  "B226D874-4084-39E5-88B4-6BAB329ADA82": {
+    "data": {
+      "seed": 2944
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -966656,
+      -278528
+    ]
+  },
+  "B285349C-40C0-92B4-04A9-6794C1A7AECF": {
+    "data": {
+      "seed": 4450
+    },
+    "facing": 163042171,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      212992,
+      933888
+    ]
+  },
+  "B345F7AE-40B3-8BA0-4CB0-AAAF11E26E60": {
+    "data": {
+      "seed": 1519
+    },
+    "facing": 470611978,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      -458752
+    ]
+  },
+  "B40C7A53-4734-39DE-5ADD-5A85B676B047": {
+    "data": {
+      "seed": 3082
+    },
+    "facing": 1159580251,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -212992,
+      1015808
+    ]
+  },
+  "B42D3ADA-4C49-B737-1697-55A4BED82032": {
+    "data": {
+      "seed": 24774
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      180224
+    ]
+  },
+  "B455C8A0-4E92-E3CD-4AE7-DE99AED2E9D1": {
+    "data": {
+      "seed": 7343
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      966656,
+      786432
+    ]
+  },
+  "B50C274E-4C46-C055-23F0-C8BF313757E7": {
+    "data": {
+      "seed": 3151
+    },
+    "facing": 256466552,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      720896,
+      -442368
+    ]
+  },
+  "B53A14CD-42D3-33C2-6D3F-4F92962DD982": {
+    "data": {
+      "seed": 11153
+    },
+    "facing": 690754156,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      311296
+    ]
+  },
+  "B56FD296-4AFC-FE52-B769-BDBDEEA8AE07": {
+    "data": {
+      "seed": 20495
+    },
+    "facing": 1975380868,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1130496,
+      262144
+    ]
+  },
+  "B583D0A8-4417-E8AD-037F-8ABCF8FDFF99": {
+    "data": {
+      "seed": 28600
+    },
+    "facing": 978728036,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      -32768
+    ]
+  },
+  "B59DAAAD-4C96-C35A-9FA8-48AD7F11595C": {
+    "facing": 1610612764,
+    "kind": "_BossTower_CreepCamp0",
+    "player": 31,
+    "position": [
+      4096,
+      12288
+    ]
+  },
+  "B5A54307-4CBC-9B19-81AB-0093D3953F47": {
+    "data": {
+      "seed": 24339
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      212992,
+      901120
+    ]
+  },
+  "B6210B45-4AB5-B474-288E-C5A57E1FE5EC": {
+    "data": {
+      "seed": 2923
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -786432,
+      1032192
+    ]
+  },
+  "B699AC89-4A69-792F-719B-E4AC22F6DBE7": {
+    "data": {
+      "seed": 10481
+    },
+    "facing": 27591551,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -196608,
+      -1245184
+    ]
+  },
+  "B6A20D14-4027-2531-73E2-F8AB0E6CDC90": {
+    "data": {
+      "seed": 19728
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      212992,
+      868352
+    ]
+  },
+  "B6E97D04-4531-BA52-69FC-C48D83636E5F": {
+    "data": {
+      "seed": 10481
+    },
+    "facing": 564462448,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1212416,
+      245760
+    ]
+  },
+  "B721A33C-4338-B634-79B5-17A7CEDA20D2": {
+    "data": {
+      "seed": 9682
+    },
+    "facing": 1306958807,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      163840,
+      966656
+    ]
+  },
+  "B7DFB69D-48B0-70C5-0CE9-23AFAE4C2667": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      966656,
+      -98304
+    ]
+  },
+  "B7F31804-4AC4-C58E-385E-D18F83494385": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      262144,
+      1081344
+    ]
+  },
+  "B811E0D7-4B77-AE46-0B64-339D3D393A10": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -1081344,
+      -491520
+    ]
+  },
+  "B89AD202-4994-FF9C-7F0C-4EAAF6656724": {
+    "data": {
+      "seed": 29653
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      901120,
+      -163840
+    ]
+  },
+  "B91B79F3-409E-7529-2433-C4BBD8020B1B": {
+    "data": {
+      "seed": 7759
+    },
+    "facing": 1703168780,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -245760,
+      1212416
+    ]
+  },
+  "B930A310-4BA0-7E15-7521-9797B00E5298": {
+    "data": {
+      "seed": 14100
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      147456,
+      -933888
+    ]
+  },
+  "B9DE0CD5-4124-D38C-6DED-06977416689F": {
+    "data": {
+      "seed": 9122
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      491520,
+      1048576
+    ]
+  },
+  "BA07D82C-4A81-4F43-512D-269F1D86BD4F": {
+    "data": {
+      "seed": 30053
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      540672,
+      1032192
+    ]
+  },
+  "BA463764-4624-C309-5C92-80ACB0272C1F": {
+    "data": {
+      "seed": 23167
+    },
+    "facing": 1930700294,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      163840,
+      -901120
+    ]
+  },
+  "BB01D4A8-45E2-B4A5-91F0-6FB5DA75A5A2": {
+    "data": {
+      "seed": 4746
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -802816,
+      819200
+    ]
+  },
+  "BC70AC6D-440A-A592-1424-3EB6B39569F6": {
+    "data": {
+      "seed": 2817
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      802816,
+      -819200
+    ]
+  },
+  "BD53F597-4500-EC17-FE11-D38F5A8799FD": {
+    "data": {
+      "seed": 1067
+    },
+    "facing": 1857838472,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1130496,
+      -262144
+    ]
+  },
+  "BD7289F3-4186-BD06-2C29-119B73201281": {
+    "data": {
+      "seed": 23586
+    },
+    "facing": 1477505074,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -245760,
+      -933888
+    ]
+  },
+  "BDCA92A2-4F5A-DA7B-9D99-5CA1F85985BE": {
+    "data": {
+      "seed": 19969
+    },
+    "facing": 1108575324,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      196608,
+      999424
+    ]
+  },
+  "BE0D6DF2-496F-A3CA-6D33-64AF28EFC2ED": {
+    "data": {
+      "seed": 26303
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      -114688
+    ]
+  },
+  "BE37ACC2-4879-AF63-78E2-C682CF99DFCF": {
+    "data": {
+      "seed": 225
+    },
+    "facing": 768301930,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1081344,
+      294912
+    ]
+  },
+  "BE790CFC-4096-2F45-C37C-0CBEFDCC06E9": {
+    "data": {
+      "seed": 2491
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1163264,
+      671744
+    ]
+  },
+  "BE903C97-4134-F851-BA37-63885F0976F7": {
+    "data": {
+      "seed": 6310
+    },
+    "facing": 1953278149,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      -1081344
+    ]
+  },
+  "BE9195C2-44EC-F215-C2C4-37A09B33CE66": {
+    "data": {
+      "seed": 3032
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -278528
+    ]
+  },
+  "C00CCD3F-40D4-7620-B0C4-839785D3A1AE": {
+    "data": {
+      "seed": 3151
+    },
+    "facing": 310928631,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -180224,
+      933888
+    ]
+  },
+  "C01D2517-48DB-091B-91EE-B59EF6FE27D2": {
+    "data": {
+      "seed": 30994
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -114688,
+      917504
+    ]
+  },
+  "C0444682-45E3-73E2-0150-79A14ACFBD9D": {
+    "data": {
+      "seed": 6536
+    },
+    "facing": 991294996,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      131072,
+      1261568
+    ]
+  },
+  "C0DA282C-4B73-25BD-41FA-5FBBBBE28638": {
+    "data": {
+      "seed": 5947
+    },
+    "facing": 728209067,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      294912,
+      1081344
+    ]
+  },
+  "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "C1985BCD-49AD-5267-5D9E-8691792AB5C5": {
+    "data": {
+      "seed": 23626
+    },
+    "facing": 838706152,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      262144,
+      1097728
+    ]
+  },
+  "C19A5F58-475E-3DA4-ED7F-229D7EE1B5F4": {
+    "data": {
+      "seed": 1067
+    },
+    "facing": 1857838472,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1015808,
+      212992
+    ]
+  },
+  "C1A9AF95-4DB3-C352-A1BF-578BC2B29010": {
+    "data": {
+      "seed": 28254
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1179648,
+      -737280
+    ]
+  },
+  "C1E91A24-452E-A5D1-40A5-919C2303981B": {
+    "data": {
+      "seed": 13542
+    },
+    "facing": 1472376722,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1032192,
+      -180224
+    ]
+  },
+  "C2D7F8FD-4ED5-B53B-8FE4-DE979FB37D9F": {
+    "data": {
+      "seed": 3798
+    },
+    "facing": 1138329564,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      65536,
+      -1277952
+    ]
+  },
+  "C2EFCE94-447B-BC86-2D03-3198162F4E2B": {
+    "data": {
+      "seed": 27086
+    },
+    "facing": 260923128,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      196608,
+      -901120
+    ]
+  },
+  "C30FF0AE-4EE8-7818-8886-038383DE13A3": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1130496,
+      753664
+    ]
+  },
+  "C33A9F62-4C3A-8C83-2405-3692C5BE4F39": {
+    "data": {
+      "seed": 32223
+    },
+    "facing": 201922554,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      32768,
+      -1310720
+    ]
+  },
+  "C34B0CAC-4B8A-1714-20A9-EF92E03DB2D7": {
+    "data": {
+      "seed": 27473
+    },
+    "facing": 49677822,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      606208,
+      -425984
+    ]
+  },
+  "C35A542F-48B0-92C1-C907-CFA8B0970F6B": {
+    "data": {
+      "seed": 2828
+    },
+    "facing": 749607275,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1228800,
+      -229376
+    ]
+  },
+  "C37ED59A-4FBB-C920-3961-DE85382EA263": {
+    "data": {
+      "seed": 12437
+    },
+    "facing": 1250972952,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -294912,
+      -1081344
+    ]
+  },
+  "C3BF67F0-4824-475F-9F19-DCA2C2640DAE": {
+    "data": {
+      "seed": 20845
+    },
+    "facing": 250322361,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -442368,
+      -720896
+    ]
+  },
+  "C3C628EB-4E44-AC3D-CD47-21BC4B97412A": {
+    "data": {
+      "seed": 25268
+    },
+    "facing": 1842879368,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -245760,
+      999424
+    ]
+  },
+  "C420C578-47D0-06A3-C4F9-75A19414FC7A": {
+    "data": {
+      "seed": 14986
+    },
+    "facing": 65947646,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -966656,
+      -180224
+    ]
+  },
+  "C42E02EE-40A3-796A-D429-DD8F738BB215": {
+    "data": {
+      "seed": 22278
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -147456,
+      -933888
+    ]
+  },
+  "C47D821B-4F3A-2DAB-C901-3E9780095BFC": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      753664,
+      -1130496
+    ]
+  },
+  "C4848912-42E9-64AA-E66A-A09E08383182": {
+    "data": {
+      "seed": 10362
+    },
+    "facing": 112840060,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1310720,
+      32768
+    ]
+  },
+  "C551B3DA-4838-F1F0-EBFE-D891254BF011": {
+    "data": {
+      "seed": 15383
+    },
+    "facing": 1216287001,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1097728,
+      -262144
+    ]
+  },
+  "C58249C1-488D-4204-B726-0EB9DAEDCB8B": {
+    "data": {
+      "seed": 13856
+    },
+    "facing": 1115735324,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      -196608
+    ]
+  },
+  "C5AAD7B9-484B-312E-BAEB-A687E337A9C1": {
+    "data": {
+      "seed": 20908
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      98304,
+      999424
+    ]
+  },
+  "C5BF5CEC-4CFA-11C0-D26B-F4A94FA98B09": {
+    "facing": 0,
+    "kind": "_locationMarkerPlayerStart6",
+    "player": 3,
+    "position": [
+      1130496,
+      -819200
+    ]
+  },
+  "C5D89FB1-4AF8-B6DD-1A33-02BF7F6EA278": {
+    "data": {
+      "seed": 1862
+    },
+    "facing": 532512625,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      65536
+    ]
+  },
+  "C6419507-4CD2-991A-7E39-57AD1ACE324E": {
+    "data": {
+      "seed": 2293
+    },
+    "facing": 48186878,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1212416,
+      -245760
+    ]
+  },
+  "C661280E-49CC-840F-963F-6EA472E90CF5": {
+    "data": {
+      "seed": 3876
+    },
+    "facing": 1861410279,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1081344,
+      -278528
+    ]
+  },
+  "C70F2A6A-4C37-45A4-A854-9A8262F8A12E": {
+    "data": {
+      "seed": 28735
+    },
+    "facing": 1473884114,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      65536,
+      -1310720
+    ]
+  },
+  "C7FDA385-41CD-F6F3-F62E-3A962EE6ED52": {
+    "data": {
+      "seed": 7759
+    },
+    "facing": 1166297883,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1245184,
+      -196608
+    ]
+  },
+  "C80496B1-4997-FE98-8232-7BA0CD763A06": {
+    "data": {
+      "seed": 19957
+    },
+    "facing": 1807243145,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -65536,
+      1310720
+    ]
+  },
+  "C83E68DF-40C7-24AE-204D-D8BB7131C567": {
+    "data": {
+      "seed": 8986
+    },
+    "facing": 967324517,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      425984,
+      606208
+    ]
+  },
+  "C8B6EEAC-45B5-46E8-2D67-9F8335D99387": {
+    "data": {
+      "seed": 23460
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      868352,
+      -212992
+    ]
+  },
+  "C93A19BC-4435-F2F7-B02E-769BBC41B33D": {
+    "data": {
+      "seed": 26547
+    },
+    "facing": 393572085,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      229376,
+      -901120
+    ]
+  },
+  "CA2178B5-4885-A897-F46C-388F97AAE18D": {
+    "data": {
+      "seed": 21670
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      704512,
+      -1179648
+    ]
+  },
+  "CA416A5E-40F1-22A7-651F-24843CB01BFB": {
+    "data": {
+      "seed": 9021
+    },
+    "facing": 2053633234,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -983040,
+      -212992
+    ]
+  },
+  "CA4A99D7-4120-FD60-56A1-CCB96914E8FC": {
+    "data": {
+      "seed": 12437
+    },
+    "facing": 1250972952,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      180224,
+      -999424
+    ]
+  },
+  "CA602158-4F47-2582-2575-2D8F36D6B180": {
+    "data": {
+      "seed": 9844
+    },
+    "facing": 1563392656,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      212992,
+      -1015808
+    ]
+  },
+  "CA83B4A4-43F0-8911-342E-8FB4108142D3": {
+    "data": {
+      "seed": 10020
+    },
+    "facing": 1163594395,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1032192,
+      245760
+    ]
+  },
+  "CAC0FF53-41BE-6670-CD13-27A002E93F69": {
+    "data": {
+      "seed": 6548
+    },
+    "facing": 790519274,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -131072,
+      -1294336
+    ]
+  },
+  "CB296A16-4E81-4EE8-D3BF-7F9FBE3922EC": {
+    "data": {
+      "seed": 27610
+    },
+    "facing": 1124075036,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -114688,
+      1277952
+    ]
+  },
+  "CB583FFC-4C03-EAC2-1A5A-E8A786E1E87D": {
+    "data": {
+      "seed": 24464
+    },
+    "facing": 713757932,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      245760,
+      933888
+    ]
+  },
+  "CB5C8262-4C4F-310C-38F8-F590C08C9005": {
+    "data": {
+      "seed": 10881
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1163264,
+      -671744
+    ]
+  },
+  "CB63151C-4A20-DF22-85EA-33929EA27B8D": {
+    "data": {
+      "seed": 21523
+    },
+    "facing": 2005298947,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      1048576,
+      -245760
+    ]
+  },
+  "CBF0C7A2-47B6-C585-8A56-89ACE1BF6064": {
+    "data": {
+      "seed": 9844
+    },
+    "facing": 1563392688,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -262144,
+      -1130496
+    ]
+  },
+  "CBFF9116-4A21-D8BA-0F7F-BD8EB9C3FAE1": {
+    "data": {
+      "seed": 32567
+    },
+    "facing": 843129960,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      -1097728
+    ]
+  },
+  "CC674A0B-4DB3-0B4D-2E68-74A2ED6F5E15": {
+    "data": {
+      "seed": 29370
+    },
+    "facing": 432518003,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -163840,
+      -999424
+    ]
+  },
+  "CC76325A-4018-56D5-79DB-5A9090E68E7F": {
+    "data": {
+      "seed": 5075
+    },
+    "facing": 290415223,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -278528,
+      1081344
+    ]
+  },
+  "CCC95451-4A08-AA52-58FC-75B5614173FB": {
+    "data": {
+      "seed": 30883
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -819200,
+      917504
+    ]
+  },
+  "CD2A04C3-4304-554B-A9EB-B5AC5EFB7338": {
+    "data": {
+      "seed": 21023
+    },
+    "facing": 857400856,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -901120,
+      -196608
+    ]
+  },
+  "CD351599-4398-00B2-FD03-5E95D8513E86": {
+    "data": {
+      "seed": 16780
+    },
+    "facing": 1227756185,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -901120,
+      -229376
+    ]
+  },
+  "CD8746B2-4482-8AC3-724C-D5B9B48D9494": {
+    "data": {
+      "seed": 25750
+    },
+    "facing": 259497720,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1032192,
+      180224
+    ]
+  },
+  "CE07B61B-4384-54D9-220F-AE9DC407CD6F": {
+    "data": {
+      "seed": 4393
+    },
+    "facing": 329443126,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      278528,
+      983040
+    ]
+  },
+  "CE990165-4144-7479-3863-09814B0D15B8": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -1146880,
+      -720896
+    ]
+  },
+  "CEB865F6-49D1-5F8A-35FB-B5A178042EAB": {
+    "data": {
+      "seed": 10256
+    },
+    "facing": 1032076003,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      671744,
+      -393216
+    ]
+  },
+  "CFCE27F2-458C-F5BF-A9B8-199A47468B2D": {
+    "data": {
+      "seed": 32233
+    },
+    "facing": 1182666010,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      557056,
+      950272
+    ]
+  },
+  "CFDA5699-4BF4-C586-9EAE-EF8814C6B457": {
+    "data": {
+      "seed": 26218
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -851968,
+      -229376
+    ]
+  },
+  "D17E96DD-4DDD-0BDC-46E0-65BF55EB2ECD": {
+    "data": {
+      "seed": 27333
+    },
+    "facing": 1037892507,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      524288,
+      933888
+    ]
+  },
+  "D1836E9C-4ADB-CE88-0182-19BF741689A7": {
+    "data": {
+      "seed": 8986
+    },
+    "facing": 430453620,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      557056,
+      -475136
+    ]
+  },
+  "D186AD1B-4F58-5A96-7FC1-9AA54C0EBDA6": {
+    "data": {
+      "seed": 1778
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      983040,
+      245760
+    ]
+  },
+  "D18EC7F8-4DE8-36C9-D7F5-9F9875A9CB28": {
+    "data": {
+      "seed": 24007
+    },
+    "facing": 1621541198,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      -278528
+    ]
+  },
+  "D236760B-429E-3E68-49A4-EF970D655F23": {
+    "data": {
+      "seed": 28394
+    },
+    "facing": 1493332498,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      933888,
+      -524288
+    ]
+  },
+  "D275252C-4EC7-11BF-10EA-F687B638547D": {
+    "data": {
+      "seed": 20751
+    },
+    "facing": 898460390,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -65536,
+      -1310720
+    ]
+  },
+  "D2CDEF8A-4347-67CB-8E2C-4F9FCFDF6099": {
+    "data": {
+      "seed": 9220
+    },
+    "facing": 295478071,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1081344,
+      -294912
+    ]
+  },
+  "D32EB701-4AC5-2FCE-BA03-72B603A14923": {
+    "data": {
+      "seed": 23626
+    },
+    "facing": 838706152,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -212992,
+      983040
+    ]
+  },
+  "D40922BB-46F3-3EB0-F2CA-3EA3AAA4E873": {
+    "data": {
+      "seed": 31475
+    },
+    "facing": 661278445,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      180224,
+      -966656
+    ]
+  },
+  "D42E76F4-4459-0912-7B03-998901C84279": {
+    "data": {
+      "seed": 15690
+    },
+    "facing": 1763578378,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      1064960
+    ]
+  },
+  "D47F3E53-477B-16AF-8AE6-D88276D77963": {
+    "data": {
+      "seed": 3876
+    },
+    "facing": 1861410279,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1196032,
+      278528
+    ]
+  },
+  "D49166A6-4EA1-726A-EE45-699C65DBE9F5": {
+    "data": {
+      "seed": 23645
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -819200,
+      835584
+    ]
+  },
+  "D4E1563A-4139-F2B8-2122-9595E448FD76": {
+    "data": {
+      "seed": 17581
+    },
+    "facing": 1937696517,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1064960,
+      -311296
+    ]
+  },
+  "D596A1AF-437E-FBCB-4BF3-FF9ABC9D39DE": {
+    "data": {
+      "seed": 20963
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -901120,
+      212992
+    ]
+  },
+  "D59E1C72-4076-9663-EA3E-999E740CD21B": {
+    "data": {
+      "seed": 32209
+    },
+    "facing": 360131317,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      901120,
+      196608
+    ]
+  },
+  "D5B99D1C-4B52-F805-855A-F1915954B352": {
+    "data": {
+      "seed": 23206
+    },
+    "facing": 2114649110,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1130496,
+      327680
+    ]
+  },
+  "D5C10A68-48BB-389A-A245-C1B575D45DC5": {
+    "data": {
+      "seed": 10481
+    },
+    "facing": 1638204302,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      -65536
+    ]
+  },
+  "D68262A2-4F25-187E-2E41-6AAACFB9D4A0": {
+    "data": {
+      "seed": 8621
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      278528,
+      -933888
+    ]
+  },
+  "D6F25126-455E-73D6-BD31-47BA04345C42": {
+    "data": {
+      "seed": 13034
+    },
+    "facing": 1568176912,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      950272,
+      -557056
+    ]
+  },
+  "D760DB1B-44B2-54D8-3A44-33941B925C2E": {
+    "data": {
+      "seed": 12947
+    },
+    "facing": 1081983261,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -507904,
+      -540672
+    ]
+  },
+  "D79CB514-4533-9130-DEC4-0DBAEF056400": {
+    "data": {
+      "seed": 9808
+    },
+    "facing": 2099444297,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      638976,
+      -409600
+    ]
+  },
+  "D7A92904-42DB-AEEB-5E7D-CD84665B1DAF": {
+    "data": {
+      "seed": 23083
+    },
+    "facing": 2117893248,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      425984,
+      688128
+    ]
+  },
+  "D81B3DBC-4FD5-457E-542F-6CA95BEDD69D": {
+    "data": {
+      "seed": 30459
+    },
+    "facing": 1306565591,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      163840,
+      999424
+    ]
+  },
+  "D82AD121-4B04-321A-A860-1A87C799962F": {
+    "data": {
+      "seed": 20782
+    },
+    "facing": 1857396104,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1294336,
+      -98304
+    ]
+  },
+  "D85F60EC-4F26-D292-F65C-2AB797A33838": {
+    "data": {
+      "seed": 2491
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      737280,
+      -1179648
+    ]
+  },
+  "D92FF1CF-4E88-C023-CD68-1BBD453C7C88": {
+    "data": {
+      "seed": 26439
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -245760,
+      -999424
+    ]
+  },
+  "D994982F-400C-7B4E-41A3-F58CE066440A": {
+    "data": {
+      "seed": 7476
+    },
+    "facing": 2093349261,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1179648,
+      -278528
+    ]
+  },
+  "D9AEB592-44F6-7CF1-CBF3-F38CCD97A676": {
+    "data": {
+      "seed": 25331
+    },
+    "facing": 1079918749,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      163840
+    ]
+  },
+  "D9B5A551-47D3-10CF-85C6-62918827E323": {
+    "data": {
+      "seed": 14320
+    },
+    "facing": 679366893,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -983040,
+      557056
+    ]
+  },
+  "DA06C77F-418A-6509-34B2-168C747ABF28": {
+    "data": {
+      "seed": 31081
+    },
+    "facing": 423473780,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1081344,
+      278528
+    ]
+  },
+  "DC640D4C-480A-3DC9-D46A-259497B07B55": {
+    "data": {
+      "seed": 17211
+    },
+    "facing": 1079623901,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -147456,
+      1015808
+    ]
+  },
+  "DC8A6C69-4AD2-2309-F5F6-0B85F22B8795": {
+    "data": {
+      "seed": 21333
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      770048,
+      -802816
+    ]
+  },
+  "DD338830-40ED-270A-EF10-60988736A1C5": {
+    "data": {
+      "seed": 12614
+    },
+    "facing": 1391633941,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -1015808,
+      -147456
+    ]
+  },
+  "DD871A16-4691-8E09-E294-7FA84ABC3972": {
+    "data": {
+      "seed": 32223
+    },
+    "facing": 1812535305,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1277952,
+      -163840
+    ]
+  },
+  "DE107894-47DD-CC2E-8076-9FAE6055FEF3": {
+    "data": {
+      "seed": 29778
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -180224,
+      -933888
+    ]
+  },
+  "DEE748CC-45AF-E5BF-AA7E-F587DFE02481": {
+    "data": {
+      "seed": 16361
+    },
+    "facing": 197973902,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -327680,
+      -1130496
+    ]
+  },
+  "DF18E211-4FBF-74B0-2095-6295E3D0B78F": {
+    "data": {
+      "seed": 3312
+    },
+    "facing": 1356145046,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1163264,
+      -278528
+    ]
+  },
+  "DFEB7155-40AB-5E05-CA4D-E5B154C4D285": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 2100705921,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      393216
+    ]
+  },
+  "E0274D8D-4955-E4EB-C731-30B7D7E085E3": {
+    "facing": 1073741882,
+    "kind": "_Wellspring1v0",
+    "player": 0,
+    "position": [
+      -393216,
+      -851968
+    ]
+  },
+  "E04B2B3F-427A-07AF-0F6A-CE8BDA33DC70": {
+    "data": {
+      "seed": 15755
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      196608,
+      -933888
+    ]
+  },
+  "E075D45A-4C7E-3F16-E863-50BD01FADA5F": {
+    "data": {
+      "seed": 28904
+    },
+    "facing": 328427254,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -278528,
+      -983040
+    ]
+  },
+  "E0D45E08-4A88-AECF-AC4F-7DA0A7125E91": {
+    "data": {
+      "seed": 11116
+    },
+    "facing": 1172687835,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      524288,
+      966656
+    ]
+  },
+  "E122D203-4D4E-F370-0A27-0FAE4D8401E6": {
+    "data": {
+      "seed": 1702
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      999424,
+      -245760
+    ]
+  },
+  "E13E9244-482B-C857-1651-47BE81FF9D1C": {
+    "data": {
+      "seed": 30070
+    },
+    "facing": 371485813,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -950272,
+      557056
+    ]
+  },
+  "E2236903-4A2F-F6BC-8494-EA9C0D3F28A2": {
+    "data": {
+      "seed": 27709
+    },
+    "facing": 1528837777,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1146880,
+      -311296
+    ]
+  },
+  "E2E52D9C-488E-6718-3A8D-AAAE664C3460": {
+    "data": {
+      "seed": 25331
+    },
+    "facing": 543047792,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      98304,
+      -1310720
+    ]
+  },
+  "E39B3EE7-4C30-C11D-BDD7-94B1A5BE3939": {
+    "facing": 2034144281,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      0,
+      786432
+    ]
+  },
+  "E4A03949-454A-394E-1F46-519F97000B9B": {
+    "data": {
+      "seed": 14124
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      851968,
+      802816
+    ]
+  },
+  "E4A85D0D-4D5E-DCD5-637F-6F8A05B7675F": {
+    "data": {
+      "seed": 13430
+    },
+    "facing": 918302054,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      -1064960
+    ]
+  },
+  "E50B01DB-43B6-BD17-0032-E2B4B07A5107": {
+    "data": {
+      "seed": 26855
+    },
+    "facing": 1593556495,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1064960,
+      -245760
+    ]
+  },
+  "E51186C0-4A84-CFDD-69D3-AC9BFDFDE832": {
+    "data": {
+      "seed": 10970
+    },
+    "facing": 263774072,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -229376,
+      -1081344
+    ]
+  },
+  "E54C65F5-4E7E-27C7-D2CE-4F9E6895107E": {
+    "data": {
+      "seed": 15824
+    },
+    "facing": 2138406656,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      1212416,
+      -311296
+    ]
+  },
+  "E57BE2D1-45D0-89BF-ECF5-10B2765DFC56": {
+    "data": {
+      "seed": 21664
+    },
+    "facing": 480278898,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -442368,
+      -655360
+    ]
+  },
+  "E5B8A595-4C24-85E5-B54F-F39B72F30CC6": {
+    "data": {
+      "seed": 21873
+    },
+    "facing": 1700137612,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1048576,
+      360448
+    ]
+  },
+  "E5B9E699-422F-F9C1-546C-589E57C85483": {
+    "data": {
+      "seed": 1550
+    },
+    "facing": 1966353029,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      32768
+    ]
+  },
+  "E5D32E34-492C-01DB-0CED-41A564B671A6": {
+    "data": {
+      "seed": 18525
+    },
+    "facing": 946237669,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      442368,
+      720896
+    ]
+  },
+  "E62B3B9F-4AAD-CACA-CD10-4F92F0D723DB": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 997963492,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1015808,
+      491520
+    ]
+  },
+  "E72744B3-45F4-CBED-2B09-EBA43F2ECCA1": {
+    "data": {
+      "seed": 15755
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -212992
+    ]
+  },
+  "E7C39E2C-4B58-1251-2CEA-F388AFA939B7": {
+    "data": {
+      "seed": 32223
+    },
+    "facing": 1275664408,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -98304,
+      1310720
+    ]
+  },
+  "E7CBF056-464F-7727-3C7D-52BE0070D683": {
+    "data": {
+      "seed": 12578
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1032192,
+      -786432
+    ]
+  },
+  "E7D6FE64-4D91-4B71-F95E-9D9843B1ACE8": {
+    "data": {
+      "seed": 5596
+    },
+    "facing": 772660234,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -933888,
+      212992
+    ]
+  },
+  "E7DE8517-4804-4543-6885-07833AAA3C24": {
+    "data": {
+      "seed": 9006
+    },
+    "facing": 172954747,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1130496,
+      -311296
+    ]
+  },
+  "E83B0F47-4761-8250-0839-F890180FC1BD": {
+    "data": {
+      "seed": 32212
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      770048
+    ]
+  },
+  "E8517466-4A1E-A27D-1E0B-0BB963A6746F": {
+    "data": {
+      "seed": 6320
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -278528,
+      933888
+    ]
+  },
+  "E88D44A8-4E67-55A2-308C-3DAE0CB8698D": {
+    "data": {
+      "seed": 28954
+    },
+    "facing": 1913660422,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -933888,
+      524288
+    ]
+  },
+  "E9248DDD-4A48-06CE-AB10-C18CA7D80334": {
+    "data": {
+      "seed": 8476
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      163840,
+      901120
+    ]
+  },
+  "E95571B4-4FD2-CE87-AC91-50B39682868C": {
+    "data": {
+      "seed": 19009
+    },
+    "facing": 1601912591,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -933888,
+      245760
+    ]
+  },
+  "E95756FC-4075-97ED-88B9-C5BB226B034E": {
+    "data": {
+      "seed": 2828
+    },
+    "facing": 1286478231,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -212992,
+      1228800
+    ]
+  },
+  "E9C9C5CC-4BEE-8370-821D-D3874950B4CB": {
+    "data": {
+      "seed": 28868
+    },
+    "facing": 1887625479,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1163264,
+      344064
+    ]
+  },
+  "E9F3DB09-47A6-D668-5FE5-5983A240A7EC": {
+    "data": {
+      "seed": 7315
+    },
+    "facing": 657264237,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      114688,
+      -983040
+    ]
+  },
+  "EA186B5F-476D-0D11-D8FD-8A8D5377CB53": {
+    "data": {
+      "seed": 8394
+    },
+    "facing": 745674987,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      999424,
+      -131072
+    ]
+  },
+  "EA27912D-4933-A8F1-5D87-CA8F55DE1425": {
+    "data": {
+      "seed": 3518
+    },
+    "facing": 304735285,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -311296,
+      -1146880
+    ]
+  },
+  "EA291EA7-4CCE-C0BC-3F5E-B681AFD06350": {
+    "data": {
+      "seed": 16373
+    },
+    "facing": 36111486,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      311296,
+      1048576
+    ]
+  },
+  "EAA335B8-44B4-3C46-6E68-E8BEBA3402C2": {
+    "data": {
+      "seed": 27077
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -999424,
+      -770048
+    ]
+  },
+  "EAE117B8-4052-1825-3BAA-04A583C880F1": {
+    "data": {
+      "seed": 1293
+    },
+    "facing": 934702949,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      -147456,
+      -1032192
+    ]
+  },
+  "EAE358A5-4937-0E95-8119-93A4D7128E28": {
+    "data": {
+      "seed": 22711
+    },
+    "facing": 1094058653,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -589824,
+      458752
+    ]
+  },
+  "EC91AF71-4FF3-D540-0769-0CACDC6CCC85": {
+    "data": {
+      "seed": 24126
+    },
+    "facing": 1986604292,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      966656,
+      -229376
+    ]
+  },
+  "ED67406A-4459-CCC1-8143-A987B74E4CF4": {
+    "data": {
+      "seed": 10481
+    },
+    "facing": 1101333405,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      32768,
+      1277952
+    ]
+  },
+  "ED9DD85E-409E-84AD-39B0-63AD181D00D2": {
+    "data": {
+      "seed": 3518
+    },
+    "facing": 304735303,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      245760,
+      -1064960
+    ]
+  },
+  "EDCE6F06-4233-3C8C-4BF6-D4BFACE4145F": {
+    "data": {
+      "seed": 10327
+    },
+    "facing": 598165359,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      540672,
+      -507904
+    ]
+  },
+  "EF0216A2-4D33-0CBB-9418-75BADAFBFC78": {
+    "data": {
+      "seed": 1519
+    },
+    "facing": 2081224729,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -425984,
+      -1015808
+    ]
+  },
+  "EF120495-42E3-79E7-7539-D19222C84E86": {
+    "data": {
+      "seed": 21866
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      180224,
+      933888
+    ]
+  },
+  "F03678CA-428A-04D7-E451-72A5A64404F5": {
+    "data": {
+      "seed": 25305
+    },
+    "facing": 1936795397,
+    "kind": "DestructibleSharpRock",
+    "player": 1,
+    "position": [
+      212992,
+      1048576
+    ]
+  },
+  "F0916B6D-4C33-6A39-06B1-4EA243454804": {
+    "data": {
+      "seed": 32550
+    },
+    "facing": 1073741882,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      1146880,
+      720896
+    ]
+  },
+  "F0A0CCE5-415E-7604-AA1B-34A257B1D288": {
+    "data": {
+      "seed": 31494
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -212992,
+      -901120
+    ]
+  },
+  "F0C711D6-4650-F221-8387-16A2BDE43B72": {
+    "data": {
+      "seed": 20459
+    },
+    "facing": 313222519,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1261568,
+      131072
+    ]
+  },
+  "F0DF860B-4347-C887-315E-90A6A5316B96": {
+    "data": {
+      "seed": 8863
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      917504,
+      114688
+    ]
+  },
+  "F154A726-42EF-6C2B-772B-F1ADC4C53B9C": {
+    "data": {
+      "seed": 30922
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -147456
+    ]
+  },
+  "F1C85DA7-497C-8003-F442-E9A11EE590B3": {
+    "data": {
+      "seed": 776
+    },
+    "facing": 1354015126,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -1163264,
+      278528
+    ]
+  },
+  "F20E0DE4-4161-ACBE-3AD2-09A383436FA4": {
+    "data": {
+      "seed": 28600
+    },
+    "facing": 1515598993,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -32768,
+      1310720
+    ]
+  },
+  "F21629CC-456D-5D08-8CFE-22AC9872828A": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 2071705346,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1015808,
+      -425984
+    ]
+  },
+  "F2475903-48B9-A780-CAAB-EA82081ABA33": {
+    "facing": 1072237680,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      0,
+      1179648
+    ]
+  },
+  "F25E6B7C-4EAC-3192-A521-9D975A4C65EA": {
+    "data": {
+      "seed": 11444
+    },
+    "facing": 159814395,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -901120,
+      -262144
+    ]
+  },
+  "F2948258-4616-6F7C-825D-CF895B87FFEC": {
+    "data": {
+      "seed": 13635
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      901120,
+      -245760
+    ]
+  },
+  "F2A56782-4F90-F679-EB56-608F0FDEE3C0": {
+    "data": {
+      "seed": 15690
+    },
+    "facing": 1763578378,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      344064,
+      1196032
+    ]
+  },
+  "F2E0600D-4D40-E9FE-E044-348AE69DDE95": {
+    "data": {
+      "seed": 28977
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      819200,
+      -835584
+    ]
+  },
+  "F352A118-4D13-EE48-9A58-A998A942AB14": {
+    "data": {
+      "seed": 2536
+    },
+    "facing": 1199197978,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      212992,
+      -983040
+    ]
+  },
+  "F3B5E413-4715-63AA-40DA-C9ADF8F3C9D2": {
+    "data": {
+      "seed": 2293
+    },
+    "facing": 1658799629,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      196608,
+      1245184
+    ]
+  },
+  "F404D407-4411-F595-94A6-2AABE6BF3BB0": {
+    "data": {
+      "seed": 32641
+    },
+    "facing": 774528106,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      278528,
+      1015808
+    ]
+  },
+  "F4377249-4223-9921-52E5-DCA1D2782E58": {
+    "data": {
+      "seed": 17586
+    },
+    "facing": 2065004034,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      98304,
+      1294336
+    ]
+  },
+  "F5180F54-44AA-1DD4-6A42-84A288C09415": {
+    "data": {
+      "seed": 27233
+    },
+    "facing": 1092108829,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      245760,
+      -1097728
+    ]
+  },
+  "F5416AD4-499C-AAB9-7843-FE8A339D8424": {
+    "data": {
+      "seed": 21299
+    },
+    "facing": 1936041669,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      180224,
+      -1032192
+    ]
+  },
+  "F647B5BB-42F5-D2B4-6649-36B1B9284D08": {
+    "data": {
+      "seed": 28868
+    },
+    "facing": 277012728,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      278528,
+      -1114112
+    ]
+  },
+  "F6815F6F-4A4E-9BDA-468C-CB87C3DBB534": {
+    "data": {
+      "seed": 1675
+    },
+    "facing": 1033452259,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      999424,
+      -524288
+    ]
+  },
+  "F6CF67B2-4C26-B097-C4FA-07806EEBCA8D": {
+    "data": {
+      "seed": 15914
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      360448,
+      1081344
+    ]
+  },
+  "F6E39C3B-4230-E5D7-6D9D-FF931323B1D4": {
+    "data": {
+      "seed": 11064
+    },
+    "facing": 1653589293,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -491520,
+      -983040
+    ]
+  },
+  "F6F82916-44EF-F820-6843-93A45FBA3CCB": {
+    "data": {
+      "seed": 10599
+    },
+    "facing": 20300383,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1277952,
+      -32768
+    ]
+  },
+  "F708C26F-4853-45D7-3264-2E9FD34081A6": {
+    "data": {
+      "seed": 28944
+    },
+    "facing": 546193648,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -229376,
+      -1228800
+    ]
+  },
+  "F75E1D41-40D8-A852-EE6C-39AF25D0AC1F": {
+    "facing": 2034144428,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      786432,
+      0
+    ]
+  },
+  "F79E00B2-4F30-8EC3-2FE3-E5A8320F0D25": {
+    "data": {
+      "seed": 19969
+    },
+    "facing": 34833471,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -163840,
+      -966656
+    ]
+  },
+  "F814766F-4857-179D-88A8-9AAB8B7EE5EE": {
+    "data": {
+      "seed": 25201
+    },
+    "facing": 269017096,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -180224,
+      868352
+    ]
+  },
+  "F8332097-4C88-41AD-16AD-B69D387A1B04": {
+    "data": {
+      "seed": 18558
+    },
+    "facing": 1293769239,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1064960,
+      327680
+    ]
+  },
+  "F8AA5075-4E57-C5F8-4564-C595279D4930": {
+    "data": {
+      "seed": 26510
+    },
+    "facing": 1566980880,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -655360,
+      442368
+    ]
+  },
+  "F9061C07-4EBC-B755-31E1-FDAE526BECBD": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      425984,
+      0
+    ]
+  },
+  "F92A9515-4255-E574-4F97-FF8FDA436CCC": {
+    "data": {
+      "seed": 27241
+    },
+    "facing": 0,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      999424,
+      -311296
+    ]
+  },
+  "F9FADDF8-4276-3F46-4EE6-37B71C9E641E": {
+    "data": {
+      "seed": 11415
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      802816,
+      -851968
+    ]
+  },
+  "FA5BB2FF-42A6-C469-9671-1DBE9BA96939": {
+    "data": {
+      "seed": 8329
+    },
+    "facing": 536870882,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      1048576,
+      -491520
+    ]
+  },
+  "FA69282B-44CD-C99B-55DA-5D8721F2348C": {
+    "data": {
+      "seed": 19957
+    },
+    "facing": 196630394,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1294336,
+      -131072
+    ]
+  },
+  "FAC479CA-451A-D120-5A45-0098E2DCD805": {
+    "data": {
+      "seed": 24643
+    },
+    "facing": 123113148,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -278528,
+      -1015808
+    ]
+  },
+  "FAC7076D-47DD-2A8A-556D-8CB5230950CE": {
+    "data": {
+      "seed": 31039
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -114688,
+      950272
+    ]
+  },
+  "FB133989-4472-E545-20A5-E0B245E72E25": {
+    "data": {
+      "seed": 20751
+    },
+    "facing": 1972202244,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      0,
+      1310720
+    ]
+  },
+  "FBA1DAFA-43A9-108E-4E37-7AA7D088FA15": {
+    "data": {
+      "seed": 17397
+    },
+    "facing": 973485028,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      311296,
+      -1064960
+    ]
+  },
+  "FBD70EC0-4313-4E72-DD52-01B48C43FA8B": {
+    "data": {
+      "seed": 1121
+    },
+    "facing": 1956309301,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      622592,
+      -458752
+    ]
+  },
+  "FBDA07A9-4453-00AF-48DA-DDBF7B761387": {
+    "data": {
+      "seed": 17397
+    },
+    "facing": 973484972,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -344064,
+      -1196032
+    ]
+  },
+  "FBEEBE46-4D04-5FCF-F74B-5AB8C39129DC": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 1206620122,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -360448,
+      -1048576
+    ]
+  },
+  "FC1DAAB3-463A-CBC0-3846-0CB7463D3B5C": {
+    "data": {
+      "seed": 10362
+    },
+    "facing": 1186581914,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1310720,
+      -98304
+    ]
+  },
+  "FD80E575-4C34-33CA-0CD6-B083D99A8BD5": {
+    "data": {
+      "seed": 15336
+    },
+    "facing": 1265833752,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      524288,
+      999424
+    ]
+  },
+  "FDDE0B84-4F6D-D686-FDB1-0596206BFDE9": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      0,
+      -1179648
+    ]
+  },
+  "FE4FC403-40C9-C73F-216C-6A915F697C97": {
+    "data": {
+      "seed": 24937
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      933888,
+      -147456
+    ]
+  },
+  "FE819CEF-467A-4615-E790-569A2D98C7BA": {
+    "data": {
+      "seed": 15914
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -1064960,
+      442368
+    ]
+  },
+  "FEFAFC82-448C-AACE-DBC0-7C95955D4512": {
+    "facing": 2034144275,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      0,
+      -786432
+    ]
+  },
+  "FF6065DA-4A2D-45E2-A5CF-FB9C2F074E83": {
+    "data": {
+      "seed": 10320
+    },
+    "facing": 2000055940,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      983040,
+      114688
+    ]
+  },
+  "FF74027F-412E-8595-4C09-C08F3CCC7742": {
+    "data": {
+      "seed": 15124
+    },
+    "facing": 536870897,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      212992,
+      -933888
+    ]
+  },
+  "FF808BF3-489C-D5FE-F3EE-10AB660021D2": {
+    "data": {
+      "seed": 12332
+    },
+    "facing": 1714752652,
+    "kind": "DestructibleOvergrownTree",
+    "player": 1,
+    "position": [
+      -278528,
+      999424
+    ]
+  },
+  "FF858680-4B60-01E8-C351-4B81D1141C91": {
+    "data": {
+      "seed": 2536
+    },
+    "facing": 1199197978,
+    "kind": "DestructibleSharpRock",
+    "player": 0,
+    "position": [
+      -262144,
+      -1097728
+    ]
+  },
+  "FF9B7306-4DB6-5E40-3800-73AA4A4B6782": {
+    "data": {
+      "seed": 15247
+    },
+    "facing": 1610612750,
+    "kind": "DestructibleOvergrownTree",
+    "player": 0,
+    "position": [
+      -737280,
+      1179648
+    ]
+  },
+  "version": 1
+}

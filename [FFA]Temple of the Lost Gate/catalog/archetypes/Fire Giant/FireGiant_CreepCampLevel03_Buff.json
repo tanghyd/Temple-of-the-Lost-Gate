@@ -1,0 +1,105 @@
+﻿{
+  "__base_type": "Buff",
+  "alignment": "Helpful",
+  "applied_tags": [],
+  "applied_tags_persist": [],
+  "based_on": "Buff",
+  "buff_tags": [],
+  "buff_visuals": "BP_BVA_CreepCampLevel3",
+  "display_area_effect": "emptyRef",
+  "duration": 0.0,
+  "effect_expire": "emptyRef",
+  "effect_final": "emptyRef",
+  "effect_initial": "SmudgeLevel3BuffSet",
+  "effect_periodic": "emptyRef",
+  "effect_refresh": "emptyRef",
+  "flags": {
+    "change_owner_on_polymorph": false,
+    "disable_on_attacking": false,
+    "disable_on_damage_taken": false,
+    "hidden": false,
+    "hide_timer": true,
+    "override_source": false,
+    "pause_while_disabled": false,
+    "persist_on_dead": false,
+    "remove_on_attacking": false,
+    "remove_on_damage_taken": false,
+    "show_progress": false
+  },
+  "height": {
+    "adjust_height": false,
+    "duration": 0.5,
+    "duration_reversed": 0.5,
+    "target_height": 0
+  },
+  "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Veterancy/UI_Icons_CreepLevel_02.UI_Icons_CreepLevel_02'",
+  "id": "SmudgeCampLevel03_Buff",
+  "modifiers": [
+    {
+      "amount": 200.0,
+      "stat_mod": "HealthMaxPercentageAdditiveMultiplier"
+    },
+    {
+      "amount": 200.0,
+      "stat_mod": "DamagePercentageBonus"
+    },
+    {
+      "amount": 250.0,
+      "stat_mod": "ExperienceGrantedPercentageAdditiveMultiplier"
+    },
+    {
+      "amount": 250.0,
+      "stat_mod": "RefundValueAdditiveMultiplier"
+    }
+  ],
+  "name": "pegasus_core|Buff_name_CreepCampLevel03_Buff",
+  "periodic_duration": -1.0,
+  "polymorph_actors": [],
+  "power_consumed": 0.0,
+  "priority": 100,
+  "radar": {
+    "radius": 0.0,
+    "target_filter": {
+      "alliance": {
+        "ally": true,
+        "enemy": true,
+        "neutral": true,
+        "player": true,
+        "self": true
+      },
+      "tags": {
+        "excluded": [],
+        "required": []
+      }
+    },
+    "validator": "emptyRef"
+  },
+  "removed_tags": [],
+  "removed_tags_persist": [],
+  "responses": [],
+  "stacks": {
+    "aggregation": "Target",
+    "buff_scope_effect_parent": "none",
+    "decay": 0,
+    "initial": 1,
+    "maximum": 1
+  },
+  "state_flags": {
+    "armor_base_suppressed": false,
+    "armor_negative_mod_suppressed": false,
+    "armor_positive_mod_suppressed": false,
+    "collision_suppressed": false,
+    "detector": false,
+    "grounded": false,
+    "lifted": false,
+    "stealth": false,
+    "stealth_suppressed": false,
+    "uncommandable": false,
+    "unpushable": false,
+    "unselectable": false,
+    "untargetable": false
+  },
+  "tooltip": "pegasus_core|Buff_tooltip_CreepCampLevel03_Buff",
+  "validator_disable": "emptyRef",
+  "validator_remove": "emptyRef"
+}

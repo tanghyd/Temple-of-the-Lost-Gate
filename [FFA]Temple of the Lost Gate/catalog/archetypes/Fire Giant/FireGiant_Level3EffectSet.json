@@ -1,0 +1,22 @@
+﻿{
+  "__base_type": "GameEffectSet",
+  "based_on": "GameEffectSet",
+  "editor_icon": "",
+  "effect_location": {
+    "effect_parent": "none",
+    "entity_or_point": "EntityOrPoint",
+    "target": "Target"
+  },
+  "effects": [
+    "SmudgeAvatar_VisualBuffApplier",
+    "StormgateRewardVFX_BuffApplier"
+  ],
+  "flags": {
+    "target_becomes_instigator": false
+  },
+  "id": "SmudgeLevel3BuffSet",
+  "impact_fx": "",
+  "repetition_limit": 0,
+  "tracker": "",
+  "validator": "Valid_TargetNoDoubleImbueAvatar"
+}

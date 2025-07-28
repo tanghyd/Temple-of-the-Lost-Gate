@@ -1,0 +1,16 @@
+﻿{
+  "__base_type": "GameEffectApplyBuff",
+  "based_on": "GameEffectApplyBuff",
+  "buff": "ImbueAvatar_VisualBuff",
+  "editor_icon": "",
+  "effect_target": {
+    "effect_parent": "none",
+    "target": "Target"
+  },
+  "id": "SmudgeAvatar_VisualBuffApplier",
+  "impact_fx": "",
+  "stacks": 0,
+  "stacks_expression": {},
+  "tracker": "",
+  "validator": "emptyRef"
+}

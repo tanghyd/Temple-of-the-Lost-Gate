@@ -1,0 +1,92 @@
+﻿{
+  "__base_type": "Buff",
+  "alignment": "Neutral",
+  "applied_tags": [
+    "status_invulnerable",
+    "status_defeated",
+    "status_pacified"
+  ],
+  "applied_tags_persist": [],
+  "based_on": "BaseBuff",
+  "buff_tags": [],
+  "buff_visuals": "BP_BVA_Hush",
+  "display_area_effect": "emptyRef",
+  "duration": -1.0,
+  "effect_expire": "emptyRef",
+  "effect_final": "Defeated_BuffApplierEnd",
+  "effect_initial": "emptyRef",
+  "effect_periodic": "emptyRef",
+  "effect_refresh": "emptyRef",
+  "flags": {
+    "change_owner_on_polymorph": false,
+    "disable_on_attacking": false,
+    "disable_on_damage_taken": false,
+    "hidden": true,
+    "hide_timer": false,
+    "override_source": false,
+    "pause_while_disabled": false,
+    "persist_on_dead": false,
+    "remove_on_attacking": false,
+    "remove_on_damage_taken": false,
+    "show_progress": false
+  },
+  "height": {
+    "adjust_height": false,
+    "duration": 0.5,
+    "duration_reversed": 0.5,
+    "target_height": 0
+  },
+  "icon": "",
+  "id": "Defeated_Buff",
+  "modifiers": [],
+  "name": "",
+  "periodic_duration": -1.0,
+  "polymorph_actors": [],
+  "power_consumed": 0.0,
+  "priority": 100,
+  "radar": {
+    "radius": 0.0,
+    "target_filter": {
+      "alliance": {
+        "ally": true,
+        "enemy": true,
+        "neutral": true,
+        "player": true,
+        "self": true
+      },
+      "tags": {
+        "excluded": [],
+        "required": []
+      }
+    },
+    "validator": "emptyRef"
+  },
+  "removed_tags": [],
+  "removed_tags_persist": [],
+  "responses": [],
+  "stacks": {
+    "aggregation": "Target",
+    "buff_scope_effect_parent": "none",
+    "decay": 0,
+    "initial": 1,
+    "maximum": 1
+  },
+  "state_flags": {
+    "armor_base_suppressed": false,
+    "armor_negative_mod_suppressed": false,
+    "armor_positive_mod_suppressed": false,
+    "collision_suppressed": false,
+    "detector": false,
+    "grounded": false,
+    "lifted": false,
+    "stealth": false,
+    "stealth_suppressed": false,
+    "uncommandable": false,
+    "unpushable": false,
+    "unselectable": false,
+    "untargetable": false
+  },
+  "tooltip": "",
+  "validator_disable": "emptyRef",
+  "validator_remove": "emptyRef"
+}

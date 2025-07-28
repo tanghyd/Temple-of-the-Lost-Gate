@@ -1,0 +1,1177 @@
+﻿{
+  "map": {
+    "ForceProjector": {
+      "abilityList": [
+        "UnderConstruction_Celestial",
+        "structureProductionQueueAbilityData",
+        "ForceProjector_Research"
+      ],
+      "based_on": "BaseUnit_CelestialS",
+      "build_cost": {
+        "resource_a": 100.0,
+        "resource_b": 0.0,
+        "resource_c": 0.0,
+        "resource_d": 0.0
+      },
+      "build_time": 50.0,
+      "cascade_field_radius": 7,
+      "commandList": [
+        {
+          "ability": "structureProductionQueueAbilityData",
+          "button": "CancelProduction_Button",
+          "commandIndex": 0,
+          "hotkey_should_hide": true,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 1,
+          "slot": 6,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "ShortDashUpgrade_Button",
+          "commandIndex": 0,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 2,
+          "slot": 3,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "ArgentRangeUpgrade_Button",
+          "commandIndex": 1,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 2,
+          "slot": 3,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "RollOutUpgrade_Button",
+          "commandIndex": 2,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 2,
+          "slot": 4,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "BlazeOfLightUpgrade_Button",
+          "commandIndex": 3,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 2,
+          "slot": 4,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "VisionTagUpgrade_Button",
+          "commandIndex": 4,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 2,
+          "slot": 5,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "CabalAdeptTrainingUpgrade_Button",
+          "commandIndex": 5,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 1,
+          "slot": 1,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "CabalMasterTrainingUpgrade_Button",
+          "commandIndex": 6,
+          "hotkey_should_hide": false,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 1,
+          "slot": 1,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "ForceProjectorDummyUpgrade3_Button",
+          "commandIndex": 7,
+          "hotkey_should_hide": true,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 1,
+          "slot": 4,
+          "submenu": 0,
+          "targetSubmenu": -1
+        },
+        {
+          "ability": "ForceProjector_Research",
+          "button": "ForceProjectorDummyUpgrade4_Button",
+          "commandIndex": 8,
+          "hotkey_should_hide": true,
+          "panel": "CommandPanel",
+          "repeatable": false,
+          "row": 1,
+          "slot": 5,
+          "submenu": 0,
+          "targetSubmenu": -1
+        }
+      ],
+      "enabled_unit_tech": [
+        {
+          "unit": "Kri"
+        },
+        {
+          "unit": "Scanner"
+        }
+      ],
+      "flags": {
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "requires_cascade_field": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false
+      },
+      "footprint": {
+        "angled": false,
+        "snap": true,
+        "vision_block_height": 0,
+        "x": 4.0,
+        "y": 4.0
+      },
+      "id": "ForceProjector",
+      "name": "pegasus_core|UnitData_name_ForceProjector",
+      "outer_radius": 2.2,
+      "power_consumed": 8.0,
+      "subgroup_priority": 52,
+      "traits": [
+        "CascadeField_Trait"
+      ],
+      "unit_button": "ForceProjector_Button",
+      "unit_info_portrait": "Texture2D'/Game/Pegasus/UI/Assets/Portraits/Angel/UI_Portrait_Angel_Default_GuardianNexus.UI_Portrait_Angel_Default_GuardianNexus'",
+      "unreal_actor": "BP_SA_Haven_00",
+      "veterancy_given_on_death": 200,
+      "vital_health": {
+        "maximum": 600.0,
+        "regen": 0.0,
+        "starting": 600.0
+      }
+    },
+    "_Argent0": {
+      "based_on": "Argent",
+      "id": "_Argent0"
+    },
+    "_BossTower_CreepCamp0": {
+      "based_on": "BossTower_CreepCamp",
+      "camp_type": "SiegeTower2_CreepCampType",
+      "creep_level_buffs": [
+        "CreepCampLevel01_Buff",
+        "CreepCampLevel01_Buff",
+        "CreepCampLevel01_Buff",
+        "SmudgeCampLevel02_Buff",
+        "SmudgeCampLevel03_Buff"
+      ],
+      "creep_level_starting": 3,
+      "creeps": [
+        "FireGiant",
+        "FireGiant"
+      ],
+      "id": "_BossTower_CreepCamp0",
+      "respawn_time": 180.0,
+      "spawn_time": 210.0
+    },
+    "_Cat0": {
+      "based_on": "Cat",
+      "id": "_Cat0",
+      "vision_radius": 1.0,
+      "vital_health": {
+        "maximum": 1.0,
+        "regen": -5.0,
+        "starting": 1.0
+      }
+    },
+    "_Chicken0": {
+      "based_on": "Chicken",
+      "id": "_Chicken0",
+      "vision_radius": 0.5,
+      "vital_health": {
+        "maximum": 1.0,
+        "regen": -10.0,
+        "starting": 1.0
+      }
+    },
+    "_CollectionArray0": {
+      "based_on": "CollectionArray",
+      "behaviors": [],
+      "id": "_CollectionArray0",
+      "traits": [
+        "EnhancedCollectionArray_Trait"
+      ],
+      "unreal_actor": "BP_SD_Shadowcleft_00"
+    },
+    "_DestructibleBuilding0": {
+      "based_on": "DestructibleBuilding03",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 2,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding0",
+      "name": "Destroy to Mine",
+      "radius": 6.0,
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_Randomized_Destructible_Tree"
+    },
+    "_DestructibleBuilding1": {
+      "based_on": "DestructibleBuilding02",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding1",
+      "name": "Destroy This",
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_SD_ShadowcleftV2_00"
+    },
+    "_DestructibleBuilding2": {
+      "based_on": "DestructibleBuilding02",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding2",
+      "name": "Destroy This",
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_SD_ShadowcleftV2_00",
+      "vital_health": {
+        "maximum": 1000.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding3": {
+      "based_on": "DestructibleBuilding02",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding3",
+      "name": "Destroy This",
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_SD_ShadowcleftV2_00",
+      "vital_health": {
+        "maximum": 1000.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding4": {
+      "based_on": "DestructibleBuilding02",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding4",
+      "name": "Destroy This",
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_SD_ShadowcleftV2_00",
+      "vital_health": {
+        "maximum": 1000.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleBuilding5": {
+      "based_on": "DestructibleBuilding02",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "health_bar_visible": true,
+      "id": "_DestructibleBuilding5",
+      "name": "Destroy This",
+      "selectable": true,
+      "show_name_on_hover": true,
+      "smart_command_targetable": true,
+      "unreal_actor": "BP_SD_ShadowcleftV2_00",
+      "vital_health": {
+        "maximum": 1000.0,
+        "regen": 0.0,
+        "starting": 1000.0
+      }
+    },
+    "_DestructibleOvergrownTree0": {
+      "based_on": "DestructibleOvergrownTree",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 2,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_DestructibleOvergrownTree0"
+    },
+    "_DestructibleOvergrownTree1": {
+      "based_on": "DestructibleOvergrownTree",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 2,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_DestructibleOvergrownTree1",
+      "name": "Destroy Tree",
+      "selectable": true,
+      "show_name_on_hover": true
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x0": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x0"
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x1": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x1"
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x2": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x2"
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x3": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x3"
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x4": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x4",
+      "name": "Destroy This",
+      "show_name_on_hover": true
+    },
+    "_Destructible_Blocked_ResourceB_Generator_2x5": {
+      "based_on": "Destructible_Blocked_ResourceB_Generator_2x2",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Destructible_Blocked_ResourceB_Generator_2x5"
+    },
+    "_ForceProjector0": {
+      "based_on": "ForceProjector",
+      "enabled_unit_tech": [
+        {
+          "unit": "Kri"
+        },
+        {
+          "unit": "Scanner"
+        },
+        {
+          "unit": "emptyRef"
+        }
+      ],
+      "id": "_ForceProjector0"
+    },
+    "_HQTier0": {
+      "based_on": "HQTier1",
+      "buffs": [
+        "Invulnerable_Buff"
+      ],
+      "energy_type": "None",
+      "flags": {
+        "alert_when_attacked": false,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": false,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": true,
+        "untargetable": true,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Visible",
+      "id": "_HQTier0",
+      "unreal_actor": "BP_SN_StormgateInactive_00",
+      "vital_energy": {
+        "maximum": 0.0,
+        "regen": 0.0,
+        "starting": 0.0
+      }
+    },
+    "_HQTier1": {
+      "based_on": "HQTier1",
+      "buffs": [
+        "Invulnerable_Buff"
+      ],
+      "flags": {
+        "alert_when_attacked": false,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": false,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": false,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": true,
+        "unselectable": true,
+        "untargetable": true,
+        "victory_expansion": false
+      },
+      "id": "_HQTier1",
+      "traits": [
+        ""
+      ],
+      "unreal_actor": "BP_SN_StormgateInactive_00"
+    },
+    "_Habitat0": {
+      "based_on": "Habitat",
+      "buffs": [
+        "Invulnerable_Buff",
+        "Uncontrollable_Buff"
+      ],
+      "damage_response": "No_Response",
+      "flags": {
+        "alert_when_attacked": false,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": false,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": false,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": true,
+        "unselectable": true,
+        "untargetable": true,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Visible",
+      "id": "_Habitat0",
+      "unreal_actor": "BP_SN_StormgateInactive_00"
+    },
+    "_Habitat1": {
+      "based_on": "Habitat",
+      "buffs": [
+        "Uncontrollable_Buff"
+      ],
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": true,
+        "unselectable": true,
+        "untargetable": true,
+        "victory_expansion": false
+      },
+      "id": "_Habitat1",
+      "vitals_force_hide": true
+    },
+    "_Hag0": {
+      "based_on": "Hag",
+      "buffs": [
+        "ImbueAvatar_VisualBuff"
+      ],
+      "id": "_Hag0"
+    },
+    "_Hag1": {
+      "based_on": "Hag",
+      "buffs": [
+        "ImbueAvatar_Buff",
+        "ImbueAvatar_Buff",
+        "ImbueAvatar_Buff"
+      ],
+      "id": "_Hag1"
+    },
+    "_Hag2": {
+      "based_on": "Hag",
+      "buffs": [
+        "ImbueAvatar_VisualBuff",
+        "StormgateRewardVFX_Buff"
+      ],
+      "id": "_Hag2",
+      "unreal_actor": "BP_UD_FireGiant_00"
+    },
+    "_Hag3": {
+      "based_on": "Hag",
+      "id": "_Hag3",
+      "unreal_actor": "BP_UD_FireGiant_00"
+    },
+    "_Hag4": {
+      "based_on": "Hag",
+      "buffs": [
+        "StormgateRewardVFX_Buff"
+      ],
+      "id": "_Hag4",
+      "unreal_actor": "BP_UD_FireGiant_00"
+    },
+    "_MegaResourceA0": {
+      "based_on": "MegaResourceA",
+      "footprint": {
+        "angled": false,
+        "clumpable": true,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 4.0,
+        "y": 4.0
+      },
+      "id": "_MegaResourceA0"
+    },
+    "_ShadowCleft0": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Visible",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft0",
+      "name": "Destroy This",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft1": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Visible",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft1",
+      "name": "Destroy This",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_info_portrait": "Texture2D'/Game/Pegasus/Assets/PulledFromProto/MineralNode/StaticMesh/SM_ResourceA_Temp_Default_OBJ_Normal.SM_ResourceA_Temp_Default_OBJ_Normal'",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft10": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": false,
+        "untargetable": false,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.5,
+        "y": 6.5
+      },
+      "id": "_ShadowCleft10",
+      "inner_radius": 1.0,
+      "name": "Destroy This",
+      "outer_radius": 3.5,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft11": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "Passive",
+      "faction": "emptyRef",
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": false,
+        "untargetable": false,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.5,
+        "y": 6.5
+      },
+      "id": "_ShadowCleft11",
+      "inner_radius": 1.0,
+      "name": "Destroy This",
+      "outer_radius": 4.0,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "starting_snowtags": [
+        "entity_unit_structure",
+        "preventdefeat_elimination",
+        "heightplane_ground",
+        "attribute_mechanical",
+        "attribute_heavy",
+        "heightplane_air"
+      ],
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft12": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "Passive",
+      "faction": "emptyRef",
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": false,
+        "untargetable": false,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.5,
+        "y": 6.5
+      },
+      "id": "_ShadowCleft12",
+      "inner_radius": 1.0,
+      "name": "Destroy This",
+      "outer_radius": 4.0,
+      "placed_name": "LuminiteBlockerTest",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "starting_snowtags": [
+        "entity_unit_structure",
+        "preventdefeat_elimination",
+        "heightplane_ground",
+        "attribute_mechanical",
+        "attribute_heavy",
+        "heightplane_air"
+      ],
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft13": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "Passive",
+      "faction": "emptyRef",
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": true,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": false,
+        "untargetable": false,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": false,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 7.0,
+        "y": 7.0
+      },
+      "id": "_ShadowCleft13",
+      "name": "Destroy This",
+      "outer_radius": 4.5,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "starting_snowtags": [
+        "entity_unit_structure",
+        "preventdefeat_elimination",
+        "heightplane_ground",
+        "attribute_heavy"
+      ],
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft2": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Visible",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft2",
+      "name": "Destroy This",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft3": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": true,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft3",
+      "name": "Destroy This",
+      "outer_radius": 3.3,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft4": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Visible",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft4",
+      "name": "Destroy This",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft5": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft5",
+      "name": "Destroy This",
+      "outer_radius": 3.3,
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft6": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Visible",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft6",
+      "name": "Destroy This",
+      "outer_radius": 3.3,
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft7": {
+      "based_on": "ShadowCleft",
+      "buffs": [
+        "VisionTag_Buff"
+      ],
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": true,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft7",
+      "name": "Destroy This",
+      "outer_radius": 3.3,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft8": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": false,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": false,
+        "unselectable": false,
+        "untargetable": false,
+        "victory_expansion": false
+      },
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 6.5,
+        "y": 6.5
+      },
+      "id": "_ShadowCleft8",
+      "name": "Destroy This",
+      "outer_radius": 4.0,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_ShadowCleft9": {
+      "based_on": "ShadowCleft",
+      "damage_response": "No_Response",
+      "default_acquire_level": "None",
+      "faction": "emptyRef",
+      "fog_visibility": "Snapshot",
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": true,
+        "vision_block_height": 0,
+        "x": 6.0,
+        "y": 6.0
+      },
+      "id": "_ShadowCleft9",
+      "name": "Destroy This",
+      "outer_radius": 3.3,
+      "placed_name": "LuminiteBlocker",
+      "show_name_on_hover": true,
+      "shroud_radius": 0.0,
+      "unit_button": "emptyRef",
+      "vital_shroud_bonus_health_flat": 0.0,
+      "vital_shroud_combat_delay": 0.0
+    },
+    "_StormgateObjectiveSubmerged0": {
+      "attack_target_priority": 10,
+      "based_on": "StormgateObjectiveSubmerged",
+      "buffs": [
+        "Uncontrollable_Buff"
+      ],
+      "flags": {
+        "alert_when_attacked": true,
+        "award_victory_points_to_other_team": false,
+        "detector": false,
+        "display_ui_description": true,
+        "has_prime_structure": false,
+        "hologram": false,
+        "overlap_resource_a": false,
+        "receives_veterancy_from_kills": true,
+        "requires_cascade_field": false,
+        "requires_cascade_field_to_morph": true,
+        "seek_and_destroy": false,
+        "stealth": false,
+        "uncommandable": true,
+        "unselectable": true,
+        "untargetable": true,
+        "victory_expansion": false
+      },
+      "footprint": {
+        "angled": false,
+        "clumpable": false,
+        "snap": true,
+        "unbuildable": false,
+        "vision_block_height": 0,
+        "x": 4.5,
+        "y": 4.5
+      },
+      "id": "_StormgateObjectiveSubmerged0",
+      "placed_name": "StormgateSubmerged1"
+    },
+    "_Wellspring1v0": {
+      "based_on": "Wellspring1v1",
+      "id": "_Wellspring1v0",
+      "vitals_force_hide": true
+    },
+    "_Wellspring1v1": {
+      "based_on": "Wellspring1v1",
+      "id": "_Wellspring1v1",
+      "vitals_force_hide": true
+    },
+    "_Wellspring1v2": {
+      "based_on": "Wellspring1v1",
+      "id": "_Wellspring1v2",
+      "vitals_force_hide": true
+    },
+    "_Wellspring1v3": {
+      "based_on": "Wellspring1v1",
+      "id": "_Wellspring1v3",
+      "vitals_force_hide": true
+    },
+    "_locationMarkerPlayerStart0": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart0",
+      "player_start_group_id": 3
+    },
+    "_locationMarkerPlayerStart1": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart1",
+      "player_start_group_id": 1
+    },
+    "_locationMarkerPlayerStart2": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart2",
+      "player_start_group_id": 2
+    },
+    "_locationMarkerPlayerStart3": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart3",
+      "player_start_group_id": 2
+    },
+    "_locationMarkerPlayerStart4": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart4",
+      "player_start_group_id": 3
+    },
+    "_locationMarkerPlayerStart5": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart5",
+      "player_start_group_id": 1
+    },
+    "_locationMarkerPlayerStart6": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart6",
+      "player_start_group_id": 1
+    },
+    "_locationMarkerPlayerStart7": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart7"
+    }
+  }
+}

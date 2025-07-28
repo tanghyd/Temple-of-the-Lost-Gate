@@ -1,0 +1,73 @@
+﻿{
+  "__base_type": "WeaponData",
+  "ammo": "NoAmmo",
+  "arc": 0.0,
+  "arc_slop": 11.25,
+  "backswing": 1.5,
+  "backswing_locked": -1.0,
+  "based_on": "BaseWeapon",
+  "can_use": "emptyRef",
+  "cannot_fire_while_flocking": 0.5,
+  "display_effect_area": "emptyRef",
+  "display_effect_damage": "FireGiant_Weapon_Damage",
+  "flags": {
+    "always_visualize_range": false,
+    "can_attack_location": false,
+    "channeled": false,
+    "fires_passively": false,
+    "hide_weapon": false,
+    "melee": false,
+    "scan_for_new_targets": false
+  },
+  "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Abilities/UI_Icons_Abilities_FireWave.UI_Icons_Abilities_FireWave'",
+  "id": "FireGiant_Weapon",
+  "name": "pegasus_heroes|WeaponData_name_FireGiant_Weapon",
+  "period": 2.7,
+  "preswing_initial": 0.15,
+  "preswing_repeating": 0.0,
+  "preswing_winddown": 0.0,
+  "random_delay_maximum": 0.09375,
+  "random_delay_minimum": -0.046875,
+  "range_acquire": 7.0,
+  "range_maximum": 3.0,
+  "range_minimum": 0.0,
+  "range_slop": 4.0,
+  "swing": 0.5,
+  "swing_reacquire_range": 0.0,
+  "turret": "emptyRef",
+  "unreal_component": "/Script/Engine.BlueprintGeneratedClass'/Game/Pegasus/Blueprints/EntityComponents/WeaponComponents/AC_Weapon_Generic.AC_Weapon_Generic_C'",
+  "weapon_acquire_filter": {
+    "alliance": {
+      "ally": false,
+      "enemy": true,
+      "neutral": false,
+      "player": false,
+      "self": false
+    },
+    "tags": {
+      "excluded": [
+        "status_sleeping"
+      ],
+      "required": []
+    }
+  },
+  "weapon_fire": "FireGiant_Weapon_Persistent",
+  "weapon_target_filter": {
+    "alliance": {
+      "ally": true,
+      "enemy": true,
+      "neutral": true,
+      "player": true,
+      "self": false
+    },
+    "tags": {
+      "excluded": [
+        "status_invulnerable",
+        "entity_destructible_tree"
+      ],
+      "required": [
+        "heightplane_ground"
+      ]
+    }
+  }
+}

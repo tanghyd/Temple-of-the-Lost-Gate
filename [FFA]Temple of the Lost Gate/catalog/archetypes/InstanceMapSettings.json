@@ -1,0 +1,82 @@
+﻿{
+  "based_on": "DefaultMapSettings",
+  "camera_bounds": {
+    "bottom_offset": 20.0,
+    "left_offset": 20.0,
+    "right_offset": 20.0,
+    "top_offset": 20.0
+  },
+  "description": "Just another Stormgate map",
+  "id": "InstanceMapSettings",
+  "lighting_settings": "DefaultLightingTOD",
+  "map_music": "SoundData_Music_Multiplayer",
+  "playable_bounds": {
+    "bottom_offset": 10,
+    "left_offset": 10,
+    "right_offset": 10,
+    "top_offset": 10
+  },
+  "player_slots": [
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": true,
+          "value": 0
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": true,
+          "value": 1
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": true,
+          "value": 2
+        }
+      }
+    },
+    {
+      "attribute_instance_map_settings": {
+        "additional_overrides": [],
+        "slot_type": {
+          "locked": false,
+          "value": "human"
+        },
+        "team": {
+          "locked": true,
+          "value": 3
+        }
+      }
+    }
+  ],
+  "player_start_style": "Random",
+  "time_of_day": {
+    "dawn_sound": "SoundData_Daybreak",
+    "day_length": 210.0,
+    "dusk_sound": "SoundData_Nightfall",
+    "scale": 1.0,
+    "starting_hour": 6.0
+  },
+  "title": "Temple of the Lost Gate"
+}
