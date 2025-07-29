@@ -1,6 +1,6 @@
 {
   "__base_type": "GlobalVariable",
-  "array_size": 4,
+  "array_size": 8,
   "based_on": "GlobalVariable",
   "id": "TeamStructures",
   "initial_values": [
@@ -11,7 +11,7 @@
         "type": "Function"
     }
   ],
-  "is_array": false,
+  "is_array": true,
   "is_constant": false,
   "name": "",
   "per_element_initial_values": false,

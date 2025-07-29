@@ -248,7 +248,7 @@
                                     ],
                                     "type": "String"
                                   },
-                                  "value": "Resignation"
+                                  "value": "OnStructureKilled_Resignation"
                                 }
                               }
                             ],
@@ -335,7 +335,33 @@
                   "expressions": [
                     {
                       "function": {
-                        "function_id": "UnitGroup_GetUnitsOfPlayer"
+                        "function_id": "UnitGroup_GetUnitsOfPlayer",
+                        "parameters": [
+                          {
+                            "expressions": [
+                              {
+                                "function": {
+                                  "function_id": "Unit_GetOwningPlayer",
+                                  "parameters": [
+                                    {
+                                      "id": "unit",
+                                      "expressions": [
+                                        {
+                                          "type": "Function",
+                                          "function": {
+                                            "function_id": "Unit_GetTriggeringUnit"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "type": "Function"
+                              }
+                            ],
+                            "id": "player"
+                          }
+                        ]
                       },
                       "type": "Function"
                     }
@@ -433,7 +459,33 @@
                   "expressions": [
                     {
                       "function": {
-                        "function_id": "PlayerGroup_GetPlayerAsPlayerGroup"
+                        "function_id": "PlayerGroup_GetPlayerAsPlayerGroup",
+                        "parameters": [
+                          {
+                            "expressions": [
+                              {
+                                "function": {
+                                  "function_id": "Unit_GetOwningPlayer",
+                                  "parameters": [
+                                    {
+                                      "id": "unit",
+                                      "expressions": [
+                                        {
+                                          "type": "Function",
+                                          "function": {
+                                            "function_id": "Unit_GetTriggeringUnit"
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "type": "Function"
+                              }
+                            ],
+                            "id": "player"
+                          }
+                        ]
                       },
                       "type": "Function"
                     }
