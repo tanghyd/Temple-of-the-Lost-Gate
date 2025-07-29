@@ -1,9 +1,8 @@
 ﻿{
   "actions": [
-
     {
       "function_id": "UI_SendChatMessage",
-      "is_enabled": true,
+      "is_enabled": false,
       "parameters": [
         {
           "expressions": [
@@ -14,16 +13,90 @@
                   {
                     "expressions": [
                       {
-                        "type": "Value",
-                        "value": {
-                          "type": {
-                            "directive": "FunctionType",
-                            "tags": [
-                              "to_text"
-                            ],
-                            "type": "String"
-                          },
-                          "value": "OnStructureBirthed"
+                        "type": "Function",
+                        "function": {
+                          "function_id": "String_Concat",
+                          "parameters": [
+                            {
+                              "id": "strings",
+                              "expressions": [
+                                {
+                                  "type": "Value",
+                                  "value": {
+                                    "type": {
+                                      "directive": "FunctionType",
+                                      "tags": [
+                                        "to_text"
+                                      ],
+                                      "type": "String"
+                                    },
+                                    "value": "Team "
+                                  }
+                                },
+                                {
+                                  "function": {
+                                    "function_id": "Math_Arithmetic_Integer",
+                                    "is_enabled": true,
+                                    "parameters": [
+                                      {
+                                        "expressions": [
+                                          {
+                                            "type": "Variable",
+                                            "variable": {
+                                              "variable_id": "triggering_team"
+                                            }
+                                          }
+                                        ],
+                                        "id": "value1"
+                                      },
+                                      {
+                                        "expressions": [
+                                          {
+                                            "preset": {
+                                              "preset_id": "Math_ArithmeticOperator",
+                                              "value_id": "plus"
+                                            },
+                                            "type": "Preset"
+                                          }
+                                        ],
+                                        "id": "op"
+                                      },
+                                      {
+                                        "expressions": [
+                                          {
+                                            "type": "Value",
+                                            "value": {
+                                              "type": {
+                                                "directive": "FunctionType",
+                                                "type": "Integer"
+                                              },
+                                              "value": "1"
+                                            }
+                                          }
+                                        ],
+                                        "id": "value2"
+                                      }
+                                    ],
+                                    "sub_functions": []
+                                  },
+                                  "type": "Function"
+                                },
+                                {
+                                  "type": "Value",
+                                  "value": {
+                                    "type": {
+                                      "directive": "FunctionType",
+                                      "tags": [
+                                        "to_text"
+                                      ],
+                                      "type": "String"
+                                    },
+                                    "value": ": OnStructureBirthed."
+                                  }
+                                }
+                              ]
+                            }
+                          ]
                         }
                       }
                     ],
@@ -61,9 +134,9 @@
                 "variable_id": "TeamStructures",
                 "indices": [
                   {
-                    "type": "Function",
-                    "function": {
-                      "function_id": "Team_GetTriggeringTeam"
+                    "type": "Variable",
+                    "variable": {
+                      "variable_id": "triggering_team"
                     }
                   }
                 ]
@@ -88,33 +161,108 @@
   "based_on": "Trigger",
   "conditions": [
     {
-      "function_id": "Entity_HasAnyTags",
+      "function_id": "Logic_AndOrConditions",
       "parameters": [
         {
           "expressions": [
             {
-              "function": {
-                "function_id": "Unit_GetTriggeringUnit"
+              "preset": {
+                "preset_id": "Logic_AndOrOperator",
+                "value_id": "and"
               },
-              "type": "Function"
+              "type": "Preset"
             }
           ],
-          "id": "who"
-        },
+          "id": "op"
+        }
+      ],
+      "sub_functions": [
         {
-          "expressions": [
+          "id": "conditions",
+          "functions": [
             {
-              "type": "Value",
-              "value": {
-                "type": {
-                  "directive": "TypeRef",
-                  "type": "SnowTag"
+              "function_id": "Entity_HasAnyTags",
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "function": {
+                        "function_id": "Unit_GetTriggeringUnit"
+                      },
+                      "type": "Function"
+                    }
+                  ],
+                  "id": "who"
                 },
-                "value": "preventdefeat_elimination"
-              }
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "TypeRef",
+                          "type": "SnowTag"
+                        },
+                        "value": "preventdefeat_elimination"
+                      }
+                    }
+                  ],
+                  "id": "tags"
+                }
+              ]
+            },
+            {
+              "function_id": "Logic_Comparison",
+              "parameters": [
+                {
+                  "expressions": [
+                    {
+                      "variable": {
+                        "indices": [
+                          {
+                            "type": "Variable",
+                            "variable": {
+                              "variable_id": "triggering_team"
+                            }
+                          }
+                        ],
+                        "variable_id": "TeamsHaveResigned"
+                      },
+                      "type": "Variable"
+                    }
+                  ],
+                  "id": "value1"
+                },
+                {
+                  "expressions": [
+                    {
+                      "preset": {
+                        "preset_id": "Logic_ComparisonOperator",
+                        "value_id": "eq"
+                      },
+                      "type": "Preset"
+                    }
+                  ],
+                  "id": "op"
+                },
+                {
+                  "expressions": [
+                    {
+                      "type": "Value",
+                      "value": {
+                        "type": {
+                          "directive": "FunctionType",
+                          "type": "Boolean"
+                        },
+                        "value": "false"
+                      }
+                    }
+                  ],
+                  "id": "value2"
+                }
+              ]
             }
-          ],
-          "id": "tags"
+          ]
         }
       ]
     }
@@ -124,5 +272,59 @@
       "function_id": "Unit_OnBirthed"
     }
   ],
-  "id": "OnStructureBirthed"
+  "id": "OnStructureBirthed",
+  "variables": [
+    {
+      "array_size": 0,
+      "id": "triggering_team",
+      "initial_values": [
+        {
+          "type": "Function",
+          "function": {
+            "function_id": "Player_GetTeam",
+            "parameters": [
+              {
+                "id": "player",
+                "expressions": [
+                  {
+                    "type": "Function",
+                    "function": {
+                      "function_id": "Unit_GetOwningPlayer",
+                      "parameters": [
+                        {
+                          "id": "unit",
+                          "expressions": [
+                            {
+                              "type": "Function",
+                              "function": {
+                                "function_id": "Unit_GetTriggeringUnit"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "is_array": false,
+      "is_constant": false,
+      "is_id_based_on_name": true,
+      "name": "",
+      "per_element_initial_values": false,
+      "type": {
+        "directive": "FunctionType",
+        "implements": "",
+        "inner_type": "",
+        "param_id": "",
+        "sub_directive": "None",
+        "tags": [],
+        "type": "Integer"
+      }
+    }
+  ]
 }

@@ -7,10 +7,10 @@
   ],
   "game_mode": "Melee",
   "gameplay_level_name": "BasicStartingLevel",
-  "id": "a2594b34-4374-135c-aa06-53afffa578ab",
+  "id": "a2594b34-4374-135c-aa06-53afffa57e57",
   "map_name": "Temple of the Lost Gate FFA",
   "map_tags": [],
   "tile_set_id": "TerrainTileset_LostGate",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "visibility": "Visible"
 }
