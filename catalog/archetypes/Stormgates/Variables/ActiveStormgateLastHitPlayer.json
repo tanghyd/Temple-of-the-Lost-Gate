@@ -1,0 +1,35 @@
+{
+  "__base_type": "GlobalVariable",
+  "array_size": 5,
+  "based_on": "GlobalVariable",
+  "id": "ActiveStormgateLastHitPlayer",
+  "initial_values": [
+    {
+      "type": "Value",
+      "value": {
+        "type": {
+          "directive": "FunctionType",
+          "implements": "",
+          "inner_type": "",
+          "param_id": "",
+          "sub_directive": "None",
+          "type": "Player"
+        },
+        "value": "0"
+      }
+    }
+  ],
+  "is_array": true,
+  "is_constant": false,
+  "name": "Team1StormgateLastHitPlayer",
+  "per_element_initial_values": false,
+  "type": {
+    "directive": "FunctionType",
+    "implements": "",
+    "inner_type": "",
+    "param_id": "",
+    "sub_directive": "None",
+    "tags": [],
+    "type": "Player"
+  }
+}

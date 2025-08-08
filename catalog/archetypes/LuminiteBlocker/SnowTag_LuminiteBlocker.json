@@ -1,0 +1,11 @@
+{
+  "__base_type": "SnowTag",
+  "based_on": "SnowTag",
+  "display_name": "Blocker",
+  "display_name_noun_phrase": "",
+  "flags": {
+    "display_as_attribute": true,
+    "display_as_callout": false
+  },
+  "id": "attribute_luminite_blocker"
+}

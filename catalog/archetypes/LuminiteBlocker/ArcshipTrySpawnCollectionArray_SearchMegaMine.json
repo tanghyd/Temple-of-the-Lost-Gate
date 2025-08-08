@@ -1,0 +1,44 @@
+﻿{
+  "__base_type": "GameEffectSearchRadius",
+  "based_on": "BaseGameEffectSearchRadius",
+  "black_white_list": {
+    "exclude": [],
+    "include": []
+  },
+  "editor_icon": "",
+  "effect_no_target_found ": "emptyRef",
+  "flags": {
+    "target_becomes_instigator": false,
+    "use_search_location_outer_radius": false
+  },
+  "game_effect": "ArcshipTrySpawnCollectionArray_CommandConstruct",
+  "id": "ArcshipTrySpawnCollectionArray_SearchMegaMineStep2",
+  "impact_fx": "",
+  "max_targets": -1,
+  "radius": 15.0,
+  "search_filter": {
+    "alliance": {
+      "ally": true,
+      "enemy": true,
+      "neutral": true,
+      "player": true,
+      "self": true
+    },
+    "tags": {
+      "excluded": [
+        "dead"
+      ],
+      "required": [
+        "entity_resource_generator_a"
+      ]
+    }
+  },
+  "search_location": {
+    "effect_parent": "none",
+    "entity_or_point": "EntityOrPoint",
+    "target": "Target"
+  },
+  "target_sorts": [],
+  "tracker": "",
+  "validator": "emptyRef"
+}

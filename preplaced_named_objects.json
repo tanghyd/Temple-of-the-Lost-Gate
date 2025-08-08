@@ -95,6 +95,15 @@
       -1015808
     ]
   },
+  "02E4A711-4CDE-6C2F-71D5-67A95FC5CEAF": {
+    "facing": 1998352847,
+    "kind": "RichMegaResourceA",
+    "player": 1,
+    "position": [
+      0,
+      -786432
+    ]
+  },
   "032EED29-4DC8-0D41-5D88-668B1D4D54C9": {
     "data": {
       "seed": 21186
@@ -1052,15 +1061,6 @@
       1081344
     ]
   },
-  "1C19C520-4F29-3B70-F49C-55B298ABC07A": {
-    "facing": 2034144272,
-    "kind": "RichMegaResourceA",
-    "player": 0,
-    "position": [
-      -786432,
-      0
-    ]
-  },
   "1C34375C-4030-698C-60D4-21A057164F9E": {
     "data": {
       "seed": 4409
@@ -1293,15 +1293,6 @@
     "position": [
       -802816,
       -770048
-    ]
-  },
-  "21FB6A4F-4F4A-084E-C1AB-3B9C3DDD8DAC": {
-    "facing": 1072237740,
-    "kind": "_ShadowCleft13",
-    "player": 0,
-    "position": [
-      0,
-      -1179648
     ]
   },
   "220AD4A6-4472-1251-D779-AF9B2440DE4E": {
@@ -2342,15 +2333,6 @@
       540672
     ]
   },
-  "42F62830-441D-6422-9C79-D89673BA72A2": {
-    "facing": 1072237680,
-    "kind": "_ShadowCleft13",
-    "player": 0,
-    "position": [
-      1179648,
-      0
-    ]
-  },
   "4308D14F-4E75-4566-BC24-B5A8C4638579": {
     "data": {
       "seed": 17131
@@ -3089,6 +3071,15 @@
       245760
     ]
   },
+  "57319121-4C2D-7318-282F-08A7194D1078": {
+    "facing": 0,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      1179648,
+      0
+    ]
+  },
   "58004C2C-497A-4140-5481-48896C844D3F": {
     "data": {
       "seed": 30053
@@ -3275,15 +3266,6 @@
       -65536
     ]
   },
-  "5FC0D254-4EDF-603E-8E91-798A027B2FE4": {
-    "facing": 1072237680,
-    "kind": "_ShadowCleft13",
-    "player": 0,
-    "position": [
-      -1179648,
-      0
-    ]
-  },
   "6081ED3C-4BCE-F6EE-29BA-A08B03857CFE": {
     "data": {
       "seed": 26303
@@ -3444,6 +3426,15 @@
     "position": [
       -278528,
       -950272
+    ]
+  },
+  "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      0,
+      0
     ]
   },
   "658EBC4C-4E2A-1AE7-4974-BCB673D2FAEE": {
@@ -4107,6 +4098,15 @@
     "position": [
       -163840,
       901120
+    ]
+  },
+  "78D627A3-49B4-DEC3-347A-C59D654AA9AA": {
+    "facing": 0,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      0,
+      -1179648
     ]
   },
   "7A1510F0-4806-B901-C8C3-F3BF45B90AAA": {
@@ -5276,6 +5276,15 @@
       131072
     ]
   },
+  "9E54B167-443D-8AA5-5FD0-279CD8BF3F7B": {
+    "facing": 1998352847,
+    "kind": "RichMegaResourceA",
+    "player": 1,
+    "position": [
+      0,
+      786432
+    ]
+  },
   "9E58010D-4460-612C-9389-F0B5C5D8D1B3": {
     "data": {
       "seed": 5403
@@ -5576,6 +5585,15 @@
       -1228800
     ]
   },
+  "AA259396-4792-A9FA-6ABE-819F91C4A6E2": {
+    "facing": 1998352847,
+    "kind": "RichMegaResourceA",
+    "player": 1,
+    "position": [
+      786432,
+      0
+    ]
+  },
   "AA7EFC73-4D04-67F0-F795-AE8EF15B71C2": {
     "data": {
       "seed": 9636
@@ -5586,6 +5604,15 @@
     "position": [
       -622592,
       458752
+    ]
+  },
+  "AAB03D4C-4924-CABC-5390-A4942803EB6D": {
+    "facing": 0,
+    "kind": "_ShadowCleft13",
+    "player": 0,
+    "position": [
+      -1179648,
+      0
     ]
   },
   "AAC3E942-48E2-35E0-DD0D-E4BB35667115": {
@@ -5964,15 +5991,6 @@
     "position": [
       1310720,
       -32768
-    ]
-  },
-  "B59DAAAD-4C96-C35A-9FA8-48AD7F11595C": {
-    "facing": 1610612764,
-    "kind": "_BossTower_CreepCamp0",
-    "player": 31,
-    "position": [
-      4096,
-      12288
     ]
   },
   "B5A54307-4CBC-9B19-81AB-0093D3953F47": {
@@ -7511,15 +7529,6 @@
       -1310720
     ]
   },
-  "E39B3EE7-4C30-C11D-BDD7-94B1A5BE3939": {
-    "facing": 2034144281,
-    "kind": "RichMegaResourceA",
-    "player": 0,
-    "position": [
-      0,
-      786432
-    ]
-  },
   "E4A03949-454A-394E-1F46-519F97000B9B": {
     "data": {
       "seed": 14124
@@ -7830,6 +7839,15 @@
     "position": [
       311296,
       1048576
+    ]
+  },
+  "EA543ACB-474C-9980-0977-2C87D47EB773": {
+    "facing": 1998352847,
+    "kind": "RichMegaResourceA",
+    "player": 1,
+    "position": [
+      -786432,
+      0
     ]
   },
   "EAA335B8-44B4-3C46-6E68-E8BEBA3402C2": {
@@ -8249,15 +8267,6 @@
       -1228800
     ]
   },
-  "F75E1D41-40D8-A852-EE6C-39AF25D0AC1F": {
-    "facing": 2034144428,
-    "kind": "RichMegaResourceA",
-    "player": 0,
-    "position": [
-      786432,
-      0
-    ]
-  },
   "F79E00B2-4F30-8EC3-2FE3-E5A8320F0D25": {
     "data": {
       "seed": 19969
@@ -8502,15 +8511,6 @@
     "position": [
       -1064960,
       442368
-    ]
-  },
-  "FEFAFC82-448C-AACE-DBC0-7C95955D4512": {
-    "facing": 2034144275,
-    "kind": "RichMegaResourceA",
-    "player": 0,
-    "position": [
-      0,
-      -786432
     ]
   },
   "FF6065DA-4A2D-45E2-A5CF-FB9C2F074E83": {

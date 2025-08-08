@@ -71,6 +71,7 @@
     }
   ],
   "player_start_style": "Random",
+  "tileset": "TerrainTileset_LostGate",
   "time_of_day": {
     "dawn_sound": "SoundData_Daybreak",
     "day_length": 210.0,
@@ -78,5 +79,5 @@
     "scale": 1.0,
     "starting_hour": 6.0
   },
-  "title": "Temple of the Lost Gate"
+  "title": "Test of the Lost Gate"
 }

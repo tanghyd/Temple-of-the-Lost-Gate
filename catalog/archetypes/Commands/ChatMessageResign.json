@@ -2,6 +2,7 @@
   "actions": [
     {
       "function_id": "Game_EndGameForPlayer",
+      "is_enabled": false,
       "parameters": [
         {
           "expressions": [
@@ -42,7 +43,7 @@
     },
     {
       "function_id": "UnitGroup_ForEachUnitInGroup",
-      "is_enabled": true,
+      "is_enabled": false,
       "parameters": [
         {
           "expressions": [
@@ -141,6 +142,7 @@
     },
     {
       "function_id": "Game_SetFogOfWar",
+      "is_enabled": false,
       "parameters": [
         {
           "expressions": [
@@ -169,6 +171,7 @@
     }
   ],
   "based_on": "Trigger",
+  "enabled": false,
   "conditions": [
     {
       "function_id": "Logic_Comparison",
